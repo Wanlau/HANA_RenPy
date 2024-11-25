@@ -1,0 +1,13 @@
+# This file was used to declare how to use these tools,
+# I think it's not so difficult for Chinese developers to get use to them,
+# but still necessary to explain something to foreign developers.
+
+# 1.How to use "krkr2rpy.html"?
+
+-- Open the original script with a supportive editor, copy all things.
+-- Open krkr2rpy.html, then you can see two space used to put texts.
+-- Paste what you just copied into the left one, and click the arrow button.
+-- Then you can see (almost)every original script was translated to ren'py's.
+-- Create a new .rpy script, and paste what you have got into it.
+-- Fix bugs or other problems.
+
