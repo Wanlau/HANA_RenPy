@@ -16,6 +16,8 @@ There are only rpy codes in this repository. To run the game, you should also do
 
 to do
 
+(8/120)
+
 ## EXunlock
 
 The files in EXunlock are tools for unlocking CGs and sences in extra pages.
