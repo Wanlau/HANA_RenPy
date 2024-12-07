@@ -16,7 +16,7 @@ There are only rpy codes in this repository. To run the game, you should also do
 
 to do
 
-(8/120)
+(33/120)
 
 ## EXunlock
 

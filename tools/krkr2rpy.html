@@ -243,7 +243,7 @@ input{
 						result+="#scene black";
 					}
 				}else if(temp=lineTrimed.match(/^#wipe\s+(.)rotate\s+2000/)){//暂时不明
-					//result+= "with "+temp[1]+"r";
+					result+= "with gs_"+temp[1]+"\n";
 					result+=lineTrimed;
 				}else if(temp=lineTrimed.match(/^#wipecancel disabled/)){//暂时不明
 					result+=lineTrimed;

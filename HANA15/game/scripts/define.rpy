@@ -176,9 +176,10 @@ init -2:
     define fade2 = Fade(1.0,0,1.0)
     define clouds = ImageDissolve("images/clouds.png",2,ramplen=256)
 
-
     define windowin = ComposeTransition(dissolve,None,MoveTransition(0.4,enter=d,leave=u,layers=['screens']))
     define windowout = ComposeTransition(dissolve,MoveTransition(0.4,enter=u,leave=d,layers=['screens']))
+
+    image moyan = "images/moyan.png"
 
     image eyecatch01 = ("images/eyecatch01.png")
     image eyecatch02 = ("images/eyecatch02.png")
@@ -1252,29 +1253,220 @@ init -2:
     image yuuna tyu11s2 = "images/chars/tyu11s2.png"
     image yuuna tyu11z = "images/chars/tyu11z.png"
 
-    image ending:
+    image ending01:
         Solid("#FFF")
         alpha 0.0
-        linear 5 alpha 1.0
-        time 10
+        linear 7 alpha 1.0
+        time 9
         "images/sr01.png" with Dissolve(4)
-        time 17.5
-        "images/sr02.png" with Fade(1,1,2,color="#FFF")
-        time 31.5
-        "images/sr03.png" with Fade(1,1,2,color="#FFF")
-        time 44
-        "images/sr04.png" with Fade(1,1,2,color="#FFF")
-        time 56.5
-        "images/sr05.png" with Fade(1,1,2,color="#FFF")
-        time 69
-        "images/sr06.png" with Fade(1,1,2,color="#FFF")
-        time 81.5
-        "images/sr07.png" with Fade(1,1,2,color="#FFF")
-        time 94
-        "images/sr08.png" with Fade(1,1,2,color="#FFF")
-        time 106.5
-        "images/sr09.png" with Fade(1,1,2,color="#FFF")
-        time 125.5
+        time 19
+        "images/sr02_1.png" with Fade(2,1,2,color="#FFF")
+        time 30
+        "images/sr03_1.png" with Fade(2,1,2,color="#FFF")
+        time 41
+        "images/sr04_1.png" with Fade(2,1,2,color="#FFF")
+        time 52
+        "images/sr05_1.png" with Fade(2,1,2,color="#FFF")
+        time 63
+        "images/sr06_1.png" with Fade(2,1,2,color="#FFF")
+        time 74
+        "images/sr07.png" with Fade(2,1,2,color="#FFF")
+        time 85
+        "images/sr08.png" with Fade(2,1,2,color="#FFF")
+        time 96
+        "images/sr11_1.png" with Fade(2,1,2,color="#FFF")
+        time 107
+        "images/sr12_1.png" with Fade(2,1,2,color="#FFF")
+        time 118
+        "images/sr13_1.png" with Fade(2,1,2,color="#FFF")
+        time 129
+        "images/sr14_1.png" with Fade(2,1,2,color="#FFF")
+        time 140
+        "images/sr15_1.png" with Fade(2,1,2,color="#FFF")
+        time 151
+        "images/sr16_1.png" with Fade(2,1,2,color="#FFF")
+        time 162
+        "images/sr17_1.png" with Fade(2,1,2,color="#FFF")
+        time 173
+        "images/sr18_1.png" with Fade(2,1,2,color="#FFF")
+        time 184
+        "images/sr19.png" with Fade(2,1,2,color="#FFF")
+        time 199
         Solid("#FFF") with Dissolve(4)
-        time 131
-        linear 3.0 alpha 0.0
+        time 206
+        linear 5.0 alpha 0.0
+
+
+    image ending02:
+        Solid("#FFF")
+        alpha 0.0
+        linear 7 alpha 1.0
+        time 9
+        "images/sr01.png" with Dissolve(4)
+        time 19
+        "images/sr02_2.png" with Fade(2,1,2,color="#FFF")
+        time 30
+        "images/sr03_2.png" with Fade(2,1,2,color="#FFF")
+        time 41
+        "images/sr04_2.png" with Fade(2,1,2,color="#FFF")
+        time 52
+        "images/sr05_2.png" with Fade(2,1,2,color="#FFF")
+        time 63
+        "images/sr06_2.png" with Fade(2,1,2,color="#FFF")
+        time 74
+        "images/sr07.png" with Fade(2,1,2,color="#FFF")
+        time 85
+        "images/sr08.png" with Fade(2,1,2,color="#FFF")
+        time 96
+        "images/sr11_2.png" with Fade(2,1,2,color="#FFF")
+        time 107
+        "images/sr12_2.png" with Fade(2,1,2,color="#FFF")
+        time 118
+        "images/sr13_2.png" with Fade(2,1,2,color="#FFF")
+        time 129
+        "images/sr14_2.png" with Fade(2,1,2,color="#FFF")
+        time 140
+        "images/sr15_2.png" with Fade(2,1,2,color="#FFF")
+        time 151
+        "images/sr16_2.png" with Fade(2,1,2,color="#FFF")
+        time 162
+        "images/sr17_2.png" with Fade(2,1,2,color="#FFF")
+        time 173
+        "images/sr18_2.png" with Fade(2,1,2,color="#FFF")
+        time 184
+        "images/sr19.png" with Fade(2,1,2,color="#FFF")
+        time 199
+        Solid("#FFF") with Dissolve(4)
+        time 206
+        linear 5.0 alpha 0.0
+
+
+    image ending03:
+        Solid("#FFF")
+        alpha 0.0
+        linear 7 alpha 1.0
+        time 9
+        "images/sr01.png" with Dissolve(4)
+        time 19
+        "images/sr02_3.png" with Fade(2,1,2,color="#FFF")
+        time 30
+        "images/sr03_3.png" with Fade(2,1,2,color="#FFF")
+        time 41
+        "images/sr04_3.png" with Fade(2,1,2,color="#FFF")
+        time 52
+        "images/sr05_3.png" with Fade(2,1,2,color="#FFF")
+        time 63
+        "images/sr06_3.png" with Fade(2,1,2,color="#FFF")
+        time 74
+        "images/sr07.png" with Fade(2,1,2,color="#FFF")
+        time 85
+        "images/sr08.png" with Fade(2,1,2,color="#FFF")
+        time 96
+        "images/sr11_3.png" with Fade(2,1,2,color="#FFF")
+        time 107
+        "images/sr12_3.png" with Fade(2,1,2,color="#FFF")
+        time 118
+        "images/sr13_3.png" with Fade(2,1,2,color="#FFF")
+        time 129
+        "images/sr14_3.png" with Fade(2,1,2,color="#FFF")
+        time 140
+        "images/sr15_3.png" with Fade(2,1,2,color="#FFF")
+        time 151
+        "images/sr16_3.png" with Fade(2,1,2,color="#FFF")
+        time 162
+        "images/sr17_3.png" with Fade(2,1,2,color="#FFF")
+        time 173
+        "images/sr18_3.png" with Fade(2,1,2,color="#FFF")
+        time 184
+        "images/sr19.png" with Fade(2,1,2,color="#FFF")
+        time 199
+        Solid("#FFF") with Dissolve(4)
+        time 206
+        linear 5.0 alpha 0.0
+
+    image ending04:
+        Solid("#FFF")
+        alpha 0.0
+        linear 7 alpha 1.0
+        time 9
+        "images/sr01.png" with Dissolve(4)
+        time 19
+        "images/sr02_4.png" with Fade(2,1,2,color="#FFF")
+        time 30
+        "images/sr03_4.png" with Fade(2,1,2,color="#FFF")
+        time 41
+        "images/sr04_4.png" with Fade(2,1,2,color="#FFF")
+        time 52
+        "images/sr05_4.png" with Fade(2,1,2,color="#FFF")
+        time 63
+        "images/sr06_4.png" with Fade(2,1,2,color="#FFF")
+        time 74
+        "images/sr07.png" with Fade(2,1,2,color="#FFF")
+        time 85
+        "images/sr08.png" with Fade(2,1,2,color="#FFF")
+        time 96
+        "images/sr11_4.png" with Fade(2,1,2,color="#FFF")
+        time 107
+        "images/sr12_4.png" with Fade(2,1,2,color="#FFF")
+        time 118
+        "images/sr13_4.png" with Fade(2,1,2,color="#FFF")
+        time 129
+        "images/sr14_4.png" with Fade(2,1,2,color="#FFF")
+        time 140
+        "images/sr15_4.png" with Fade(2,1,2,color="#FFF")
+        time 151
+        "images/sr16_4.png" with Fade(2,1,2,color="#FFF")
+        time 162
+        "images/sr17_4.png" with Fade(2,1,2,color="#FFF")
+        time 173
+        "images/sr18_4.png" with Fade(2,1,2,color="#FFF")
+        time 184
+        "images/sr19.png" with Fade(2,1,2,color="#FFF")
+        time 199
+        Solid("#FFF") with Dissolve(4)
+        time 206
+        linear 5.0 alpha 0.0
+
+
+    image ending05:
+        Solid("#FFF")
+        alpha 0.0
+        linear 7 alpha 1.0
+        time 9
+        "images/sr01.png" with Dissolve(4)
+        time 19
+        "images/sr02_5.png" with Fade(2,1,2,color="#FFF")
+        time 30
+        "images/sr03_5.png" with Fade(2,1,2,color="#FFF")
+        time 41
+        "images/sr04_5.png" with Fade(2,1,2,color="#FFF")
+        time 52
+        "images/sr05_5.png" with Fade(2,1,2,color="#FFF")
+        time 63
+        "images/sr06_5.png" with Fade(2,1,2,color="#FFF")
+        time 74
+        "images/sr07.png" with Fade(2,1,2,color="#FFF")
+        time 85
+        "images/sr08.png" with Fade(2,1,2,color="#FFF")
+        time 96
+        "images/sr11_5.png" with Fade(2,1,2,color="#FFF")
+        time 107
+        "images/sr12_5.png" with Fade(2,1,2,color="#FFF")
+        time 118
+        "images/sr13_5.png" with Fade(2,1,2,color="#FFF")
+        time 129
+        "images/sr14_5.png" with Fade(2,1,2,color="#FFF")
+        time 140
+        "images/sr15_5.png" with Fade(2,1,2,color="#FFF")
+        time 151
+        "images/sr16_5.png" with Fade(2,1,2,color="#FFF")
+        time 162
+        "images/sr17_5.png" with Fade(2,1,2,color="#FFF")
+        time 173
+        "images/sr18_5.png" with Fade(2,1,2,color="#FFF")
+        time 184
+        "images/sr19.png" with Fade(2,1,2,color="#FFF")
+        time 199
+        Solid("#FFF") with Dissolve(4)
+        time 206
+        linear 5.0 alpha 0.0
