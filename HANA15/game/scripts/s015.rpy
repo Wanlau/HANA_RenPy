@@ -116,7 +116,7 @@ label s015:
 
 
     voice "SARA_0051"
-    sara "「要是能像圣诞节和情人节那时一样让大家都玩得开心就好了〜」"
+    sara "「要是能像圣诞节和情人节那时一样让大家都玩得开心就好了{font=Tuffy-Regular-EN.ttf}♪{/font}」"
 
 
     show kaede tka02s2 at l
@@ -152,7 +152,7 @@ label s015:
 
 
     voice "SARA_0052"
-    sara "「好～不过咖啡店什么的……啊啊、真是想试试看呢〜」"
+    sara "「好～不过咖啡店什么的……啊啊、真是想试试看呢{font=Tuffy-Regular-EN.ttf}♪{/font}」"
 
 
     show kaede tka03s2 at l
@@ -178,7 +178,7 @@ label s015:
 
 
     voice "ERISU_0025"
-    erisu "「就是说啊、Cosplay咖啡店明明是个好点子{image=font}」"
+    erisu "「就是说啊、Cosplay咖啡店明明是个好点子{font=Tuffy-Regular-EN.ttf}♡{/font}」"
 
 
     show kaede tka04s2 at r
@@ -263,7 +263,7 @@ label s015:
 
 
     voice "ERISU_0028"
-    erisu "「不过、其实也还好啦……托雫那完美的笔记的福{image=font}」"
+    erisu "「不过、其实也还好啦……托雫那完美的笔记的福{font=Tuffy-Regular-EN.ttf}♡{/font}」"
 
     hide risa 
     show sizuku tsi08f2 at r
@@ -520,7 +520,7 @@ label s015:
     show reo tre02s2 at r
 
     voice "REO_0083"
-    reo "「巧克力香蕉！虽然只吃过一次，但是甜甜的超级好吃{image=font}那个看起来很好做不是吗？」"
+    reo "「巧克力香蕉！虽然只吃过一次，但是甜甜的超级好吃{font=Tuffy-Regular-EN.ttf}♡{/font}那个看起来很好做不是吗？」"
     "巧克力香蕉？"
     "的确，材料也很少，看起来也很好做。"
 
@@ -834,7 +834,7 @@ label s015:
 
 
     voice "SARA_0056"
-    sara "「不过，其实办的话也挺好的呢〜〜」"
+    sara "「不过，其实办的话也挺好的呢〜{font=Tuffy-Regular-EN.ttf}♪{/font}」"
 
 
     show kaede tka02s2 at l
@@ -1114,7 +1114,7 @@ label s015:
     show yuuna tyu02s2 at l
 
     voice "YUUNA_0045"
-    yuuna "「希望今年夏天也能和七海多多地做爱{image=font}」"
+    yuuna "「希望今年夏天也能和七海多多地做爱{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     voice "NANAMI0142"
     nanami "「不、不行啦，请不要把这种东西挂上去」"
 
@@ -1134,7 +1134,7 @@ label s015:
     show yuuna tyu02s2 at l
 
     voice "YUUNA_0047"
-    yuuna "「就是想被看到呢，想把我们的爱展现给织女殿下和牛郎大人看呢{image=font}」"
+    yuuna "「就是想被看到呢，想把我们的爱展现给织女殿下和牛郎大人看呢{font=Tuffy-Regular-EN.ttf}♡{/font}」"
 
 
     show nanami tna07s2 at r
@@ -1158,7 +1158,7 @@ label s015:
     show yuuna tyu02s2 at l
 
     voice "YUUNA_0049"
-    yuuna "「是吗{image=font}那就不挂了」"
+    yuuna "「是吗{font=Tuffy-Regular-EN.ttf}♡{/font}那就不挂了」"
     voice "NANAMI0146"
     nanami "「啊……」"
     voice "YUUNA_0050"
@@ -1244,13 +1244,13 @@ label s015:
     show sara tsa02f2 at r
 
     voice "SARA_0063"
-    sara "「真是的、说的真好啊、小枫……最喜欢你了{image=font}」"
+    sara "「真是的、说的真好啊、小枫……最喜欢你了{font=Tuffy-Regular-EN.ttf}♡{/font}」"
 
 
     show kaede tka05f2 at l
 
     voice "KAEDE_0044"
-    kaede "「等、等等纱良！摄像机正录着呢，不可以抱过来啊……唔{image=font}」"
+    kaede "「等、等等纱良！摄像机正录着呢，不可以抱过来啊……唔{font=Tuffy-Regular-EN.ttf}♡{/font}」"
 
 
     #**暗転
@@ -1328,7 +1328,7 @@ label s015:
     show mai tma02f2 at l
 
     voice "MAI_0123"
-    mai "「有煎蛋汉堡饼啦、有大份意面啦、还有炸肉块、咖喱奶酪烩菜……最后以超大份多冰刨冰收尾〜」"
+    mai "「有煎蛋汉堡饼啦、有大份意面啦、还有炸肉块、咖喱奶酪烩菜……最后以超大份多冰刨冰收尾{font=Tuffy-Regular-EN.ttf}♪{/font}」"
 
 
     show reo tre03f2 at r
@@ -1336,7 +1336,7 @@ label s015:
     voice "REO_0101"
     reo "「这么多都是我喜欢的东西，我真的可以全部吃掉吗？」"
     voice "MAI_0124"
-    mai "「当然可以喔。就是专门为玲绪做的{image=font}」"
+    mai "「当然可以喔。就是专门为玲绪做的{font=Tuffy-Regular-EN.ttf}♡{/font}」"
 
 
     show reo tre02f2 at r
@@ -1380,7 +1380,7 @@ label s015:
     show mai tma02f2 at l
 
     voice "MAI_0129"
-    mai "「好了、因为今天花了一大笔钱，从明天开始要捂紧钱包过日子\n了。这段时间，就在白饭上随便洒点什么应付吧〜」"
+    mai "「好了、因为今天花了一大笔钱，从明天开始要捂紧钱包过日子\n了。这段时间，就在白饭上随便洒点什么应付吧{font=Tuffy-Regular-EN.ttf}♪{/font}」"
 
 
     show reo tre10f2 at r
@@ -1428,7 +1428,7 @@ label s015:
     voice "SIZUKU0026"
     sizuku "「这是七夕宴」"
     voice "ERISU_0032"
-    erisu "「在挂面上装饰着星形的蔬菜和鸡蛋，Beautiful〜」"
+    erisu "「在挂面上装饰着星形的蔬菜和鸡蛋，Beautiful{font=Tuffy-Regular-EN.ttf}♪{/font}」"
 
 
     show sizuku tsi01f2 at r
@@ -1448,7 +1448,7 @@ label s015:
     show erisu ter02f2 at l
 
     voice "ERISU_0034"
-    erisu "「谢谢你〜、嗯、我第一次过、好开心〜啊、是因为这个所以最近都很早就回家了啊」"
+    erisu "「谢谢你〜、嗯、我第一次过、好开心{font=Tuffy-Regular-EN.ttf}♪{/font}啊、是因为这个所以最近都很早就回家了啊」"
     voice "SIZUKU0029"
     sizuku "「嗯、都是悄悄准备的。六夏同学说到七夕的话题的时候，还在想会不会露陷，心脏一直跳个不停呢」"
 
@@ -1508,13 +1508,13 @@ label s015:
     show erisu ter02f2 at l
 
     voice "ERISU_0042"
-    erisu "「总而言之、今天就尽情地享受七夕吧{image=font}」"
+    erisu "「总而言之、今天就尽情地享受七夕吧{font=Tuffy-Regular-EN.ttf}♡{/font}」"
 
 
     show sizuku tsi02f2 at r
 
     voice "SIZUKU0037"
-    sizuku "「好的、爱丽丝{image=font}」"
+    sizuku "「好的、爱丽丝{font=Tuffy-Regular-EN.ttf}♡{/font}」"
 
 
     #**暗転
@@ -1607,7 +1607,7 @@ label s015:
     show runa tru02s2 at sl
 
     voice "RUNA_0003"
-    unknown "「准备……呼呵呵、老师真讨厌{image=font}」"
+    unknown "「准备……呼呵呵、老师真讨厌{font=Tuffy-Regular-EN.ttf}♡{/font}」"
 
 
     show takako tta03s2 at c
@@ -1730,7 +1730,7 @@ label s015:
     show takako tta02s2 at r
 
     voice "TAKAKO0018"
-    takako "「瑠奈{image=font}」"
+    takako "「瑠奈{font=Tuffy-Regular-EN.ttf}♡{/font}」"
 
 
     show runa tru05s2 at l
@@ -1738,7 +1738,7 @@ label s015:
     voice "RUNA_0013"
     runa "「我只是陪着老师而已。赶紧把装饰品弄好，来吃蛋糕吧」"
     voice "TAKAKO0019"
-    takako "「好……一起来吧、瑠奈{image=font}」"
+    takako "「好……一起来吧、瑠奈{font=Tuffy-Regular-EN.ttf}♡{/font}」"
 
 
     #**暗転
@@ -1893,7 +1893,7 @@ label s015:
     show miya tmi02s2 at l
 
     voice "MIYA_0224"
-    miya "「没有、这就是璃纱啊，很可爱{image=font}」"
+    miya "「没有、这就是璃纱啊，很可爱{font=Tuffy-Regular-EN.ttf}♡{/font}」"
 
 
     show risa tri04s2 at r
@@ -1912,7 +1912,7 @@ label s015:
     voice "RISA_0464"
     risa "「嗯啾……呼……我、我也……这么觉得」"
     voice "MIYA_0226"
-    miya "「啾、啾……那就展现给他们看看吧{image=font}」"
+    miya "「啾、啾……那就展现给他们看看吧{font=Tuffy-Regular-EN.ttf}♡{/font}」"
 
 
     #※EV003
@@ -1922,11 +1922,11 @@ label s015:
 
 
     voice "RISA_0465"
-    risa "「嗯……啾、美夜……{image=font}」"
+    risa "「嗯……啾、美夜……{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     voice "MIYA_0227"
     miya "「璃纱……好可爱、可爱得比任何星星都更闪耀」"
     voice "RISA_0466"
-    risa "「真是的……说这种难为情的话……啊嗯{image=font}」"
+    risa "「真是的……说这种难为情的话……啊嗯{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     "完美的七夕之夜。"
     "我们久违地，从容地享受着甜蜜的时间。"
 

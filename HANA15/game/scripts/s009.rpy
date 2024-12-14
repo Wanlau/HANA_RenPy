@@ -258,7 +258,7 @@ label s009:
     show miya tmi02s2 at l
 
     voice "MIYA_0151"
-    miya "「在游泳池，璃纱也为我做了约定好的走光{image=font}」"
+    miya "「在游泳池，璃纱也为我做了约定好的走光{font=Tuffy-Regular-EN.ttf}♡{/font}」"
 
 
     show risa tri05s2 at r
@@ -317,7 +317,7 @@ label s009:
     voice "MIYA_0156"
     miya "「最近的璃纱……」"
     voice "RISA_0240C"
-    risa "「怎，怎么了？即使是现在也……lalalala〜〜」"
+    risa "「怎，怎么了？即使是现在也……lalalala〜{font=Tuffy-Regular-EN.ttf}♪{/font}」"
     voice "MIYA_0157"
     miya "「这种时候了，还悠闲的唱歌……」"
 
@@ -325,7 +325,7 @@ label s009:
     show risa tri05s2 at r
 
     voice "RISA_0241B"
-    risa "「才不是呢……lalala〜 〜难道不是卿卿我我的日子吗」"
+    risa "「才不是呢……lalala〜 {font=Tuffy-Regular-EN.ttf}♪{/font}难道不是卿卿我我的日子吗」"
     "我们也是卿卿我我的，这样的……用认真的表情绝对说不出来，所以无意中就唱歌了。"
     voice "MIYA_0158"
     miya "「不，不行呢。这样才不是卿卿我我呢」"
@@ -349,7 +349,7 @@ label s009:
 
 
     voice "RISA_0243"
-    risa "「美夜……喜欢喜欢最喜欢了，是世界上最爱的人{image=font}」"
+    risa "「美夜……喜欢喜欢最喜欢了，是世界上最爱的人{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     voice "MIYA_0159"
     miya "「璃纱，谢谢你……但是希望你再多说点呢」"
     voice "RISA_0244"
@@ -476,7 +476,7 @@ label s009:
     show risa tri11s2 at r
 
     voice "RISA_0259"
-    risa "「……嗯，嗯……啾{image=font}」"
+    risa "「……嗯，嗯……啾{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     voice "MIYA_0173"
     miya "「嗯嗯，啊……啾……」"
     "轻轻的触碰，然后离开。"
@@ -495,7 +495,7 @@ label s009:
     show risa tri11s2 at r
 
     voice "RISA_0261"
-    risa "「啾{image=font}」"
+    risa "「啾{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     voice "MIYA_0175"
     miya "「嗯嗯……更多呢」"
     voice "RISA_0262"
@@ -503,7 +503,7 @@ label s009:
     voice "MIYA_0176"
     miya "「还不够……我还很不安呢……」"
     voice "RISA_0263"
-    risa "「明白了呢……嗯啾，啾呜{image=font}」"
+    risa "「明白了呢……嗯啾，啾呜{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     "怎么也结束不了美夜的要求。"
     "与其这么说，不如说在逐步上升中。"
 
@@ -525,7 +525,7 @@ label s009:
     voice "RISA_0265"
     risa "「啾噜，啾哈……啊嗯，已经……不明白这是第几次了呢……哈，哈……嗯啾」"
     voice "MIYA_0179"
-    miya "「啾呜呜……还要，还要呢{image=font}」"
+    miya "「啾呜呜……还要，还要呢{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     "已经不知道是由我，还是由美夜主动做的了。"
     "2个人反复着激烈的亲吻。"
 
@@ -534,7 +534,7 @@ label s009:
     show risa tri05s2 at r
 
     voice "RISA_0266"
-    risa "「啊嗯……美夜，还要亲吻呢{image=font}」"
+    risa "「啊嗯……美夜，还要亲吻呢{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     voice "MIYA_0180"
     miya "「璃纱，真是的……发出那么娇甜的的声音，H呢……我已经是忍耐的极限了呢」"
 
@@ -550,7 +550,7 @@ label s009:
     show risa tri05s2 at r
 
     voice "RISA_0268"
-    risa "「哪有，H，是被美夜强迫的……啊，啊啊嗯……不行{image=font}」"
+    risa "「哪有，H，是被美夜强迫的……啊，啊啊嗯……不行{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     "结果我像平常一样被推倒在沙发上。"
     "像那样，到美夜满足为止，被好好的疼爱了一番。"
 
@@ -562,7 +562,7 @@ label s009:
 
 
     voice "RISA_0269"
-    risa "「啊，哈嗯……真是的，美夜的H……呀啊啊嗯{image=font}{image=font}」"
+    risa "「啊，哈嗯……真是的，美夜的H……呀啊啊嗯{font=Tuffy-Regular-EN.ttf}♡{/font}{font=Tuffy-Regular-EN.ttf}♡{/font}」"
 
 
     #**暗転

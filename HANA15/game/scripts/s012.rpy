@@ -788,7 +788,7 @@ label s012:
     show reo tre02s2 at c 
 
     voice "REO_0055"
-    reo "「你看吧，大家都喜欢点心哟〜」"
+    reo "「你看吧，大家都喜欢点心哟{font=Tuffy-Regular-EN.ttf}♪{/font}」"
     "玲绪大人得意的挺起胸。"
     "不过之后果然还是被麻衣大人骂了『不要得意—』。"
 
@@ -962,7 +962,7 @@ label s012:
 
 
     voice "ERISU_0016"
-    erisu "「当然！我也是这样得到雫的哟{image=font}」"
+    erisu "「当然！我也是这样得到雫的哟{font=Tuffy-Regular-EN.ttf}♡{/font}」"
 
 
     show sizuku tsi05f2 at c 
@@ -970,7 +970,7 @@ label s012:
     voice "SIZUKU0010"
     sizuku "「爱、爱丽丝你真是的」"
     voice "ERISU_0017"
-    erisu "「不是什么害羞的事啊。就这样心意相通之后，我和雫……{image=font}」"
+    erisu "「不是什么害羞的事啊。就这样心意相通之后，我和雫……{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     voice "SIZUKU0011"
     sizuku "「不能再往下说了」"
 
@@ -1088,7 +1088,7 @@ label s012:
 
 
     voice "ERISU_0022"
-    erisu "「那我们回去了。六夏，加油啊〜」"
+    erisu "「那我们回去了。六夏，加油啊{font=Tuffy-Regular-EN.ttf}♪{/font}」"
 
     hide erisu 
     show sizuku tsi01f2

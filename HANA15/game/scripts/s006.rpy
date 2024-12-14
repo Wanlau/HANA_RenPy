@@ -234,9 +234,9 @@ label s006:
     rikka "「那、那个……大家的好意我很感激。如果有什么事的话，请务必帮忙」"
     "展现出平和的微笑。"
     voice "mobJyosiA0017"
-    girl_a "「好、好的{image=font}　在所不辞」"
+    girl_a "「好、好的{font=Tuffy-Regular-EN.ttf}♡{/font}　在所不辞」"
     voice "mobJyosiB0013"
-    girl_b "「嗯、六夏同学{image=font}」"
+    girl_b "「嗯、六夏同学{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     "不知为何，两个人都红着脸离开了我。"
     "虽然能听到『不愧是王子啊』之类的，意义不明的谈话声，但这种事无所谓了。"
 
@@ -369,7 +369,7 @@ label s006:
     voice "RIKKA_0045"
     rikka "「诶！？」"
     voice "mobJyosiC0009"
-    girl_c "「六夏同学，我很期待哦……大赛，请加油〜」"
+    girl_c "「六夏同学，我很期待哦……大赛，请加油{font=Tuffy-Regular-EN.ttf}♪{/font}」"
 
 
     show rikka trk01s2

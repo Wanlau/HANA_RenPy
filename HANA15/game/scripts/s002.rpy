@@ -113,7 +113,7 @@ label s002:
 
 
     voice "RISA_0033"
-    risa "「那个比喻总觉得有点不对……嗯，今天的红茶真好喝{image=font}」"
+    risa "「那个比喻总觉得有点不对……嗯，今天的红茶真好喝{font=Tuffy-Regular-EN.ttf}♡{/font}」"
 
 
     show miya tmi02s2 at l
@@ -126,7 +126,7 @@ label s002:
     show risa tri02s2 at r
 
     voice "RISA_0034"
-    risa "「谢谢……真好闻〜」"
+    risa "「谢谢……真好闻{font=Tuffy-Regular-EN.ttf}♪{/font}」"
     "茶壶里倒入的红茶看上去感觉非常温暖。"
     "放学后一边闲聊一边喝茶的时间，果然很不错。"
     "仿佛今天一天的疲劳全都消散了……"
@@ -179,7 +179,7 @@ label s002:
     risa "「……诶？」"
     "美夜漂亮的脸蛋突然间凑近了。"
     voice "MIYA_0011"
-    miya "「真不愧是我的恋人啊……啾{image=font}」"
+    miya "「真不愧是我的恋人啊……啾{font=Tuffy-Regular-EN.ttf}♡{/font}」"
 
 
     show risa tri04s2 at r
@@ -194,9 +194,9 @@ label s002:
     show risa tri11s2 at r
 
     voice "MIYA_0012"
-    miya "「呵呵……璃纱，好可爱……啾{image=font}」"
+    miya "「呵呵……璃纱，好可爱……啾{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     voice "RISA_0042"
-    risa "「嗯……嗯啾……啾{image=font}」"
+    risa "「嗯……嗯啾……啾{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     "只是感受到美夜甜美的喘息，脑子已经一片空白。"
     "随后，双唇才有些恋恋不舍的分开。"
 
@@ -209,7 +209,7 @@ label s002:
     voice "MIYA_0013"
     miya "「璃纱，很抱歉翘课了……所以，这样就原谅我吧」"
     voice "RISA_0043"
-    risa "「……嗯，真是……太狡猾了……啾{image=font}」"
+    risa "「……嗯，真是……太狡猾了……啾{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     "沉浸在接吻余韵中的我，还想更多的索要美夜……满脸通红地主动吻了上去。"
 
 

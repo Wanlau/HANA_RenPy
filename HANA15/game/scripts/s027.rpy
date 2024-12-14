@@ -89,7 +89,7 @@ label s027:
 
 
     voice "RIKKA_0486"
-    rikka "「嗯，和沙雪同学二人，也一起吃了冰淇淋〜〜」"
+    rikka "「嗯，和沙雪同学二人，也一起吃了冰淇淋〜{font=Tuffy-Regular-EN.ttf}♪{/font}」"
 
 
     show risa tri03f2 at l
@@ -101,7 +101,7 @@ label s027:
     voice "RISA_0736"
     risa "「嗯，嗯……是有沙雪的感觉吧？」"
     voice "RIKKA_0488"
-    rikka "「然后，知道吗？这里，也有水族馆呢。我们两个都买了翻车鱼的钥匙圈〜」"
+    rikka "「然后，知道吗？这里，也有水族馆呢。我们两个都买了翻车鱼的钥匙圈{font=Tuffy-Regular-EN.ttf}♪{/font}」"
     "把放在口袋里的东西，拿给璃纱姐看。"
 
 
@@ -278,7 +278,7 @@ label s027:
     show rikka trk02f2 at sr
 
     voice "RIKKA_0501"
-    rikka "「哪，哪里……我，和沙雪同学般配什么的……嗯呵，嗯呵呵……〜」"
+    rikka "「哪，哪里……我，和沙雪同学般配什么的……嗯呵，嗯呵呵……{font=Tuffy-Regular-EN.ttf}♪{/font}」"
     voice "RISA_0746"
     risa "「……真是的，完全高兴的忘乎所以了呢」"
     voice "MIYA_0376"
@@ -399,7 +399,7 @@ label s027:
     show risa tri02f2 at c
 
     voice "RISA_0755"
-    risa "「啊啦，不好吗，很可爱啊，美夜〜」"
+    risa "「啊啦，不好吗，很可爱啊，美夜{font=Tuffy-Regular-EN.ttf}♪{/font}」"
     voice "MIYA_0386"
     miya "「………………」"
 
@@ -595,7 +595,7 @@ label s027:
 
 
     voice "ERISU_0092"
-    erisu "「六夏，好好的邀请了呢。今晚会变成极妙的夜晚呢〜」"
+    erisu "「六夏，好好的邀请了呢。今晚会变成极妙的夜晚呢{font=Tuffy-Regular-EN.ttf}♪{/font}」"
     voice "SIZUKU0083"
     sizuku "「加油呢。能变成罗曼蒂克的夜晚很不错呢」"
 
@@ -673,7 +673,7 @@ label s027:
 
 
     voice "YUUNA_0136"
-    yuuna "「我们会支援你的呢〜、嗯呵呵{image=font}」"
+    yuuna "「我们会支援你的呢〜、嗯呵呵{font=Tuffy-Regular-EN.ttf}♡{/font}」"
 
     hide yuuna 
     hide mai 

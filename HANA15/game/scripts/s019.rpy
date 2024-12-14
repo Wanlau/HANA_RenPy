@@ -37,7 +37,7 @@ label s019:
     voice "RUNA_0024"
     runa "「嗯哼哼，姐姐大人……要休息到什么时候呢？还是立刻……回去工作？」"
     voice "RENA_0023"
-    rena "「不是，这次是到最后，都打算和大家一起享受哟。当然，也和瑠奈……呢{image=font}」"
+    rena "「不是，这次是到最后，都打算和大家一起享受哟。当然，也和瑠奈……呢{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     voice "RUNA_0025"
     runa "「那是真的吗，姐姐大人！？一直在一起？？」"
     voice "RENA_0024"
@@ -45,7 +45,7 @@ label s019:
     voice "RUNA_0026"
     runa "「才，才没有呢，这个不是撒娇………………对，只是在玩闹而已。让许久没见的姐姐大人，治愈一下」"
     voice "RENA_0025"
-    rena "「嗯哼……感觉像猫一样呢。真的很可爱的小猫……瞧，摸摸头{image=font}」"
+    rena "「嗯哼……感觉像猫一样呢。真的很可爱的小猫……瞧，摸摸头{font=Tuffy-Regular-EN.ttf}♡{/font}」"
 
 
     #※EV005P1
@@ -57,15 +57,15 @@ label s019:
     voice "RUNA_0027"
     runa "「呀，啊嗯，真是的……那里很痒啦，姐姐大人……啊嗯」"
     voice "RENA_0026"
-    rena "「啊啦，是这样吗……瑠奈的性感带，发现一个了呢{image=font}」"
+    rena "「啊啦，是这样吗……瑠奈的性感带，发现一个了呢{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     voice "RUNA_0028"
     runa "「真是的，才不是那样呢，只是很痒而已啦……唔，那里不行」"
     voice "RENA_0027"
-    rena "「之后也必须，告诉贵子呢……哼哼{image=font}」"
+    rena "「之后也必须，告诉贵子呢……哼哼{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     voice "RUNA_0029"
     runa "「那不行，不能说……哈啊，没力气了……咕」"
     voice "RENA_0028"
-    rena "「真是，可爱呢……瑠奈，嗯哼哼{image=font}」"
+    rena "「真是，可爱呢……瑠奈，嗯哼哼{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     voice "RISA_0607"
     risa "「啊啊………………总觉得看见了不得了的东西」"
     "一直装成大人的样子……不是，像大人一样的瑠奈酱，在那个丽奈老师面前也会变得像小猫呢。"
@@ -182,7 +182,7 @@ label s019:
 
 
     voice "RENA_0030"
-    rena "「贵子，再来一杯〜〜」"
+    rena "「贵子，再来一杯〜{font=Tuffy-Regular-EN.ttf}♪{/font}」"
 
 
     show rena trn02f2 at l
@@ -217,7 +217,7 @@ label s019:
     show runa tru02f2 at sl
 
     voice "RUNA_0032"
-    runa "「呼呼呼{image=font}」"
+    runa "「呼呼呼{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     "瑠奈同学缠着姐姐，『快理理我』气场全开。"
 
     hide runa 
@@ -280,7 +280,7 @@ label s019:
     show sara tsa02f2 at sl
 
     voice "SARA_0083"
-    sara "「嗯嗯，非常好吃呢{image=font}」"
+    sara "「嗯嗯，非常好吃呢{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     "肉和蔬菜，都用炭火烤得正好，非常好吃呢。"
 
 
@@ -471,13 +471,13 @@ label s019:
     voice "KAEDE_0054"
     kaede "「谢，谢谢。但是……好害羞」"
     voice "SARA_0085"
-    sara "「就是那样〜。小枫的歌的宣传，在nicori动画上点击率迅速上升哟ー」"
+    sara "「就是那样{font=Tuffy-Regular-EN.ttf}♪{/font}。小枫的歌的宣传，在nicori动画上点击率迅速上升哟ー」"
     voice "KAEDE_0055"
     kaede "「纱，纱良……真是的」"
     voice "RENA_0037"
     rena "「我明白呢〜，做教师的时候开始，就觉得枫同学是只要磨了就会发光的原石」"
     voice "SARA_0086"
-    sara "「是这样呢{image=font}」"
+    sara "「是这样呢{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     voice "KAEDE_0056"
     kaede "「2个人都住口……呜呜」"
     "这次，是枫大人变害羞了。"
@@ -744,7 +744,7 @@ label s019:
     show miya tmi02f2 at sl
 
     voice "MIYA_0307"
-    miya "「是的……就如丽奈老师说的一样呢{image=font}」"
+    miya "「是的……就如丽奈老师说的一样呢{font=Tuffy-Regular-EN.ttf}♡{/font}」"
 
 
     show rena trn02f2 at sr
@@ -921,7 +921,7 @@ label s019:
 
 
     voice "SARA_0091"
-    sara "「……哦，发现了〜〜」"
+    sara "「……哦，发现了〜{font=Tuffy-Regular-EN.ttf}♪{/font}」"
 
 
     show sara tsa02f2 at l

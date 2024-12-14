@@ -236,7 +236,7 @@ label s014:
     show risa tri02s2 at l
 
     voice "RISA_0382"
-    risa "「嗯嗯、六夏的性格大改造〜我会严厉地锻炼你的」"
+    risa "「嗯嗯、六夏的性格大改造{font=Tuffy-Regular-EN.ttf}♪{/font}我会严厉地锻炼你的」"
     voice "RIKKA_0261"
     rikka "「诶诶诶诶〜」"
     "从那天开始，我不容分说地开始了对六夏的特训。"
@@ -996,10 +996,10 @@ label s014:
     miya "「请尽情地感激我吧。我可是特地为了考试做了笔记呢」"
     "我对并不在场的璃纱有话想说，不，有话想要大喊出来。"
     voice "MIYA_0204"
-    miya "「璃纱……比起六夏，我可是为你考虑的多得多呢、呵呵{image=font}」"
+    miya "「璃纱……比起六夏，我可是为你考虑的多得多呢、呵呵{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     "沉溺于我的爱，尽早回头吧。"
     voice "MIYA_0205"
-    miya "「快点回来吧……回到只属于我的璃纱吧……请回来吧{image=font}」"
+    miya "「快点回来吧……回到只属于我的璃纱吧……请回来吧{font=Tuffy-Regular-EN.ttf}♡{/font}」"
 
 
     #**暗転

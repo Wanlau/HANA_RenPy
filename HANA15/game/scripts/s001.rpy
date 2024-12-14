@@ -212,7 +212,7 @@ label s001:
     voice "mobJyosiB0000"
     girl_b "「嗯，当然了，在一年级学生里早已人尽皆知了吧」"
     voice "mobJyosiA0002"
-    girl_a "「圣诞节、情人节……举行了超棒的庆典，都变成传说了~」"
+    girl_a "「圣诞节、情人节……举行了超棒的庆典，都变成传说了{font=Tuffy-Regular-EN.ttf}♪{/font}」"
 
 
 

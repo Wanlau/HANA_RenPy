@@ -54,7 +54,7 @@ label s025:
     show erisu ter02m at l
 
     voice "ERISU_0089"
-    erisu "「呵呵呵，抓住你了雫{image=font}」"
+    erisu "「呵呵呵，抓住你了雫{font=Tuffy-Regular-EN.ttf}♡{/font}」"
 
 
     show sizuku tsi05m at r
@@ -62,7 +62,7 @@ label s025:
     voice "SIZUKU0081"
     sizuku "「这，这种场合下是不可以拥抱的」"
     voice "ERISU_0090"
-    erisu "「没事的，谁也没在看嘛〜〜」"
+    erisu "「没事的，谁也没在看嘛〜{font=Tuffy-Regular-EN.ttf}♪{/font}」"
     voice "SIZUKU0082"
     sizuku "「在看的啊——」"
 
@@ -491,7 +491,7 @@ label select04_end:
     show risa tri02m at l
 
     voice "RISA_0727"
-    risa "「……嗯嗯，非常幸福哟{image=font}」"
+    risa "「……嗯嗯，非常幸福哟{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     "那不是可靠姐姐的表情，而是恋爱中的少女的表情。"
 
 

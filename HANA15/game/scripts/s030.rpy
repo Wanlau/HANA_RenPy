@@ -62,7 +62,7 @@ label s030:
 
 
     voice "YUUNA_0138"
-    yuuna "「这个水果宾治里，放了很多七海你喜欢的草莓哦。我给你盛来哦〜〜」"
+    yuuna "「这个水果宾治里，放了很多七海你喜欢的草莓哦。我给你盛来哦〜{font=Tuffy-Regular-EN.ttf}♪{/font}」"
 
 
     show yuuna tyu02m at l
@@ -98,7 +98,7 @@ label s030:
     show sara tsa02m at r
 
     voice "SARA_0143"
-    sara "「如果我醉了，小枫你要好好照顾我哦{image=font}」"
+    sara "「如果我醉了，小枫你要好好照顾我哦{font=Tuffy-Regular-EN.ttf}♡{/font}」"
 
 
     show kaede tka04m at l
@@ -114,7 +114,7 @@ label s030:
 
 
     voice "YUUNA_0139"
-    yuuna "「我也会照顾七海，给你做这样那样的事情的，你可以放心喝很多哦{image=font}」"
+    yuuna "「我也会照顾七海，给你做这样那样的事情的，你可以放心喝很多哦{font=Tuffy-Regular-EN.ttf}♡{/font}」"
 
 
     show yuuna tyu02m at l
@@ -292,7 +292,7 @@ label s030:
     show rena trn02m at l
 
     voice "RENA_0078"
-    rena "「那就是啊……在这个岛上相传的，情侣的传说哦〜」"
+    rena "「那就是啊……在这个岛上相传的，情侣的传说哦{font=Tuffy-Regular-EN.ttf}♪{/font}」"
 
     hide rena 
     hide sara 
@@ -333,7 +333,7 @@ label s030:
 
 
     voice "RENA_0080"
-    rena "「那么，大家都来，试试看吧〜{image=font}」"
+    rena "「那么，大家都来，试试看吧〜{font=Tuffy-Regular-EN.ttf}♡{/font}」"
 
     hide rena 
     show rikka trk04m
@@ -380,7 +380,7 @@ label s030:
 
 
     voice "MIYA_0395"
-    miya "「嗯嗯{image=font}」"
+    miya "「嗯嗯{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     "璃纱姐牵起了美夜大人的手，走到大家的面前。"
 
     hide miya 
@@ -456,7 +456,7 @@ label s030:
     voice "MIYA_0400"
     miya "「喜欢你，璃纱……啾」"
     voice "RISA_0791"
-    risa "「嗯嗯，美夜……啾{image=font}」"
+    risa "「嗯嗯，美夜……啾{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     "在大家，以及在我的面前，她们开始深吻起来。"
     "欢呼声再次响起。"
 
@@ -478,7 +478,7 @@ label s030:
 
 
     voice "RENA_0081"
-    rena "「来，大家就接在这两人后面，自由地进行爱的告白吧{image=font}」"
+    rena "「来，大家就接在这两人后面，自由地进行爱的告白吧{font=Tuffy-Regular-EN.ttf}♡{/font}」"
 
     hide rena 
     show rikka trk04m
@@ -512,14 +512,14 @@ label s030:
     show yuuna tyu02m at l
 
     voice "YUUNA_0142"
-    yuuna "「呵呵呵，真可爱……啾{image=font}」"
+    yuuna "「呵呵呵，真可爱……啾{font=Tuffy-Regular-EN.ttf}♡{/font}」"
 
 
     show yuuna tyu11m at l
     show nanami tna11m at r
 
     voice "NANAMI0253"
-    nanami "「嗯嗯{image=font}啾……咕嗯{image=font}」"
+    nanami "「嗯嗯{font=Tuffy-Regular-EN.ttf}♡{/font}啾……咕嗯{font=Tuffy-Regular-EN.ttf}♡{/font}」"
 
     hide yuuna 
     hide nanami 
@@ -536,20 +536,20 @@ label s030:
     show sara tsa02m at r
 
     voice "SARA_0145"
-    sara "「啊啊，小枫，太帅气了{image=font}纱良也会保护小枫的。然后就永远永\n远，和小枫在一起……喜欢了，小枫{image=font}」"
+    sara "「啊啊，小枫，太帅气了{font=Tuffy-Regular-EN.ttf}♡{/font}纱良也会保护小枫的。然后就永远永\n远，和小枫在一起……喜欢了，小枫{font=Tuffy-Regular-EN.ttf}♡{/font}」"
 
 
     show kaede tka04m at l
 
     voice "KAEDE_0117"
-    kaede "「等，等一下，突然飞扑过来什么的，太危险了……嗯{image=font}」"
+    kaede "「等，等一下，突然飞扑过来什么的，太危险了……嗯{font=Tuffy-Regular-EN.ttf}♡{/font}」"
 
 
     show kaede tka11m at l
     show sara tsa11m at r
 
     voice "SARA_0146"
-    sara "「小～枫，啾，啾{image=font}」"
+    sara "「小～枫，啾，啾{font=Tuffy-Regular-EN.ttf}♡{/font}」"
 
     hide kaede 
     hide sara 
@@ -560,7 +560,7 @@ label s030:
 
 
     voice "MAI_0225"
-    mai "「大家，都好厉害啊。怎样怎样，我们也……玲绪，最喜欢你{image=font}」"
+    mai "「大家，都好厉害啊。怎样怎样，我们也……玲绪，最喜欢你{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     voice "REO_0173"
     reo "「………………」"
 
@@ -576,7 +576,7 @@ label s030:
     show mai tma02m at l
 
     voice "MAI_0227"
-    mai "「就算到了这个时候，也还能保持傲娇属性真是太厉害了。这种地方也很可爱〜，最喜欢了{image=font}」"
+    mai "「就算到了这个时候，也还能保持傲娇属性真是太厉害了。这种地方也很可爱〜，最喜欢了{font=Tuffy-Regular-EN.ttf}♡{/font}」"
 
 
     show reo tre09m at r
@@ -588,13 +588,13 @@ label s030:
     show mai tma11m at l
 
     voice "MAI_0228"
-    mai "「嗯哼哼哼……啾{image=font}」"
+    mai "「嗯哼哼哼……啾{font=Tuffy-Regular-EN.ttf}♡{/font}」"
 
 
     show reo tre11m at r
 
     voice "REO_0176"
-    reo "「啊……呼……啾{image=font}」"
+    reo "「啊……呼……啾{font=Tuffy-Regular-EN.ttf}♡{/font}」"
 
     hide mai 
     hide reo 
@@ -674,7 +674,7 @@ label select06_1:
 
 
     voice "MIYA_0401"
-    miya "「嗯嗯{image=font}」"
+    miya "「嗯嗯{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     "璃纱姐牵起了美夜大人的手，走到大家的面前。"
 
     hide miya 
@@ -750,7 +750,7 @@ label select06_1:
     voice "MIYA_0406"
     miya "「喜欢你，璃纱……啾」"
     voice "RISA_0797"
-    risa "「嗯嗯，美夜……啾{image=font}」"
+    risa "「嗯嗯，美夜……啾{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     "在大家，以及在我的面前，她们开始深吻起来。"
     "欢呼声再次响起。"
 
@@ -772,7 +772,7 @@ label select06_1:
 
 
     voice "RENA_0082"
-    rena "「来，大家就接在这两人后面，自由地进行爱的告白吧{image=font}」"
+    rena "「来，大家就接在这两人后面，自由地进行爱的告白吧{font=Tuffy-Regular-EN.ttf}♡{/font}」"
 
     hide rena 
     show rikka trk04m
@@ -799,9 +799,9 @@ label select06_1:
 
 
     voice "YUUNA_0143"
-    yuuna "「七海……永远，永远，喜欢你……从今往后，好吗。啾{image=font}」"
+    yuuna "「七海……永远，永远，喜欢你……从今往后，好吗。啾{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     voice "NANAMI0254"
-    nanami "「啾{image=font}　优菜姐姐大人，我也永远，爱着姐姐大人{image=font}」"
+    nanami "「啾{font=Tuffy-Regular-EN.ttf}♡{/font}　优菜姐姐大人，我也永远，爱着姐姐大人{font=Tuffy-Regular-EN.ttf}♡{/font}」"
 
 
     hide yuuna 
@@ -819,9 +819,9 @@ label select06_1:
 
 
     voice "SARA_0147"
-    sara "「小枫，喜欢你，很喜欢你{image=font}啾{image=font}」"
+    sara "「小枫，喜欢你，很喜欢你{font=Tuffy-Regular-EN.ttf}♡{/font}啾{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     voice "KAEDE_0118"
-    kaede "「等……纱良你真是的……但是，喜欢你哦……啾{image=font}」"
+    kaede "「等……纱良你真是的……但是，喜欢你哦……啾{font=Tuffy-Regular-EN.ttf}♡{/font}」"
 
     hide kaede 
     hide sara 
@@ -845,7 +845,7 @@ label select06_1:
     show reo tre11m at r
 
     voice "REO_0177"
-    reo "「真是的……不过，真的会困扰的……我知道了啦，嗯……啾{image=font}」"
+    reo "「真是的……不过，真的会困扰的……我知道了啦，嗯……啾{font=Tuffy-Regular-EN.ttf}♡{/font}」"
 
     hide mai 
     hide reo 
@@ -890,7 +890,7 @@ label select06_2:
 
 
     voice "RENA_0083"
-    rena "「来，自由地进行爱的告白吧{image=font}第一个做到的情侣，说不定能最幸福？嗯哼哼{image=font}」"
+    rena "「来，自由地进行爱的告白吧{font=Tuffy-Regular-EN.ttf}♡{/font}第一个做到的情侣，说不定能最幸福？嗯哼哼{font=Tuffy-Regular-EN.ttf}♡{/font}」"
 
 
     hide rena 
@@ -916,14 +916,14 @@ label select06_2:
     show yuuna tyu02m at l
 
     voice "YUUNA_0145"
-    yuuna "「呵呵呵，真可爱……啾{image=font}」"
+    yuuna "「呵呵呵，真可爱……啾{font=Tuffy-Regular-EN.ttf}♡{/font}」"
 
 
     show yuuna tyu11m at l
     show nanami tna11m at r
 
     voice "NANAMI0256"
-    nanami "「嗯嗯{image=font}　啾……咕嗯{image=font}」"
+    nanami "「嗯嗯{font=Tuffy-Regular-EN.ttf}♡{/font}　啾……咕嗯{font=Tuffy-Regular-EN.ttf}♡{/font}」"
 
     hide yuuna 
     hide nanami 
@@ -944,9 +944,9 @@ label select06_2:
 
 
     voice "SARA_0148"
-    sara "「小枫，喜欢你，很喜欢你{image=font}　啾{image=font}」"
+    sara "「小枫，喜欢你，很喜欢你{font=Tuffy-Regular-EN.ttf}♡{/font}　啾{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     voice "KAEDE_0119"
-    kaede "「等……纱良你真是的……但是，喜欢你哦……啾{image=font}」"
+    kaede "「等……纱良你真是的……但是，喜欢你哦……啾{font=Tuffy-Regular-EN.ttf}♡{/font}」"
 
     hide kaede 
     hide sara 
@@ -964,7 +964,7 @@ label select06_2:
     show reo tre11m at r
 
     voice "REO_0178"
-    reo "「真是的……不过，真的会困扰的……我知道了啦，嗯……啾{image=font}」"
+    reo "「真是的……不过，真的会困扰的……我知道了啦，嗯……啾{font=Tuffy-Regular-EN.ttf}♡{/font}」"
 
     hide mai 
     hide reo 
@@ -975,14 +975,14 @@ label select06_2:
 
 
     voice "RISA_0798"
-    risa "「六夏，你好好看着………………美夜，喜欢你……吻我{image=font}」"
+    risa "「六夏，你好好看着………………美夜，喜欢你……吻我{font=Tuffy-Regular-EN.ttf}♡{/font}」"
 
 
     show miya tmi11m at l
     show risa tri11m at r
 
     voice "MIYA_0407"
-    miya "「能在大家的面前告白……我很高兴，璃纱……嗯，啾{image=font}」"
+    miya "「能在大家的面前告白……我很高兴，璃纱……嗯，啾{font=Tuffy-Regular-EN.ttf}♡{/font}」"
 
     hide miya 
     hide risa 
@@ -1027,7 +1027,7 @@ label select06_3:
 
 
     voice "RENA_0084"
-    rena "「来，自由地进行爱的告白吧{image=font}第一个做到的情侣，说不定能最幸福？嗯哼哼{image=font}」"
+    rena "「来，自由地进行爱的告白吧{font=Tuffy-Regular-EN.ttf}♡{/font}第一个做到的情侣，说不定能最幸福？嗯哼哼{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     "这么说了之后，走到前面来的人……是纱良大人，和枫大人。"
 
     hide rena 
@@ -1044,7 +1044,7 @@ label select06_3:
     show sara tsa02m at r
 
     voice "SARA_0149"
-    sara "「啊啊，小枫，太帅气了{image=font}纱良也会保护小枫的。然后就永远永\n远，和小枫在一起……最喜欢了，小枫{image=font}」"
+    sara "「啊啊，小枫，太帅气了{font=Tuffy-Regular-EN.ttf}♡{/font}纱良也会保护小枫的。然后就永远永\n远，和小枫在一起……最喜欢了，小枫{font=Tuffy-Regular-EN.ttf}♡{/font}」"
 
 
     show kaede tka04m at l
@@ -1057,7 +1057,7 @@ label select06_3:
     show sara tsa11m at r
 
     voice "SARA_0150"
-    sara "「小～枫，啾，啾{image=font}」"
+    sara "「小～枫，啾，啾{font=Tuffy-Regular-EN.ttf}♡{/font}」"
 
     hide kaede 
     hide sara 
@@ -1078,14 +1078,14 @@ label select06_3:
 
 
     voice "YUUNA_0146"
-    yuuna "「七海……永远，永远，喜欢你……从今往后，好吗。啾{image=font}」"
+    yuuna "「七海……永远，永远，喜欢你……从今往后，好吗。啾{font=Tuffy-Regular-EN.ttf}♡{/font}」"
 
 
     show yuuna tyu11m at l
     show nanami tna11m at r
 
     voice "NANAMI0257"
-    nanami "「啾{image=font}　优菜姐姐大人，我也永远，爱着姐姐大人{image=font}」"
+    nanami "「啾{font=Tuffy-Regular-EN.ttf}♡{/font}　优菜姐姐大人，我也永远，爱着姐姐大人{font=Tuffy-Regular-EN.ttf}♡{/font}」"
 
     hide yuuna 
     hide nanami 
@@ -1103,7 +1103,7 @@ label select06_3:
     show reo tre11m at r
 
     voice "REO_0179"
-    reo "「真是的……不过，真的会困扰的……我知道了啦，嗯……啾{image=font}」"
+    reo "「真是的……不过，真的会困扰的……我知道了啦，嗯……啾{font=Tuffy-Regular-EN.ttf}♡{/font}」"
 
     hide mai 
     hide reo 
@@ -1114,14 +1114,14 @@ label select06_3:
 
 
     voice "RISA_0799"
-    risa "「六夏，你好好看着………………美夜，喜欢你……吻我{image=font}」"
+    risa "「六夏，你好好看着………………美夜，喜欢你……吻我{font=Tuffy-Regular-EN.ttf}♡{/font}」"
 
 
     show miya tmi11m at l
     show risa tri11m at r
 
     voice "MIYA_0408"
-    miya "「能在大家的面前告白……我很高兴，璃纱……嗯，啾{image=font}」"
+    miya "「能在大家的面前告白……我很高兴，璃纱……嗯，啾{font=Tuffy-Regular-EN.ttf}♡{/font}」"
 
     hide miya 
     hide risa 
@@ -1167,7 +1167,7 @@ label select06_4:
 
 
     voice "RENA_0085A"
-    rena "「来，自由地进行爱的告白吧{image=font}　第一个做到的情侣，说不定能最幸福？　嗯哼哼{image=font}」"
+    rena "「来，自由地进行爱的告白吧{font=Tuffy-Regular-EN.ttf}♡{/font}　第一个做到的情侣，说不定能最幸福？　嗯哼哼{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     "这么说了之后，走到前面来的人……是玲绪大人，和麻衣大人。"
 
     hide rena 
@@ -1178,7 +1178,7 @@ label select06_4:
 
 
     voice "MAI_0232"
-    mai "「那么，第一对就是我们了呢……玲绪，最喜欢你{image=font}」"
+    mai "「那么，第一对就是我们了呢……玲绪，最喜欢你{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     voice "REO_0180"
     reo "「………………」"
 
@@ -1194,7 +1194,7 @@ label select06_4:
     show mai tma02m at l
 
     voice "MAI_0234"
-    mai "「就算到了这个时候，也还能保持傲娇属性真是太厉害了。这种地方也很可爱〜，最喜欢了{image=font}」"
+    mai "「就算到了这个时候，也还能保持傲娇属性真是太厉害了。这种地方也很可爱〜，最喜欢了{font=Tuffy-Regular-EN.ttf}♡{/font}」"
 
 
     show reo tre09m at r
@@ -1206,13 +1206,13 @@ label select06_4:
     show mai tma11m at l
 
     voice "MAI_0235"
-    mai "「嗯哼哼哼……啾{image=font}」"
+    mai "「嗯哼哼哼……啾{font=Tuffy-Regular-EN.ttf}♡{/font}」"
 
 
     show reo tre11m at r
 
     voice "REO_0183"
-    reo "「啊……呼……啾{image=font}」"
+    reo "「啊……呼……啾{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     "在那之后，七海大人和优菜大人，纱良大人和枫大人，璃纱姐和美夜大人，都出现在了前面。"
 
     hide reo 
@@ -1224,14 +1224,14 @@ label select06_4:
 
 
     voice "YUUNA_0147"
-    yuuna "「七海……永远，永远，喜欢你……从今往后，好吗。啾{image=font}」"
+    yuuna "「七海……永远，永远，喜欢你……从今往后，好吗。啾{font=Tuffy-Regular-EN.ttf}♡{/font}」"
 
 
     show yuuna tyu11m at l
     show nanami tna11m at r
 
     voice "NANAMI0258"
-    nanami "「啾{image=font}　优菜姐姐大人，我也永远，爱着姐姐大人{image=font}」"
+    nanami "「啾{font=Tuffy-Regular-EN.ttf}♡{/font}　优菜姐姐大人，我也永远，爱着姐姐大人{font=Tuffy-Regular-EN.ttf}♡{/font}」"
 
     hide yuuna 
     hide nanami 
@@ -1242,14 +1242,14 @@ label select06_4:
 
 
     voice "SARA_0151"
-    sara "「小枫，喜欢你，很喜欢你{image=font}　啾{image=font}」"
+    sara "「小枫，喜欢你，很喜欢你{font=Tuffy-Regular-EN.ttf}♡{/font}　啾{font=Tuffy-Regular-EN.ttf}♡{/font}」"
 
 
     show kaede tka11m at l
     show sara tsa11m at r
 
     voice "KAEDE_0122"
-    kaede "「等……纱良你真是的……但是，喜欢你哦……啾{image=font}」"
+    kaede "「等……纱良你真是的……但是，喜欢你哦……啾{font=Tuffy-Regular-EN.ttf}♡{/font}」"
 
     hide kaede 
     hide sara 
@@ -1260,14 +1260,14 @@ label select06_4:
 
 
     voice "RISA_0800"
-    risa "「六夏，你好好看着………………美夜，喜欢你……吻我{image=font}」"
+    risa "「六夏，你好好看着………………美夜，喜欢你……吻我{font=Tuffy-Regular-EN.ttf}♡{/font}」"
 
 
     show miya tmi11m at l
     show risa tri11m at r
 
     voice "MIYA_0409"
-    miya "「能在大家的面前告白……我很高兴，璃纱……嗯，啾{image=font}」"
+    miya "「能在大家的面前告白……我很高兴，璃纱……嗯，啾{font=Tuffy-Regular-EN.ttf}♡{/font}」"
 
     hide miya 
     hide risa 
@@ -1324,18 +1324,18 @@ label select06_5:
 
 
     voice "MIYA_0410"
-    miya "「诶诶{image=font}」"
+    miya "「诶诶{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     "璃纱姐和美夜大人一边默默地看着我，一边一起走到了前面。"
     "不止如此，连七海大人和优菜大人，纱良大人和枫大人，玲绪大人和麻衣大人都……"
     voice "RISA_0802"
-    risa "「六夏，你好好看着………………美夜，喜欢你……吻我{image=font}」"
+    risa "「六夏，你好好看着………………美夜，喜欢你……吻我{font=Tuffy-Regular-EN.ttf}♡{/font}」"
 
 
     show miya tmi11m at l
     show risa tri11m at r
 
     voice "MIYA_0411"
-    miya "「能在大家的面前告白……我很高兴，璃纱……嗯，啾{image=font}」"
+    miya "「能在大家的面前告白……我很高兴，璃纱……嗯，啾{font=Tuffy-Regular-EN.ttf}♡{/font}」"
 
     hide miya 
     hide risa 
@@ -1346,14 +1346,14 @@ label select06_5:
 
 
     voice "YUUNA_0148"
-    yuuna "「七海……永远，永远，喜欢你……从今往后，好吗。啾{image=font}」"
+    yuuna "「七海……永远，永远，喜欢你……从今往后，好吗。啾{font=Tuffy-Regular-EN.ttf}♡{/font}」"
 
 
     show yuuna tyu11m at l
     show nanami tna11m at r
 
     voice "NANAMI0259"
-    nanami "「啾{image=font}　优菜姐姐大人，我也永远，爱着姐姐大人{image=font}」"
+    nanami "「啾{font=Tuffy-Regular-EN.ttf}♡{/font}　优菜姐姐大人，我也永远，爱着姐姐大人{font=Tuffy-Regular-EN.ttf}♡{/font}」"
 
     hide yuuna 
     hide nanami 
@@ -1364,14 +1364,14 @@ label select06_5:
 
 
     voice "SARA_0152"
-    sara "「小枫，喜欢你，很喜欢你{image=font}　啾{image=font}」"
+    sara "「小枫，喜欢你，很喜欢你{font=Tuffy-Regular-EN.ttf}♡{/font}　啾{font=Tuffy-Regular-EN.ttf}♡{/font}」"
 
 
     show kaede tka11m at l
     show sara tsa11m at r
 
     voice "KAEDE_0123"
-    kaede "「等……纱良你真是的……但是，喜欢你哦……啾{image=font}」"
+    kaede "「等……纱良你真是的……但是，喜欢你哦……啾{font=Tuffy-Regular-EN.ttf}♡{/font}」"
 
     hide kaede 
     hide sara 
@@ -1389,7 +1389,7 @@ label select06_5:
     show reo tre11m at r
 
     voice "REO_0184"
-    reo "「真是的……不过，真的会困扰的……我知道了啦，嗯……啾{image=font}」"
+    reo "「真是的……不过，真的会困扰的……我知道了啦，嗯……啾{font=Tuffy-Regular-EN.ttf}♡{/font}」"
 
     hide mai 
     hide reo 
@@ -1450,7 +1450,7 @@ label select06_end:
     show erisu ter02m at l
 
     voice "ERISU_0100"
-    erisu "「真的吗？是真的吗！那么就在这里发表我们的婚约吧{image=font}」"
+    erisu "「真的吗？是真的吗！那么就在这里发表我们的婚约吧{font=Tuffy-Regular-EN.ttf}♡{/font}」"
 
 
     show sizuku tsi04m at r
@@ -1523,7 +1523,7 @@ label select06_end:
     show takako tta11m at r
 
     voice "RUNA_0068"
-    runa "「老师〜，啾{image=font}」"
+    runa "「老师〜，啾{font=Tuffy-Regular-EN.ttf}♡{/font}」"
 
 
     show takako tta09m at r
@@ -1535,7 +1535,7 @@ label select06_end:
     show takako tta09m at r
 
     voice "RUNA_0069"
-    runa "「不・可・以，我还想要更多。啾啾啾啾{image=font}」"
+    runa "「不・可・以，我还想要更多。啾啾啾啾{font=Tuffy-Regular-EN.ttf}♡{/font}」"
 
     hide runa 
     hide takako 
@@ -1692,7 +1692,7 @@ label select06_end:
     "大家将温暖的鼓掌送给了我和沙雪同学。"
     "璃纱姐也含着眼泪，用力地向我们鼓掌。"
     voice "RENA_0086"
-    rena "「嗯嗯，实在是太好了……那么接下来是，我送给许下誓言的大家的礼物哦{image=font}」"
+    rena "「嗯嗯，实在是太好了……那么接下来是，我送给许下誓言的大家的礼物哦{font=Tuffy-Regular-EN.ttf}♡{/font}」"
 
     #//SE：花火打ち上げ音
     #♀SE018
@@ -1938,7 +1938,7 @@ label midway_ending00:
     show sayuki tsy05s2 at r
 
     voice "SAYUKI0266"
-    sayuki "「那还真是{image=font}」"
+    sayuki "「那还真是{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     "沙雪同学那雪白的脸颊上，也染上了些许樱花色。"
     voice "SAYUKI0267"
     sayuki "「请不要说那样的话……连我，都觉得害羞起来了」"
@@ -1977,13 +1977,13 @@ label midway_ending00:
     show rikka trk05s2 at l
 
     voice "RIKKA_0625"
-    rikka "「不，不是，就是这样，这个，那个……是，情侣……{image=font}」"
+    rikka "「不，不是，就是这样，这个，那个……是，情侣……{font=Tuffy-Regular-EN.ttf}♡{/font}」"
 
 
     show sayuki tsy02s2 at r
 
     voice "SAYUKI0272"
-    sayuki "「那么，就拜托了……呵呵{image=font}」"
+    sayuki "「那么，就拜托了……呵呵{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     "为什么从新学期第一天开始就有这么梦境一般的事情啊？"
     "被璃纱姐在身后支持着，一直被支持着。"
     "能好好地向沙雪同学说出真正的感情。"
@@ -1993,7 +1993,7 @@ label midway_ending00:
     voice "RIKKA_0626"
     rikka "「沙雪同学……那么，我们走吧」"
     voice "SAYUKI0273"
-    sayuki "「是{image=font}」"
+    sayuki "「是{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     "将可爱的沙雪同学的手，紧紧地握住。"
     "带着最棒的幸福的心情在平常的放学路上恩恩爱爱地一起走了起来……"
 

@@ -249,7 +249,7 @@ label s013:
     "因为她们两个都有艺人的活动，所以在一起的时候非常的少见。"
     "好像两个人今天一起上学了。"
     voice "SARA_0043"
-    sara "「久违的空闲了呢〜放学以后一起去哪吧，小枫{image=font}」"
+    sara "「久违的空闲了呢〜放学以后一起去哪吧，小枫{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     "纱良大人软软的靠在枫大人身边。"
     "听说她们两个是表姐妹……感情非常好呢。"
     voice "KAEDE_0028"
@@ -267,7 +267,7 @@ label s013:
     show sara tsa02s2 at r
 
     voice "SARA_0045"
-    sara "「啊，也叫六夏一起吧。然后可以一起来考虑一下作战〜」"
+    sara "「啊，也叫六夏一起吧。然后可以一起来考虑一下作战{font=Tuffy-Regular-EN.ttf}♪{/font}」"
 
     hide kaede
     hide sara 
@@ -515,7 +515,7 @@ label s013:
     show reo tre02s2 at sr
 
     voice "REO_0062"
-    reo "「是、是嘛！？你没去过啊……很厉害的地方哟。有很多好吃的东西{image=font}」"
+    reo "「是、是嘛！？你没去过啊……很厉害的地方哟。有很多好吃的东西{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     voice "SAYUKI0103"
     sayuki "「好吃的东西……是像餐厅一样的地方？」"
 
@@ -569,7 +569,7 @@ label s013:
     show reo tre02s2 at r
 
     voice "REO_0066"
-    reo "「汉、汉堡肉！那个番茄味的吧，那个我最喜欢了{image=font}」"
+    reo "「汉、汉堡肉！那个番茄味的吧，那个我最喜欢了{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     voice "MAI_0085"
     mai "「那么，就努力学习吧」"
 

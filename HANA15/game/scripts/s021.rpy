@@ -60,7 +60,7 @@ label s021:
     show yuuna tyu02f2 at l
 
     voice "YUUNA_0086"
-    yuuna "「嗯……七海、今天也很可爱呢{image=font}」"
+    yuuna "「嗯……七海、今天也很可爱呢{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     "我揉着惺忪的睡眼、思考渐渐清晰了起来。"
     "对了……我有一件事情想问姐姐大人。"
     "今天一定要好好地说出来……"
@@ -278,13 +278,13 @@ label s021:
     show yuuna tyu02m at l
 
     voice "YUUNA_0093"
-    yuuna "「这是难得的度假哦。细细品味、慢慢享受就好了{image=font}」"
+    yuuna "「这是难得的度假哦。细细品味、慢慢享受就好了{font=Tuffy-Regular-EN.ttf}♡{/font}」"
 
 
     show nanami tna02m at r
 
     voice "NANAMI0202"
-    nanami "「好、好的{image=font}」"
+    nanami "「好、好的{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     "太好了〜。"
     "因为姐姐大人的话、我放心了。"
     "因为是绝对信赖的姐姐大人、温和地笑着、说出来的话嘛。"
@@ -309,7 +309,7 @@ label s021:
     show yuuna tyu02m at l
 
     voice "YUUNA_0095"
-    yuuna "「昨天的H还不够满足{image=font}」"
+    yuuna "「昨天的H还不够满足{font=Tuffy-Regular-EN.ttf}♡{/font}」"
 
 
     show nanami tna09m at r
@@ -317,7 +317,7 @@ label s021:
     voice "NANAMI0205"
     nanami "「不、不是的！大早上的不要考虑那种事情啦」"
     voice "YUUNA_0096"
-    yuuna "「啊啦？我早上开始就因为七海的睡脸、心里痒痒的〜」"
+    yuuna "「啊啦？我早上开始就因为七海的睡脸、心里痒痒的{font=Tuffy-Regular-EN.ttf}♪{/font}」"
 
 
     show nanami tna08m at r
@@ -365,7 +365,7 @@ label s021:
     show yuuna tyu02m at l
 
     voice "YUUNA_0099"
-    yuuna "「不行、唔呼呼{image=font}」"
+    yuuna "「不行、唔呼呼{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     "姐姐大人从早上开始、就是工口少女。"
 
 
@@ -401,7 +401,7 @@ label s021:
     voice "NANAMI0212"
     nanami "「不是、没有那种事情。因为能和姐姐大人在一起嘛……怎么可能会觉得厌烦呢」"
     voice "YUUNA_0102"
-    yuuna "「呼呼呼、说了很可爱的话呢、啾{image=font}」"
+    yuuna "「呼呼呼、说了很可爱的话呢、啾{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     voice "NANAMI0213"
     nanami "「哈唔、姐姐大人！」"
     "虽然很轻、但是被亲了。"
@@ -504,7 +504,7 @@ label s021:
     voice "NANAMI0227"
     nanami "「……是的、姐姐大人」"
     voice "YUUNA_0114"
-    yuuna "「唔呼呼、就是这样、让我们继续度假吧〜〜」"
+    yuuna "「唔呼呼、就是这样、让我们继续度假吧〜{font=Tuffy-Regular-EN.ttf}♪{/font}」"
     voice "NANAMI0228"
     nanami "「诶诶！哇、姐姐大人……」"
     voice "YUUNA_0115"
@@ -523,12 +523,12 @@ label s021:
     voice "YUUNA_0118"
     yuuna "「在别墅的时候……对你那么严厉、对不起」"
     voice "YUUNA_0119"
-    yuuna "「不过、在度假的时候、可以随便向我撒娇哦{image=font}」"
+    yuuna "「不过、在度假的时候、可以随便向我撒娇哦{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     voice "NANAMI0231"
     nanami "「姐姐大人！」"
     "我心情激动的、抱住了姐姐大人。"
     voice "YUUNA_0120"
-    yuuna "「啊嗯〜七海」"
+    yuuna "「啊嗯{font=Tuffy-Regular-EN.ttf}♪{/font}七海」"
     "姐姐大人如此可爱、我开心的心情不知该如何表达。"
     voice "NANAMI0232"
     nanami "「姐姐大人、最喜欢了」"
@@ -541,7 +541,7 @@ label s021:
 
 
     voice "YUUNA_0121"
-    yuuna "「我也是、七海……不行、太可爱了{image=font}这种时候就应该、和七海……嗯呼呼」"
+    yuuna "「我也是、七海……不行、太可爱了{font=Tuffy-Regular-EN.ttf}♡{/font}这种时候就应该、和七海……嗯呼呼」"
     voice "NANAMI0233"
     nanami "「不行、不行不行不行不行不行〜不行的啊！」"
     "只有这件事……"
@@ -550,7 +550,7 @@ label s021:
     voice "NANAMI0234"
     nanami "「回到房间之后、不论多少次……都会做的」"
     voice "YUUNA_0123"
-    yuuna "「是嘛、不论多少次……我懂了。七海真H{image=font}」"
+    yuuna "「是嘛、不论多少次……我懂了。七海真H{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     voice "NANAMI0235"
     nanami "「为什么、会变成那样啊！」"
 
@@ -590,7 +590,7 @@ label s021:
 
 
     voice "YUUNA_0124"
-    yuuna "「因为……跟喜欢的人不管什么时候都会想做的吧{image=font}」"
+    yuuna "「因为……跟喜欢的人不管什么时候都会想做的吧{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     voice "NANAMI0237"
     nanami "「姐姐大人这个工口少女、已经是不治之症了。一辈子都不会好」"
 
@@ -620,13 +620,13 @@ label s021:
     show nanami tna05m at r
 
     voice "NANAMI0240"
-    nanami "「哈呜呜呜呜、那、那么……工口少女、这边……呀嗯{image=font}」"
+    nanami "「哈呜呜呜呜、那、那么……工口少女、这边……呀嗯{font=Tuffy-Regular-EN.ttf}♡{/font}」"
 
 
     show yuuna tyu02m at l
 
     voice "YUUNA_0128"
-    yuuna "「对、这才是正确答案、七海{image=font}那么事不宜迟、我们回去吧。在房间里尽情的、向我撒娇吧{image=font}」"
+    yuuna "「对、这才是正确答案、七海{font=Tuffy-Regular-EN.ttf}♡{/font}那么事不宜迟、我们回去吧。在房间里尽情的、向我撒娇吧{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     voice "NANAMI0241"
     nanami "「好……好的、那……我就、撒娇……了哦」"
     "H的事情虽然很害羞、但是……并不讨厌。"
@@ -640,10 +640,10 @@ label s021:
 
 
     voice "NANAMI0242"
-    nanami "「啊啊啊嗯{image=font}但是但是、姐姐大人过于H了、哈嗯{image=font}」"
+    nanami "「啊啊啊嗯{font=Tuffy-Regular-EN.ttf}♡{/font}但是但是、姐姐大人过于H了、哈嗯{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     "姐姐大人一如既往的工口少女全开。"
     "在那之后、两人也很享受的在床上翻滚。"
-    "让我尽情撒娇了{image=font}"
+    "让我尽情撒娇了{font=Tuffy-Regular-EN.ttf}♡{/font}"
 
 
     stop voice

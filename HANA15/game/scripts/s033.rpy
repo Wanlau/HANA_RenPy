@@ -38,7 +38,7 @@ label s033:
 
 
     voice "SAYUKI0310"
-    sayuki "「什么事情，六夏同学{image=font}」"
+    sayuki "「什么事情，六夏同学{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     voice "RIKKA_0730"
     rikka "「在学校里面光明正大地手牵手实在有点……」"
 
@@ -80,7 +80,7 @@ label s033:
     show sayuki tsy02s2 at r
 
     voice "SAYUKI0314"
-    sayuki "「呵呵……嗯呵呵呵{image=font}」"
+    sayuki "「呵呵……嗯呵呵呵{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     "没想到这次居然，手挽手起来了。"
     voice "SAYUKI0315"
     sayuki "「这样的话，就没关系了吧？」"
@@ -122,7 +122,7 @@ label s033:
     voice "mobJyosiA0064"
     girl_a "「啊啊……公主正在为骑士擦汗呢。和平时的情况不一样，是由公主来主动做些什么也很好呢」"
     voice "mobJyosiB0040"
-    girl_b "「嗯嗯，说不定这就是『萌』的意思了吧{image=font}」"
+    girl_b "「嗯嗯，说不定这就是『萌』的意思了吧{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     voice "mobJyosiA0065"
     girl_a "「总之这两人实在是太棒了……都看得我目不转睛的了」"
     "明明只是被擦汗而已，就会被这样说闲话。"
@@ -632,5 +632,5 @@ label s033:
     stop music fadeout 2.0
     scene black  with fade2
     pause 1
-    jump ending01
+
     jump s034

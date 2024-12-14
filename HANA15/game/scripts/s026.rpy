@@ -70,7 +70,7 @@ label s026:
     show rena trn02f2 at l
 
     voice "RENA_0062"
-    rena "「推荐的呢……哼哼哼{image=font}」"
+    rena "「推荐的呢……哼哼哼{font=Tuffy-Regular-EN.ttf}♡{/font}」"
 
 
     show rikka trk03f2 at r
@@ -527,7 +527,7 @@ label s026:
     rikka "「这，这种时候……呜呜……」"
     "为什么在这种时候，肚子要叫啊，真是的！"
     voice "SAYUKI0189"
-    sayuki "「……呵呵，呵呵呵{image=font}」"
+    sayuki "「……呵呵，呵呵呵{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     voice "RIKKA_0453"
     rikka "「沙雪同学……不用笑成那样……」"
     voice "SAYUKI0190"

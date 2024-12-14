@@ -413,13 +413,13 @@ label s010:
     show sara tsa02s2 at l
 
     voice "SARA_0027"
-    sara "「璃纱和传闻中的一年级的孩子，两个人一起走出学校……让人，非常在意{image=font}」"
+    sara "「璃纱和传闻中的一年级的孩子，两个人一起走出学校……让人，非常在意{font=Tuffy-Regular-EN.ttf}♡{/font}」"
 
 
     show nanami tna02s2 at r
 
     voice "NANAMI0078"
-    nanami "「就跟在后面了〜」"
+    nanami "「就跟在后面了{font=Tuffy-Regular-EN.ttf}♪{/font}」"
 
 
     show sara tsa02s2 at sl

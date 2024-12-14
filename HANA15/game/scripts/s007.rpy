@@ -41,7 +41,7 @@ label s007:
     voice "RIKKA_0067"
     rikka "「这里就可以了吧，没有贴歪吧？」"
     voice "mobJyosiA0026"
-    girl_a "「是，很好……不愧是六夏同学{image=font}」"
+    girl_a "「是，很好……不愧是六夏同学{font=Tuffy-Regular-EN.ttf}♡{/font}」"
 
 
     show rikka trk03s2
@@ -369,7 +369,7 @@ label s007:
     show sayuki tsy02s2 at r
 
     voice "SAYUKI0021"
-    sayuki "「是这样啊……呵呵呵，我也是{image=font}」"
+    sayuki "「是这样啊……呵呵呵，我也是{font=Tuffy-Regular-EN.ttf}♡{/font}」"
 
 
     show rikka trk05s2 at l

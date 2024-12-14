@@ -45,7 +45,7 @@ label s032:
     "在这之后，我突然被同班同学包围着，被追问了很多问题。"
     "沙雪同学也一样被大家包围着。"
     "好似要逃离同学一样，我带着沙雪同学一直逃到了中庭。"
-    "从教室里逃出来的时候，后面传来『好帅气』『是要来场爱的私奔吗』『骑士带着公主逃跑了呢……啊啊，真浪漫{image=font}』之类的很随心所欲的尖叫声。"
+    "从教室里逃出来的时候，后面传来『好帅气』『是要来场爱的私奔吗』『骑士带着公主逃跑了呢……啊啊，真浪漫{font=Tuffy-Regular-EN.ttf}♡{/font}』之类的很随心所欲的尖叫声。"
     "至于为什么还要把沙雪同学也一起带出来……除了是因为想帮助她以外，还有比这更要重要的事情。"
     "在等沙雪同学调整好呼吸后，我问了她我最想知道的事情。"
 
@@ -96,7 +96,7 @@ label s032:
     #★★★選択肢　ここから
 
 
-    "太可爱了，实在是太可爱了{image=font}"
+    "太可爱了，实在是太可爱了{font=Tuffy-Regular-EN.ttf}♡{/font}"
     "对这样的沙雪同学，我……"
 
 
@@ -561,13 +561,13 @@ label select07_end:
 
 
     voice "SAYUKI0300"
-    sayuki "「是的。然后在那里，两个人买了一样的果汁。我还是第一次喝在纸盒里面的果汁呢〜」"
+    sayuki "「是的。然后在那里，两个人买了一样的果汁。我还是第一次喝在纸盒里面的果汁呢{font=Tuffy-Regular-EN.ttf}♪{/font}」"
 
 
     show sara tsa02s2 at l
 
     voice "SARA_0154"
-    sara "「这样啊……总觉得，你们关系很好的样子呢〜」"
+    sara "「这样啊……总觉得，你们关系很好的样子呢{font=Tuffy-Regular-EN.ttf}♪{/font}」"
 
 
     show sara tsa02s2 at sl
@@ -592,7 +592,7 @@ label select07_end:
     show sayuki tsy02s2 at c
 
     voice "SAYUKI0302"
-    sayuki "「偶尔也会那样子。前几天一起逃出教室的时候也紧紧地握住了手{image=font}」"
+    sayuki "「偶尔也会那样子。前几天一起逃出教室的时候也紧紧地握住了手{font=Tuffy-Regular-EN.ttf}♡{/font}」"
 
     hide sara 
     show yuuna tyu01s2 at sl
@@ -696,7 +696,7 @@ label select07_end:
 
 
     voice "YUUNA_0150"
-    yuuna "「对对，真的很可爱呢{image=font}」"
+    yuuna "「对对，真的很可爱呢{font=Tuffy-Regular-EN.ttf}♡{/font}」"
 
 
     show rikka trk05s2 at c
@@ -741,7 +741,7 @@ label select07_end:
     show miya tmi02s2 at l
 
     voice "MIYA_0415"
-    miya "「六夏同学，不更加努力去攻略可不行哦……嗯哼哼{image=font}」"
+    miya "「六夏同学，不更加努力去攻略可不行哦……嗯哼哼{font=Tuffy-Regular-EN.ttf}♡{/font}」"
 
 
     show rikka trk04s2 at r
@@ -797,7 +797,7 @@ label select07_end:
     show yuuna tyu02s2 at l
 
     voice "YUUNA_0153"
-    yuuna "「不过没关系的。马上就会变得忙起来了……今天就悠闲地度过\n吧，六夏〜」"
+    yuuna "「不过没关系的。马上就会变得忙起来了……今天就悠闲地度过\n吧，六夏{font=Tuffy-Regular-EN.ttf}♪{/font}」"
     "也就是说……"
 
     hide yuuna 
@@ -846,7 +846,7 @@ label select07_end:
 
 
     voice "SARA_0156"
-    sara "「开茶会了呢，好开心〜　啊，零食怎么办呢」"
+    sara "「开茶会了呢，好开心{font=Tuffy-Regular-EN.ttf}♪{/font}　啊，零食怎么办呢」"
 
 
     show sara tsa02s2 at l
@@ -951,7 +951,7 @@ label select07_end:
     voice "RIKKA_0727"
     rikka "「沙雪……同学？」"
     voice "SAYUKI0309"
-    sayuki "「在大家的面前把我带出去什么的……我，倒也不讨厌这样强硬又热情的六夏同学{image=font}」"
+    sayuki "「在大家的面前把我带出去什么的……我，倒也不讨厌这样强硬又热情的六夏同学{font=Tuffy-Regular-EN.ttf}♡{/font}」"
 
 
     show rikka trk04s2 at l

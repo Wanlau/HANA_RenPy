@@ -142,7 +142,7 @@ label s018:
     voice "MIYA_0279"
     miya "「……贵安」"
     voice "YUUNA_0052"
-    yuuna "「因为是忽然被丽奈老师叫出来，就坐我家船来了……呵呵呵{image=font}」"
+    yuuna "「因为是忽然被丽奈老师叫出来，就坐我家船来了……呵呵呵{font=Tuffy-Regular-EN.ttf}♡{/font}」"
 
 
     show risa tri03f2 at sr
@@ -317,7 +317,7 @@ label s018:
 
 
     voice "MAI_0130"
-    mai "「就算勉强的也好，让玲绪到外面来比较好啊。这真是正好呢〜」"
+    mai "「就算勉强的也好，让玲绪到外面来比较好啊。这真是正好呢{font=Tuffy-Regular-EN.ttf}♪{/font}」"
 
 
     show reo tre08f2 at r
@@ -517,7 +517,7 @@ label s018:
 
 
     voice "SARA_0073"
-    sara "「好的〜{image=font}能抛开工作的休假很少，所以真是高兴呢，小枫」"
+    sara "「好的〜{font=Tuffy-Regular-EN.ttf}♡{/font}能抛开工作的休假很少，所以真是高兴呢，小枫」"
 
 
     show kaede tka02f2 at l
@@ -547,7 +547,7 @@ label s018:
 
 
     voice "ERISU_0045"
-    erisu "「雫的话，我家随时热烈欢迎啊〜我期待着下次机会哟」"
+    erisu "「雫的话，我家随时热烈欢迎啊{font=Tuffy-Regular-EN.ttf}♪{/font}我期待着下次机会哟」"
 
     hide erisu 
     hide sizuku 
@@ -652,7 +652,7 @@ label s018:
 
 
     voice "RENA_0015"
-    rena "「她们是我这次最感兴趣的情侣呢……呵呵{image=font}」"
+    rena "「她们是我这次最感兴趣的情侣呢……呵呵{font=Tuffy-Regular-EN.ttf}♡{/font}」"
 
     hide rena 
     hide kaede 
@@ -734,7 +734,7 @@ label s018:
     voice "RIKKA_0319"
     rikka "「初、初次见面，我是篠崎六夏。这次承蒙招待来这么棒的地方，非常感谢」"
     voice "RENA_0017"
-    rena "「初次见面，篠崎同学。请好好享受〜」"
+    rena "「初次见面，篠崎同学。请好好享受{font=Tuffy-Regular-EN.ttf}♪{/font}」"
     voice "RIKKA_0320"
     rikka "「是、是的……」"
     "预料之中的，六夏是僵硬的紧张模式。"
@@ -886,7 +886,7 @@ label s018:
 
 
     voice "MAI_0133"
-    mai "「哈、哈……玲绪的泳装，必须我来选才行啊{image=font}」"
+    mai "「哈、哈……玲绪的泳装，必须我来选才行啊{font=Tuffy-Regular-EN.ttf}♡{/font}」"
 
 
     show mai tma02f2 at l
@@ -1256,7 +1256,7 @@ label s018:
     voice "RISA_0586"
     risa "「哎呀哎呀，完全入迷……看呆了啊」"
     voice "SARA_0079"
-    sara "「就是这样，非常适合哟。太好了呢，沙雪〜」"
+    sara "「就是这样，非常适合哟。太好了呢，沙雪{font=Tuffy-Regular-EN.ttf}♪{/font}」"
     voice "SAYUKI0139"
     sayuki "「……是，六夏同学觉得好的话……虽然很害羞，但就这个吧……」"
     "结果，虽然沙雪同学的比基尼只穿了一天，但是我也幸福的好像要升天了。"
@@ -1287,7 +1287,7 @@ label s018:
 
 
     voice "SARA_0080"
-    sara "「哇〜，大海啊大海〜」"
+    sara "「哇〜，大海啊大海{font=Tuffy-Regular-EN.ttf}♪{/font}」"
     "换完泳装的我们，立刻去了海滩。"
 
     hide sara 
@@ -1460,7 +1460,7 @@ label s018:
     voice "RISA_0597"
     risa "「喂六夏，你没事吧？」"
     voice "RIKKA_0342"
-    rikka "「………………哈〜啊啊、好可爱啊、沙雪同学{image=font}」"
+    rikka "「………………哈〜啊啊、好可爱啊、沙雪同学{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     voice "RISA_0598"
     risa "「啊？」"
     "顺着六夏的视线……那里是穿着泳装的沙雪同学。"

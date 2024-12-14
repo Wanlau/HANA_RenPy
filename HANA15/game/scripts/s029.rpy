@@ -473,7 +473,7 @@ label select05_end:
     voice "RIKKA_0567"
     rikka "「那……那是……」"
     voice "SARA_0140"
-    sara "「一对的话，就说明你们关系好不是吗。纱良也有和小枫配对的头饰哦{image=font}」"
+    sara "「一对的话，就说明你们关系好不是吗。纱良也有和小枫配对的头饰哦{font=Tuffy-Regular-EN.ttf}♡{/font}」"
 
     hide kaede 
     hide sara 
@@ -484,7 +484,7 @@ label select05_end:
 
 
     voice "ERISU_0093"
-    erisu "「你们两个人从岩地回来的时候不也十分亲密吗。我可是亲眼看见了哦{image=font}」"
+    erisu "「你们两个人从岩地回来的时候不也十分亲密吗。我可是亲眼看见了哦{font=Tuffy-Regular-EN.ttf}♡{/font}」"
 
 
     show erisu ter02m at l
@@ -497,7 +497,7 @@ label select05_end:
     rikka "「诶……不过那个时候，周围应该一个人都没有……」"
     "没想到会在那里被人看见，我的脸一下子红了。"
     voice "ERISU_0094"
-    erisu "「我和雫稍微有点，事情要解决嘛……呵呵呵{image=font}」"
+    erisu "「我和雫稍微有点，事情要解决嘛……呵呵呵{font=Tuffy-Regular-EN.ttf}♡{/font}」"
 
 
     show erisu ter02m at sl
@@ -525,7 +525,7 @@ label select05_end:
 
 
     voice "YUUNA_0137"
-    yuuna "「呵呵呵{image=font}是啊，小沙雪也喜欢上小六夏了呢〜」"
+    yuuna "「呵呵呵{font=Tuffy-Regular-EN.ttf}♡{/font}是啊，小沙雪也喜欢上小六夏了呢〜」"
 
 
     show yuuna tyu02m at l
@@ -856,7 +856,7 @@ label select05_end:
 
 
     voice "MIYA_0392"
-    miya "「你在烦恼什么啊，璃纱。是为了可爱的妹妹吧？我可一点事都没有哦……呵呵呵{image=font}」"
+    miya "「你在烦恼什么啊，璃纱。是为了可爱的妹妹吧？我可一点事都没有哦……呵呵呵{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     voice "RISA_0777"
     risa "「因，因为美夜你是变态嘛」"
 
@@ -913,7 +913,7 @@ label select05_end:
 
 
     voice "ERISU_0096"
-    erisu "「会做的吧，雫〜{image=font}」"
+    erisu "「会做的吧，雫〜{font=Tuffy-Regular-EN.ttf}♡{/font}」"
 
 
     show sizuku tsi05f2 at r
@@ -966,7 +966,7 @@ label select05_end:
     show mai tma02f2 at l
 
     voice "MAI_0222"
-    mai "「是是，一起努力帮忙吧{image=font}」"
+    mai "「是是，一起努力帮忙吧{font=Tuffy-Regular-EN.ttf}♡{/font}」"
 
     hide mai 
     hide reo 
@@ -993,7 +993,7 @@ label select05_end:
 
 
     voice "MIYA_0394"
-    miya "「半途而废可不好哦，璃纱{image=font}嗯哼哼……真期待啊〜」"
+    miya "「半途而废可不好哦，璃纱{font=Tuffy-Regular-EN.ttf}♡{/font}嗯哼哼……真期待啊{font=Tuffy-Regular-EN.ttf}♪{/font}」"
 
 
     #**暗転

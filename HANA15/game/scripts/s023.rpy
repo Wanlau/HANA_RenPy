@@ -33,7 +33,7 @@ label s023:
 
 
     voice "MAI_0155"
-    mai "「多亏了度假，玲绪闭门不出的日子结束了，完结〜」"
+    mai "「多亏了度假，玲绪闭门不出的日子结束了，完结{font=Tuffy-Regular-EN.ttf}♪{/font}」"
 
 
     show mai tma02m at l
@@ -95,7 +95,7 @@ label s023:
     show reo tre02m at r
 
     voice "REO_0131"
-    reo "「啊ー好吃〜这个旅馆的点心，每个都好吃啊。回去的时候再要点怎么样……咕嘟咕嘟」"
+    reo "「啊ー好吃{font=Tuffy-Regular-EN.ttf}♪{/font}这个旅馆的点心，每个都好吃啊。回去的时候再要点怎么样……咕嘟咕嘟」"
     voice "MAI_0162"
     mai "「总觉得，这不是在玲绪的公寓里经常看见的景象吗……玲绪，今天不去沙滩吗？」"
     "明明每天都玩到太阳下山。"
@@ -117,7 +117,7 @@ label s023:
     show reo tre02m at r
 
     voice "REO_0133"
-    reo "「所以，我决定今天要在房间里悠闲的度过〜」"
+    reo "「所以，我决定今天要在房间里悠闲的度过{font=Tuffy-Regular-EN.ttf}♪{/font}」"
     voice "MAI_0164"
     mai "「……是吗」"
     "因为每天，都疯闹过度了呢。"
@@ -154,7 +154,7 @@ label s023:
     show mai tma02m at l
 
     voice "MAI_0169"
-    mai "「哼哼哼，开玩笑的啦，那种事情怎么可能做嘛〜」"
+    mai "「哼哼哼，开玩笑的啦，那种事情怎么可能做嘛{font=Tuffy-Regular-EN.ttf}♪{/font}」"
 
 
     show reo tre08m at r
@@ -242,7 +242,7 @@ label s023:
 
 
     voice "ERISU_0067"
-    erisu "「玲绪，你好ー〜」"
+    erisu "「玲绪，你好ー{font=Tuffy-Regular-EN.ttf}♪{/font}」"
     voice "SIZUKU0054"
     sizuku "「贵安」"
 
@@ -362,7 +362,7 @@ label s023:
     voice "SIZUKU0058"
     sizuku "「非常感谢，玲绪」"
     voice "ERISU_0070"
-    erisu "「哼哼哼，谢谢〜玲绪还真是周到啊玲绪」"
+    erisu "「哼哼哼，谢谢{font=Tuffy-Regular-EN.ttf}♪{/font}玲绪还真是周到啊玲绪」"
 
     hide reo 
     hide erisu 
@@ -462,7 +462,7 @@ label s023:
     show erisu ter02m at l
 
     voice "ERISU_0076"
-    erisu "「诶诶诶诶ー、好过分啊〜」"
+    erisu "「诶诶诶诶ー、好过分啊{font=Tuffy-Regular-EN.ttf}♪{/font}」"
     "和以往一样的2个人呢。"
 
     hide erisu 
@@ -531,7 +531,7 @@ label s023:
     show sizuku tsi02m at c 
 
     voice "SIZUKU0063"
-    sizuku "「什么也没有哟——，呵呵呵{image=font}」"
+    sizuku "「什么也没有哟——，呵呵呵{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     "明明没有什么奇怪的事，这次却笑出来了。"
     voice "ERISU_0078"
     erisu "「怎么了啊雫，麻衣，想到什么了事吗？」"
@@ -680,15 +680,15 @@ label s023:
     show sizuku tsi02m at l
 
     voice "SIZUKU0069"
-    sizuku "「就算在短大，我和爱丽丝也在一起，关系非常好的哟{image=font}」"
+    sizuku "「就算在短大，我和爱丽丝也在一起，关系非常好的哟{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     voice "MAI_0196"
     mai "「哈，哈啊……看起来是那样呢」"
     voice "SIZUKU0070"
-    sizuku "「我……喜欢爱丽丝{image=font}」"
+    sizuku "「我……喜欢爱丽丝{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     voice "MAI_0197"
     mai "「诶？」"
     voice "SIZUKU0071"
-    sizuku "「非ー常喜欢，最喜欢了{image=font}」"
+    sizuku "「非ー常喜欢，最喜欢了{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     voice "MAI_0198"
     mai "「是，是那样吗……」"
     "平常的雫大人的话一定不会说的，恋爱事情。"
@@ -703,16 +703,16 @@ label s023:
 
 
     voice "ERISU_0083"
-    erisu "「雫〜、能从雫的口中听到那样的话什么的，多么幸运的一天啊〜」"
+    erisu "「雫〜、能从雫的口中听到那样的话什么的，多么幸运的一天啊{font=Tuffy-Regular-EN.ttf}♪{/font}」"
     "爱丽丝大人根本不是在担心雫大人，而是在开心了。"
     voice "SIZUKU0072"
     sizuku "「我想无论是在短大，还是家里，也要和爱丽丝一起，这之后也要一直和爱丽丝在一起」"
     voice "ERISU_0084"
-    erisu "「雫〜、我也是哟〜」"
+    erisu "「雫〜、我也是哟{font=Tuffy-Regular-EN.ttf}♪{/font}」"
     voice "SIZUKU0073"
-    sizuku "「我没有爱丽丝的话，就活不下去……只要爱丽丝在身边，这就够了{image=font}」"
+    sizuku "「我没有爱丽丝的话，就活不下去……只要爱丽丝在身边，这就够了{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     voice "ERISU_0085"
-    erisu "「因为雫平常都不会说这些话的……好开心{image=font}」"
+    erisu "「因为雫平常都不会说这些话的……好开心{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     "太过开心，爱丽丝大人抱住了雫大人。"
     "如果在别人面前做这种事的话，明明会很吃惊，生气的雫大人。"
 
@@ -788,7 +788,7 @@ label s023:
 
 
     voice "ERISU_0086"
-    erisu "「呵呵呵〜雫，又在说喜欢我了」"
+    erisu "「呵呵呵{font=Tuffy-Regular-EN.ttf}♪{/font}雫，又在说喜欢我了」"
     "爱丽丝大人抱着雫大人的时候，默默的笑着。"
     "这里已经……只有我去阻止了呢。"
 
@@ -950,7 +950,7 @@ label s023:
     voice "REO_0160"
     reo "「？？？」"
     voice "MAI_0207"
-    mai "「玲绪……果然玲绪认为我是最好的呢{image=font}」"
+    mai "「玲绪……果然玲绪认为我是最好的呢{font=Tuffy-Regular-EN.ttf}♡{/font}」"
 
 
     show reo tre05m at r
@@ -958,7 +958,7 @@ label s023:
     voice "REO_0161"
     reo "「那，那是……语言修饰……」"
     voice "MAI_0208"
-    mai "「不是那么大声的叫出来了吗，真是的，不坦率呢。玲绪，可爱过头了啊{image=font}」"
+    mai "「不是那么大声的叫出来了吗，真是的，不坦率呢。玲绪，可爱过头了啊{font=Tuffy-Regular-EN.ttf}♡{/font}」"
 
 
     #※EV009
@@ -970,7 +970,7 @@ label s023:
     voice "REO_0162"
     reo "「呀！我，我说麻衣，做什么啊」"
     voice "MAI_0209"
-    mai "「不行，忍不住了，请让我抱，摸，kiss吧{image=font}」"
+    mai "「不行，忍不住了，请让我抱，摸，kiss吧{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     voice "REO_0163"
     reo "「呀，啊嗯，不要，为什么会变成这样」"
     voice "MAI_0210"
@@ -986,12 +986,12 @@ label s023:
 
 
     voice "MAI_0211"
-    mai "「今天我坐的是爱的暴走列车，刹车器已经坏掉了的机器列车！会疼爱你到最后的，玲绪{image=font}{image=font}」"
+    mai "「今天我坐的是爱的暴走列车，刹车器已经坏掉了的机器列车！会疼爱你到最后的，玲绪{font=Tuffy-Regular-EN.ttf}♡{/font}{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     "被那样可爱的告白了，忍耐什么的是不可能的呢。"
     voice "REO_0165"
-    reo "「啊嗯，呀嗯{image=font}比平常更快的好多，脱掉了……呀嗯」"
+    reo "「啊嗯，呀嗯{font=Tuffy-Regular-EN.ttf}♡{/font}比平常更快的好多，脱掉了……呀嗯」"
     voice "MAI_0212"
-    mai "「来吧，一口气脱掉呢，玲绪……嗯哼哼{image=font}」"
+    mai "「来吧，一口气脱掉呢，玲绪……嗯哼哼{font=Tuffy-Regular-EN.ttf}♡{/font}」"
 
 
     #**青空
@@ -1001,9 +1001,9 @@ label s023:
 
 
     "我就那样把玲绪推倒在床上。"
-    "到晚饭时间一直满满的疼爱了一番。{image=font}"
+    "到晚饭时间一直满满的疼爱了一番。{font=Tuffy-Regular-EN.ttf}♡{/font}"
     voice "MAI_0213"
-    mai "「哈，哈……今天的玲绪不是『饭后的点心』而是『饭前的酒』一样的呢{image=font}」"
+    mai "「哈，哈……今天的玲绪不是『饭后的点心』而是『饭前的酒』一样的呢{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     voice "REO_0166"
     reo "「麻，麻衣你个…………………工口工口，色狼啊……呜〜」"
 

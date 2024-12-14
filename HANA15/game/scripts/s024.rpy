@@ -37,7 +37,7 @@ label s024:
 
 
     voice "RISA_0674"
-    risa "「那个，美夜，这个南国风味热带水果饮料很好喝哦{image=font}」"
+    risa "「那个，美夜，这个南国风味热带水果饮料很好喝哦{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     "再说，璃纱她也很开心嘛。"
     "可以随意看她的泳装姿态，真是令人欲罢不能。"
 
@@ -532,7 +532,7 @@ label s024:
     voice "MIYA_0361"
     miya "「……偶尔这样不行吗？」"
     voice "RISA_0708"
-    risa "「嗯……感觉好开心呢{image=font}」"
+    risa "「嗯……感觉好开心呢{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     "我躺在床上维持着睡觉的姿势，头枕上了璃纱的膝盖，脑子晕晕的。"
     "这个样子还是第一次呢，总觉得好害羞，却又非常心动。"
     "却也无意识的想对璃纱撒娇。"

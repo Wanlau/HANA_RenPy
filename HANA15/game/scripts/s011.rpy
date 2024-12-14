@@ -223,7 +223,7 @@ label s011:
     show sara tsa02s2 at r
 
     voice "SARA_0037"
-    sara "「我？我怎么啦，小枫{image=font}」"
+    sara "「我？我怎么啦，小枫{font=Tuffy-Regular-EN.ttf}♡{/font}」"
 
 
     show kaede tka05s2 at l
@@ -295,7 +295,7 @@ label s011:
 
 
     voice "SARA_0038"
-    sara "「哎〜，我也是啊，如果是枫的话就变成玻璃心了〜」"
+    sara "「哎〜，我也是啊，如果是枫的话就变成玻璃心了{font=Tuffy-Regular-EN.ttf}♪{/font}」"
     voice "KAEDE_0015"
     kaede "「是、是吗……」"
 
@@ -543,7 +543,7 @@ label s011:
 
 
     voice "ERISU_0005"
-    erisu "「好像大家在说什么有趣的话呢〜〜」"
+    erisu "「好像大家在说什么有趣的话呢〜{font=Tuffy-Regular-EN.ttf}♪{/font}」"
     "忽然出现闯入者。"
 
 
@@ -556,7 +556,7 @@ label s011:
     voice "REO_0042"
     reo "「啊、爱丽丝！」"
     voice "ERISU_0006"
-    erisu "「玲绪，好久不见{image=font}还是这么小不点啊」"
+    erisu "「玲绪，好久不见{font=Tuffy-Regular-EN.ttf}♡{/font}还是这么小不点啊」"
 
 
     show reo tre08s2 at r
@@ -793,7 +793,7 @@ label s011:
 
 
     voice "ERISU_0013"
-    erisu "「呵呵……玲绪好可爱〜」"
+    erisu "「呵呵……玲绪好可爱{font=Tuffy-Regular-EN.ttf}♪{/font}」"
 
     hide mai tma01s2
     show erisu ter02f2 at l
@@ -916,7 +916,7 @@ label s011:
     rikka "「话说回来，优菜大人……是什么人？」"
     "小声的嘀咕了些什么，但是听不清楚。"
     "大概，是在感谢姐姐吧。"
-    "第一个说要帮六夏的恋爱鼓劲的，就是姐姐啊{image=font}"
+    "第一个说要帮六夏的恋爱鼓劲的，就是姐姐啊{font=Tuffy-Regular-EN.ttf}♡{/font}"
 
     hide nanami 
     hide risa 
@@ -927,7 +927,7 @@ label s011:
 
 
     voice "SARA_0042"
-    sara "「璃纱她们已经平安和好的现在，已经没问题了〜〜」"
+    sara "「璃纱她们已经平安和好的现在，已经没问题了〜{font=Tuffy-Regular-EN.ttf}♪{/font}」"
 
 
     show sara tsa02s2 at l

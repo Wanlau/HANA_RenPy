@@ -162,13 +162,13 @@ label s003:
 
 
     voice "NANAMI0009"
-    nanami "「呵呵，干杯〜」"
+    nanami "「呵呵，干杯{font=Tuffy-Regular-EN.ttf}♪{/font}」"
 
 
     show risa tri02s2 at r
 
     voice "RISA_0076"
-    risa "「干杯〜」"
+    risa "「干杯{font=Tuffy-Regular-EN.ttf}♪{/font}」"
     "稍稍碰了碰茶杯的一边，和七海同学干了杯。"
     "虽然不是酒，但这就好像是这个同好会的『约定俗成』的规矩。"
 
@@ -570,7 +570,7 @@ label select01_end:
     show risa tri02s2 at r
 
     voice "RISA_0110"
-    risa "「……呵呵呵，这种的真好啊{image=font}」"
+    risa "「……呵呵呵，这种的真好啊{font=Tuffy-Regular-EN.ttf}♡{/font}」"
 
 
     show nanami tna03s2 at l
@@ -669,7 +669,7 @@ label select01_end:
     show sara tsa02f2 at c
 
     voice "SARA_0001"
-    sara "「嗯。纱良，丢下工作跑过来了。来，开始二年级生同好会吧〜」"
+    sara "「嗯。纱良，丢下工作跑过来了。来，开始二年级生同好会吧{font=Tuffy-Regular-EN.ttf}♪{/font}」"
     voice "NANAMI0049"
     nanami "「那个……刚才刚好结束……」"
 
@@ -718,7 +718,7 @@ label select01_end:
     show sara tsa02f2 at c
 
     voice "SARA_0005"
-    sara "「小七海{image=font}你真好ー〜」"
+    sara "「小七海{font=Tuffy-Regular-EN.ttf}♡{/font}你真好ー{font=Tuffy-Regular-EN.ttf}♪{/font}」"
 
 
     show risa tri01s2 at sr
@@ -726,7 +726,7 @@ label select01_end:
     voice "RISA_0117"
     risa "「我也陪你们走到中途吧」"
     voice "SARA_0006"
-    sara "「小璃纱也是，谢谢〜那么到车站前，二年级生同好会来聊天吧」"
+    sara "「小璃纱也是，谢谢{font=Tuffy-Regular-EN.ttf}♪{/font}那么到车站前，二年级生同好会来聊天吧」"
     "虽然绕了点远路。"
     "难得的，三人聚齐的二年级生同好会。"
     "我们一起友好地走到了车站前。"

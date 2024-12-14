@@ -45,7 +45,7 @@ label s016:
     voice "RISA_0470"
     risa "「这别墅……应该是在外国吧」"
     voice "mobJyosiA0047"
-    girl_a "「嗯、当然{image=font}」"
+    girl_a "「嗯、当然{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     voice "RISA_0471"
     risa "「啊哈哈哈哈……」"
     "这么自然地说出家里有国外的别墅这一点，果然是大小姐才做得到啊。"
@@ -229,7 +229,7 @@ label s016:
     show sara tsa02s2 at l
 
     voice "SARA_0070"
-    sara "「要是六夏和沙雪之间发生了什么，你要马上发邮件告诉我哦〜」"
+    sara "「要是六夏和沙雪之间发生了什么，你要马上发邮件告诉我哦{font=Tuffy-Regular-EN.ttf}♪{/font}」"
     "就这件事啊。"
 
 

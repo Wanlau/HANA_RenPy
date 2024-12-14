@@ -111,7 +111,7 @@ label s020:
 
 
     voice "YUUNA_0062"
-    yuuna "「呵呵呵，七海真是的，那么闹腾着，好可爱〜{image=font}」"
+    yuuna "「呵呵呵，七海真是的，那么闹腾着，好可爱〜{font=Tuffy-Regular-EN.ttf}♡{/font}」"
 
     hide yuuna 
     show sayuki tsy02f2
@@ -182,14 +182,14 @@ label s020:
 
 
     voice "ERISU_0054"
-    erisu "「哇，我要我要，我想试试{image=font}」"
+    erisu "「哇，我要我要，我想试试{font=Tuffy-Regular-EN.ttf}♡{/font}」"
 
 
     show sara tsa02m at c 
 
 
     voice "SARA_0099"
-    sara "「一起来吧，爱丽丝大人〜」"
+    sara "「一起来吧，爱丽丝大人{font=Tuffy-Regular-EN.ttf}♪{/font}」"
 
     hide kaede 
     hide sara 
@@ -247,7 +247,7 @@ label s020:
 
 
     voice "ERISU_0057"
-    erisu "「因为，看不见嘛{image=font}呵呵呵〜」"
+    erisu "「因为，看不见嘛{font=Tuffy-Regular-EN.ttf}♡{/font}呵呵呵〜」"
     voice "SIZUKU0046"
     sizuku "「等，等下，爱丽丝好重」"
     "总觉得只看得出爱丽丝大人，是在戏弄雫大人。"
@@ -338,7 +338,7 @@ label s020:
     voice "MIYA_0314"
     miya "「漂亮地……走光，呢」"
     voice "ERISU_0063"
-    erisu "「啊，真是的……雫真色{image=font}」"
+    erisu "「啊，真是的……雫真色{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     "雫大人想阻止爱丽丝大人，却摔倒了。"
     "变成从背后紧紧抱住了她。"
     "因为那原因，爱丽丝大人的泳衣竟然滑了下来，全敞开了。"
@@ -355,7 +355,7 @@ label s020:
     voice "RISA_0657"
     risa "「即便那样，我的话……会害羞到哭出来吧」"
     voice "ERISU_0064"
-    erisu "「真是的，不要嘛……雫，悄悄地盯上了这样的意外事件呢{image=font}」"
+    erisu "「真是的，不要嘛……雫，悄悄地盯上了这样的意外事件呢{font=Tuffy-Regular-EN.ttf}♡{/font}」"
 
 
     #※EV006P1
@@ -378,7 +378,7 @@ label s020:
     voice "RISA_0659"
     risa "「又增加了一个，这假期里快乐的回忆呢」"
     voice "MIYA_0317"
-    miya "「啊啦，是吗……这样的话我希望璃纱也能走光，来给我增加美丽的回忆呢{image=font}」"
+    miya "「啊啦，是吗……这样的话我希望璃纱也能走光，来给我增加美丽的回忆呢{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     voice "RISA_0660"
     risa "「那个……不要啊啊」"
 
@@ -555,7 +555,7 @@ label s020:
 
 
     voice "NANAMI0177"
-    nanami "「是的，管理人饲养的那只狗，非常可爱{image=font}」"
+    nanami "「是的，管理人饲养的那只狗，非常可爱{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     "七海同学很高兴地回答了。"
     voice "YUUNA_0071"
     yuuna "「七海她很喜欢动物呢。我家要是平常也有人在家的话，也能养动物了呢」"
@@ -702,7 +702,7 @@ label s020:
     voice "SAYUKI0156"
     sayuki "「是的呢。买了几个私有的孤岛，最近终于开通了快艇的道路」"
     voice "YUUNA_0080"
-    yuuna "「嘛，好厉害呢{image=font}我家也一定要买座大岛，坐着快艇去放松呢ー」"
+    yuuna "「嘛，好厉害呢{font=Tuffy-Regular-EN.ttf}♡{/font}我家也一定要买座大岛，坐着快艇去放松呢ー」"
     voice "SAYUKI0157"
     sayuki "「那真是很棒呢。优菜大人买的岛，想必很大吧」"
     "2个人都说着乱七八糟的话，但都带着笑容……"
@@ -735,7 +735,7 @@ label s020:
     voice "REO_0124"
     reo "「哼哼哼，那么爱丽丝，比赛吧！这样的话即使是我也能胜利的」"
     voice "RUNA_0033"
-    runa "「家境对决？有钱人对决？那样的话是我和姐姐大人大胜呢{image=font}」"
+    runa "「家境对决？有钱人对决？那样的话是我和姐姐大人大胜呢{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     voice "RENA_0060"
     rena "「是的呢……确实大家都很厉害，但我觉得我家也是不会输的哟〜」"
     "这、这个是……已经非常混乱了啊……"

@@ -83,15 +83,6 @@ init -2:
         renpy.register_style_preference("shadow","on",style.say_thought,"outlines",[(0,"#000000A0",2,2)])
         renpy.register_style_preference("shadow","off",style.say_thought,"outlines",[(3,"#000000D0",0,0)])
 
-    image font = ConditionSwitch(
-        "(renpy.get_style_preference('shadow') == 'on')","images/font.png",
-        "(renpy.get_style_preference('shadow') == 'off')","images/font2.png"
-        )
-    image tilde = ConditionSwitch(
-        "(renpy.get_style_preference('shadow') == 'on')","images/tilde.png",
-        "(renpy.get_style_preference('shadow') == 'off')","images/tilde2.png"
-        )
-
     transform c:
         xcenter 0.5
     transform l:

@@ -351,7 +351,7 @@ label s008:
 
 
     voice "SARA_0015"
-    sara "「啊，是美夜，美夜好久不见〜〜」"
+    sara "「啊，是美夜，美夜好久不见〜{font=Tuffy-Regular-EN.ttf}♪{/font}」"
     voice "MIYA_0099"
     miya "「呜……后悔，好后悔……」"
     voice "SARA_0016"
@@ -549,7 +549,7 @@ label s008:
     show mai tma02s2 at sl
 
     voice "MAI_0032"
-    mai "「当然是小六夏的事情啊〜」"
+    mai "「当然是小六夏的事情啊{font=Tuffy-Regular-EN.ttf}♪{/font}」"
     voice "MIYA_0111"
     miya "「………………」"
     "又是……篠崎六夏的话？"

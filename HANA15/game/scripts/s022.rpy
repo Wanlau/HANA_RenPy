@@ -62,7 +62,7 @@ label s022:
     "因为和纱良相比，我的工作要少一点。"
     "被表扬了的话，我不知道该用什么表情去面对。"
     voice "MAI_0148"
-    mai "「但是，很久没举办的三年级学生会，全员都到齐了呢〜」"
+    mai "「但是，很久没举办的三年级学生会，全员都到齐了呢{font=Tuffy-Regular-EN.ttf}♪{/font}」"
 
 
     show yuuna tyu01m at c 
@@ -114,7 +114,7 @@ label s022:
 
 
     voice "SARA_0101"
-    sara "「小枫〜〜好开心的样子，在说什么呢？」"
+    sara "「小枫〜{font=Tuffy-Regular-EN.ttf}♪{/font}好开心的样子，在说什么呢？」"
 
 
     show kaede tka02m at l
@@ -439,11 +439,11 @@ label s022:
     voice "SARA_0108"
     sara "「小枫，你们在说什么呢〜」"
     voice "RUNA_0034"
-    runa "「一定，是在夸奖我吧〜」"
+    runa "「一定，是在夸奖我吧{font=Tuffy-Regular-EN.ttf}♪{/font}」"
     voice "SARA_0109"
     sara "「小瑠奈不是给老师添了许多麻烦吗。所以，一定是在夸奖纱良，呐？」"
     voice "RUNA_0035"
-    runa "「这个人，在说什么啊……真是奇怪呢，老师〜」"
+    runa "「这个人，在说什么啊……真是奇怪呢，老师{font=Tuffy-Regular-EN.ttf}♪{/font}」"
     voice "SARA_0110"
     sara "「咕咕咕咕ー，明明比我小却还这么傲慢，小瑠奈你」"
     voice "RUNA_0036"
@@ -1192,7 +1192,7 @@ label s022:
     show runa tru02f2 at r
 
     voice "RUNA_0054"
-    runa "「嗯，嗯嗯……啊啊，好舒服〜」"
+    runa "「嗯，嗯嗯……啊啊，好舒服{font=Tuffy-Regular-EN.ttf}♪{/font}」"
     voice "TAKAKO0063"
     takako "「嗯哼哼，是吗？」"
     voice "RUNA_0055"
@@ -1200,7 +1200,7 @@ label s022:
     voice "TAKAKO0064"
     takako "「啊啦啊啦，瑠奈真是的……真的睡着了呢」"
     voice "TAKAKO0065"
-    takako "「但是今天，真的很伟大呢，瑠奈……呵呵呵{image=font}」"
+    takako "「但是今天，真的很伟大呢，瑠奈……呵呵呵{font=Tuffy-Regular-EN.ttf}♡{/font}」"
 
 
     #**暗転

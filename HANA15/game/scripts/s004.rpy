@@ -367,7 +367,7 @@ label s004:
 
 
     voice "YUUNA_0003"
-    yuuna "「是啊。七海也会成为下一届『环境整备委员会』的委员长{image=font}」"
+    yuuna "「是啊。七海也会成为下一届『环境整备委员会』的委员长{font=Tuffy-Regular-EN.ttf}♡{/font}」"
 
 
     show nanami tna05s2 at r
@@ -412,7 +412,7 @@ label s004:
 
 
     voice "SARA_0010"
-    sara "「小枫{image=font}哇、这种时候都还在考虑纱良的事情呢〜、能感受到深深的爱啊〜」"
+    sara "「小枫{font=Tuffy-Regular-EN.ttf}♡{/font}哇、这种时候都还在考虑纱良的事情呢〜、能感受到深深的爱啊〜」"
 
 
     show kaede tka08s2 at l
@@ -577,7 +577,7 @@ label s004:
     with dissolve
 
     voice "YUUNA_0007"
-    yuuna "「……啊啊、真开心啊。七海为了我，竟然与前辈争辩……唔呼呼呼{image=font}」"
+    yuuna "「……啊啊、真开心啊。七海为了我，竟然与前辈争辩……唔呼呼呼{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     "嗯？优菜大人似乎是在笑的样子。"
     "但是现在是讨论的正中心，不太可能会这样吧。"
     "但是都到这一步了，遇上了反对意见。"
@@ -718,7 +718,7 @@ label s004:
 
 
     voice "MAI_0008"
-    mai "「呵呵呵，玲绪似乎也同意新人加入了哦〜」"
+    mai "「呵呵呵，玲绪似乎也同意新人加入了哦{font=Tuffy-Regular-EN.ttf}♪{/font}」"
     "这句话让全场的气氛缓和下来。"
 
     hide kaede 
@@ -728,7 +728,7 @@ label s004:
     with dissolve
 
     voice "SARA_0013"
-    sara "「小枫，好帅〜、果然小枫是王子殿下呢{image=font}」"
+    sara "「小枫，好帅〜、果然小枫是王子殿下呢{font=Tuffy-Regular-EN.ttf}♡{/font}」"
 
 
     show kaede tka03s2 at l
@@ -921,7 +921,7 @@ label s004:
     show mai tma02s2 at r
 
     voice "MAI_0014"
-    mai "「玲绪……啊啊，果然玲绪很可爱{image=font}」"
+    mai "「玲绪……啊啊，果然玲绪很可爱{font=Tuffy-Regular-EN.ttf}♡{/font}」"
 
 
     show reo tre09s2 at l
@@ -956,7 +956,7 @@ label s004:
     show mai tma02s2 at r
 
     voice "MAI_0018"
-    mai "「然后我们要展示出，连青涩未熟的情侣也认同的……我和玲绪火热的爱的拥抱{image=font}」"
+    mai "「然后我们要展示出，连青涩未熟的情侣也认同的……我和玲绪火热的爱的拥抱{font=Tuffy-Regular-EN.ttf}♡{/font}」"
 
 
     show reo tre09s2 at l
@@ -996,7 +996,7 @@ label s004:
     with dissolve
 
     voice "ERISU_0000"
-    erisu "「是啊〜〜呵呵呵，说起来我听说了哦〜、玲绪，最开始是反对的吧？」"
+    erisu "「是啊〜{font=Tuffy-Regular-EN.ttf}♪{/font}呵呵呵，说起来我听说了哦〜、玲绪，最开始是反对的吧？」"
 
     hide sizuku 
     show reo tre03s2 at r
@@ -1044,7 +1044,7 @@ label s004:
     with dissolve
 
     voice "MAI_0019"
-    mai "「玲绪，这之后似乎也能和爱丽丝大人一起愉快地玩耍啊，太好了呢〜」"
+    mai "「玲绪，这之后似乎也能和爱丽丝大人一起愉快地玩耍啊，太好了呢{font=Tuffy-Regular-EN.ttf}♪{/font}」"
     voice "REO_0025"
     reo "「才不好〜、麻衣快救我」"
 
@@ -1065,7 +1065,7 @@ label s004:
     with dissolve
 
     voice "ERISU_0004"
-    erisu "「啊，对不起……那这个就之后继续吧，玲绪{image=font}」"
+    erisu "「啊，对不起……那这个就之后继续吧，玲绪{font=Tuffy-Regular-EN.ttf}♡{/font}」"
 
 
     show erisu ter03f2 at l
@@ -1202,7 +1202,7 @@ label s004:
     stop music fadeout 1.0
 
     #※EV001
-    scene ev01
+    scene EV01
     with dissolve
 
     play music "bgm/bgm22.ogg" fadein 1.0
@@ -1222,7 +1222,7 @@ label s004:
 
 
     #※EV001P1
-    scene ev01p1
+    scene EV01p1
     with dissolve
 
     voice "MIYA_0057"
