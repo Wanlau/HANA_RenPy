@@ -74,7 +74,7 @@ label s009:
     show miya tmi02f at l
 
     voice "miya_0548"
-    miya "「啊，真过意不去呢……从现在开始这床单，就要被弄湿了啊{image=font}」"
+    miya "「啊，真过意不去呢……从现在开始这床单，就要被弄湿了啊{font=Tuffy-Regular-EN.ttf}♡{/font}」"
 
 
     show risa tri04f at r
@@ -88,7 +88,7 @@ label s009:
     show risa tri05f at r
 
     voice "risa_0691"
-    risa "「啊啊啊{image=font}　美夜，还不行……」"
+    risa "「啊啊啊{font=Tuffy-Regular-EN.ttf}♡{/font}　美夜，还不行……」"
 
 
     show miya tmi01f at l
@@ -133,11 +133,11 @@ label s009:
     show risa tri05f at r
 
     voice "risa_0697"
-    risa "「啊……昂昂{image=font}　这么激烈地飞扑的话，会发生事故的哟」"
+    risa "「啊……昂昂{font=Tuffy-Regular-EN.ttf}♡{/font}　这么激烈地飞扑的话，会发生事故的哟」"
     voice "miya_0556"
     miya "「是呢，搞不好已经酿成大事故了呢……乳头已经变得这么坚挺了呢」"
     voice "risa_0698"
-    risa "「不要〜、好羞羞{image=font}」"
+    risa "「不要〜、好羞羞{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     voice "miya_0557"
     miya "「乳头以外的地方，也有可能会发生事故呢……不赶快调查的话」"
     voice "risa_0699"
@@ -147,11 +147,11 @@ label s009:
     voice "risa_0700"
     risa "「真是的……那么，在棉被上就好啦」"
     voice "miya_0559"
-    miya "「璃纱……是呢，这次就两个人扑到棉被上吧{image=font}」"
+    miya "「璃纱……是呢，这次就两个人扑到棉被上吧{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     voice "risa_0701"
     risa "「嗯，在有太阳的味道的棉被上，呐」"
     voice "miya_0560"
-    miya "「不过似乎在早上已经沾染上了很多璃纱的味道，我会好好疼爱它的{image=font}」"
+    miya "「不过似乎在早上已经沾染上了很多璃纱的味道，我会好好疼爱它的{font=Tuffy-Regular-EN.ttf}♡{/font}」"
 
 
     #//（妄想終了）
@@ -267,7 +267,7 @@ label s009:
 
 
     voice "risa_0706"
-    risa "「嗯嗯、完美了　其他值得在意的地方还有……」"
+    risa "「嗯嗯、完美了{font=Tuffy-Regular-EN.ttf}♪{/font}　其他值得在意的地方还有……」"
 
 
     #**暗転
@@ -369,7 +369,7 @@ label s009:
     risa "「嗯，知道了。我这就去准备」"
     "美夜提出了一个让人意外的提议。"
     "美夜在商店街购物的样子，虽然不太能想象得出。"
-    "两个人一起去的话，好像会很开心呢"
+    "两个人一起去的话，好像会很开心呢{font=Tuffy-Regular-EN.ttf}♪{/font}"
     "感觉这才是留宿的妙趣所在啊。"
 
 
@@ -619,7 +619,7 @@ label s009:
     "是不是说的有点太多了呢。"
     "为了掩饰，我呵呵呵地笑了起來。"
     voice "risa_0740"
-    risa "「晚饭，会做得很美味的，敬请期待」"
+    risa "「晚饭，会做得很美味的，敬请期待{font=Tuffy-Regular-EN.ttf}♪{/font}」"
 
 
     show miya tmi02f at l
@@ -690,7 +690,7 @@ label s009:
     show miya tmi02f at l
 
     voice "miya_0596"
-    miya "「是么？我可是这样想的呢{image=font}」"
+    miya "「是么？我可是这样想的呢{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     voice "risa_0748"
     risa "「美夜……真是的」"
     "我害羞的脸红起来……"
@@ -747,7 +747,7 @@ label s009:
     show miya tmi02f at l
 
     voice "miya_0599"
-    miya "「对于我来说，璃纱能尽情地让我疼爱，这就是最好的款待了{image=font}」"
+    miya "「对于我来说，璃纱能尽情地让我疼爱，这就是最好的款待了{font=Tuffy-Regular-EN.ttf}♡{/font}」"
 
 
     show risa tri04f at r
@@ -791,7 +791,7 @@ label s009:
     show miya tmi02f at l
 
     voice "miya_0603"
-    miya "「一点都不奇怪。是璃纱最喜欢的，可爱打扮哟{image=font}」"
+    miya "「一点都不奇怪。是璃纱最喜欢的，可爱打扮哟{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     voice "risa_0757"
     risa "「才、才不会喜欢啊，这种的……」"
 
@@ -916,7 +916,7 @@ label s009:
     show miya tmi02f at l
 
     voice "miya_0617"
-    miya "「那么璃纱就赶快做吧，裸体围裙{image=font}」"
+    miya "「那么璃纱就赶快做吧，裸体围裙{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     "从古时候就有什么的，总觉得很可疑。"
     "但是裸体围裙这个词，纱良立刻就理解了。"
     "至少有人会去做这件事我是知道了。"
@@ -1100,7 +1100,7 @@ label select03_end:
     show miya tmi02f
 
     voice "miya_0632"
-    miya "「因为是璃纱，想着一定会先给七海发短信。然后是纱良，给了我一个和预想一样的回复……简直就像我预想的那样呢」"
+    miya "「因为是璃纱，想着一定会先给七海发短信。然后是纱良，给了我一个和预想一样的回复……简直就像我预想的那样呢{font=Tuffy-Regular-EN.ttf}♪{/font}」"
 
 
     #**暗転
@@ -1174,7 +1174,7 @@ label Replay05:
     voice "risa_0790"
     risa "「虽然刚才也说过……果然这样，有点像是新婚夫妇呢」"
     voice "miya_0637"
-    miya "「呼呼呼，每天都有穿着裸体围裙的璃纱在家什么的，真是很棒的新婚生活呢{image=font}」"
+    miya "「呼呼呼，每天都有穿着裸体围裙的璃纱在家什么的，真是很棒的新婚生活呢{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     voice "risa_0791"
     risa "「裸、裸体围裙再也不会穿第二次了」"
     voice "miya_0638"
@@ -1196,7 +1196,7 @@ label Replay05:
     voice "risa_0793"
     risa "「诶？」"
     voice "miya_0640"
-    miya "「什、什么都没有……哈、哈{image=font}」"
+    miya "「什、什么都没有……哈、哈{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     "感觉美夜的呼吸好像变得相当的剧烈。"
     voice "miya_0641"
     miya "「不行了、真是的……这样子、光是看着就忍不住了」"
@@ -1216,18 +1216,18 @@ label Replay05:
     voice "miya_0642"
     miya "「还问做什么……哈、哈……這不是在给璃纱帮忙么」"
     voice "risa_0796"
-    risa "「嗯、哈……这哪里像是帮忙啦……真是的、不是说要一起做料理的吗……啊嗯{image=font}」"
+    risa "「嗯、哈……这哪里像是帮忙啦……真是的、不是说要一起做料理的吗……啊嗯{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     voice "miya_0643"
     miya "「诶、最开始是这么打算的。但是我不懂做料理哟……所以想着至少，让我帮璃纱变舒服吧」"
     voice "risa_0797"
-    risa "「这种帮忙，我才不需要啦……嗯{image=font}」"
+    risa "「这种帮忙，我才不需要啦……嗯{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     voice "miya_0644"
     miya "「但是慢慢的变得有感觉了呢……喏、才刚开始就已经这么湿了」"
     "美夜伸出手来，抚摸着我的私处。"
     voice "risa_0798"
     risa "「哈、不要……不是的、这个是……啊」"
     voice "miya_0645"
-    miya "「璃纱就算是在厨房里，也能马上变得下流起来呢{image=font}」"
+    miya "「璃纱就算是在厨房里，也能马上变得下流起来呢{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     voice "risa_0799"
     risa "「这、这……嗯、都怪美夜……」"
     "因为这样羞耻的姿态一直被美夜看着啊。"
@@ -1235,12 +1235,12 @@ label Replay05:
     voice "miya_0646"
     miya "「没关系哟璃纱。就会让你更舒服的」"
     voice "risa_0800"
-    risa "「啊呵……就说了不行了……不做饭的话……咕、呀{image=font}」"
+    risa "「啊呵……就说了不行了……不做饭的话……咕、呀{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     "把围裙翻起来，美夜把我的乳头含在嘴里。"
     voice "miya_0647"
     miya "「嗯啾、咻……啊哈，饭前的璃纱的甘甜胸部，我开动了……嗯、咻」"
     voice "risa_0801"
-    risa "「嗯……唔、呀、好害羞啊……哈、呵{image=font}」"
+    risa "「嗯……唔、呀、好害羞啊……哈、呵{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     "美夜看起来变得相当兴奋。"
     "就像婴儿一样，沉醉于对我的乳头的吮吸中。"
     voice "miya_0648"
@@ -1248,23 +1248,23 @@ label Replay05:
     voice "risa_0802"
     risa "「藏起来什么的，我的胸部很大之类的……啊、你不是知道吗」"
     voice "miya_0649"
-    miya "「虽然是这样，今天却特別的……又大、又柔软。非常的美味{image=font}」"
+    miya "「虽然是这样，今天却特別的……又大、又柔软。非常的美味{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     voice "risa_0803"
     risa "「呵啊嗯、不要这么用力的吸啊……嗯、嗯」"
     voice "miya_0650"
     miya "「对不起璃纱。但是没办法啊，璃纱太可爱了，根本控制不住啊」"
     voice "risa_0804"
-    risa "「怎么这样……啊、啊啊、停下來……嗯{image=font}」"
+    risa "「怎么这样……啊、啊啊、停下來……嗯{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     "无论怎么去忍耐，还是发出了H的声音。"
     "然后美夜的指尖慢慢地、描画着我的阴部。"
     "发出了湿润的水声。"
     voice "miya_0651"
     miya "「璃纱的这里，发出了这么下流的声音……真敏感啊」"
     voice "risa_0805"
-    risa "「不要啊……真是的，不要说这么奇怪的事情……啊、啊啊啊嗯{image=font}」"
+    risa "「不要啊……真是的，不要说这么奇怪的事情……啊、啊啊啊嗯{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     "美夜突然，用手指刺激了我最有感觉的地方。"
     voice "miya_0652"
-    miya "「要开始在璃纱可爱的这里搅动起来了……喏、你瞧{image=font}」"
+    miya "「要开始在璃纱可爱的这里搅动起来了……喏、你瞧{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     voice "risa_0806"
     risa "「不、不要、光是那里……啊啊、啊」"
     "腿不住地颤抖，全身失去了力气。"
@@ -1274,17 +1274,17 @@ label Replay05:
     voice "miya_0653"
     miya "「璃纱真是的，因为太有感觉而发出了哭声。还真是喜欢那个地方呢」"
     voice "risa_0808"
-    risa "「所以都说了，不要这样……已经、变得奇怪了……哈嗯{image=font}」"
+    risa "「所以都说了，不要这样……已经、变得奇怪了……哈嗯{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     "听到我甜美的声音、美夜的爱抚变得更加激烈。"
     voice "risa_0809"
     risa "「啊、啊啊……哈、已经……不行了、要去了」"
     voice "miya_0654"
-    miya "「呵、哈……璃纱、要去了吗……可以哟、去吧……裸体围裙的璃纱、马上就让你去了」"
+    miya "「呵、哈……璃纱、要去了吗……可以哟、去吧……裸体围裙的璃\n纱、马上就让你去了」"
     "那样说完，美夜的手指马上就激烈地搅动起来。"
     "姆Q姆Q的、淫乱的汁液奏出的声音节奏不断地加快。"
     "就像要合着那节奏一样，我体内的快感也不断变强……"
     voice "risa_0810"
-    risa "「啊、呀、不行、去了……啊啊嗯、唔、嗯、嗯～{image=font}{image=font}」"
+    risa "「啊、呀、不行、去了……啊啊嗯、唔、嗯、嗯～{font=Tuffy-Regular-EN.ttf}♡{/font}{font=Tuffy-Regular-EN.ttf}♡{/font}」"
 
 
     #※EV010P1：きゅっと目を閉じ、絶頂する璃紗の表情のパーツ。
@@ -1313,9 +1313,9 @@ label Replay05:
     voice "risa_0813"
     risa "「美夜……真是的、说什么呢……」"
     voice "miya_0656"
-    miya "「就是……穿着裸体围裙H，这不是最好的款待吗，嗯呵呵{image=font}」"
+    miya "「就是……穿着裸体围裙H，这不是最好的款待吗，嗯呵呵{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     voice "risa_0814"
-    risa "「真、真是的……笨蛋……{image=font}」"
+    risa "「真、真是的……笨蛋……{font=Tuffy-Regular-EN.ttf}♡{/font}」"
 
 
     #setscene 4
@@ -1374,15 +1374,15 @@ label s009_2:
     show miya tmi02f at l
 
     voice "miya_0659"
-    miya "「我知道了，璃纱{image=font}」"
+    miya "「我知道了，璃纱{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     "虽然第一次穿着裸体围裙H让我吓了一跳。"
     "但是在这种状况下被美夜所疼爱……非常的有感觉。"
     voice "risa_0817"
-    risa "（如果我和美夜结婚了的话……新婚生活会变成那样的么{image=font}）"
+    risa "（如果我和美夜结婚了的话……新婚生活会变成那样的么{font=Tuffy-Regular-EN.ttf}♡{/font}）"
     voice "risa_0818"
     risa "「……哈」"
     voice "miya_0660"
-    miya "「红着脸、傻笑着……奇怪的璃纱、呼呼呼{image=font}」"
+    miya "「红着脸、傻笑着……奇怪的璃纱、呼呼呼{font=Tuffy-Regular-EN.ttf}♡{/font}」"
 
 
     #**暗転

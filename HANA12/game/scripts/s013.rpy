@@ -197,7 +197,7 @@ label s013:
     voice "miya_0865"
     miya "「做饭好像会花不少时间，所以先把苹果……」"
     voice "risa_1040"
-    risa "「真的不用啦。美夜，你没有做过这种事情吧？那个看起来很简单，但实际上很麻烦哦」"
+    risa "「真的不用啦。美夜，你没有做过这种事情吧？那个看起来很简\n单，但实际上很麻烦哦」"
 
 
     show miya tmi03s at l
@@ -640,7 +640,7 @@ label s013:
 
 
     voice "miya_0899"
-    miya "「嘿嘿，哪个都好可爱啊{image=font}」"
+    miya "「嘿嘿，哪个都好可爱啊{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     "美夜的声音？"
     "对啊，美夜来看望我……"
     "在跟美夜说话的途中，我因为药的作用睡着了。"
@@ -648,7 +648,7 @@ label s013:
     "我缓缓睁开眼睛……看到了美夜的背影。"
     "她站在我的衣柜前，从中取出了什么。"
     voice "miya_0900"
-    miya "「这是……璃纱经常穿用的内衣呢，嘿嘿{image=font}」"
+    miya "「这是……璃纱经常穿用的内衣呢，嘿嘿{font=Tuffy-Regular-EN.ttf}♡{/font}」"
 
     hide miya 
     show risa tri04p
@@ -1035,7 +1035,7 @@ label select05_1:
     show miya tmi02s at l
 
     voice "miya_0926"
-    miya "「嗯……那，把衣服脱掉吧{image=font}」"
+    miya "「嗯……那，把衣服脱掉吧{font=Tuffy-Regular-EN.ttf}♡{/font}」"
 
 
     show risa tri04f at r
@@ -1071,7 +1071,7 @@ label select05_2:
     show miya tmi02s at l
 
     voice "miya_0928"
-    miya "「嗯……我会温柔地擦干净的{image=font}」"
+    miya "「嗯……我会温柔地擦干净的{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     "美夜说着，笑得很开心。"
 
 
@@ -1094,7 +1094,7 @@ label select05_end:
     "美夜的手，温柔地擦拭着我的背。"
     "一点也不疼，因为她擦得非常小心。"
     voice "risa_1099"
-    risa "「好暖和……真舒服」"
+    risa "「好暖和……真舒服{font=Tuffy-Regular-EN.ttf}♪{/font}」"
     voice "miya_0931"
     miya "「是吗」"
     "虽然是很舒服……"

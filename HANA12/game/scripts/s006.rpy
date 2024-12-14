@@ -131,7 +131,7 @@ label s006:
     risa "「一起吃饭、一起洗澡、一起睡觉……」"
     "比起想象更像是陷入了妄想一般的世界，并且在不断的延伸。"
     voice "risa_0427"
-    risa "「k、kiss……很多次。给她换衣服的时候，把衣服扒光的话……嘿嘿嘿{image=font}」"
+    risa "「k、kiss……很多次。给她换衣服的时候，把衣服扒光的话……嘿嘿嘿{font=Tuffy-Regular-EN.ttf}♡{/font}」"
 
 
     show risa tri05f
@@ -243,7 +243,7 @@ label s006:
     show risa tri02f
 
     voice "risa_0441"
-    risa "「所以傍晚就开始做点心吧」"
+    risa "「所以傍晚就开始做点心吧{font=Tuffy-Regular-EN.ttf}♪{/font}」"
 
 
     show risa tri01f
@@ -259,7 +259,7 @@ label s006:
     show risa tri02f
 
     voice "risa_0444"
-    risa "「哈啊〜终于完成了〜完美哟。这就是完美的计划哟」"
+    risa "「哈啊〜终于完成了〜完美哟。这就是完美的计划哟{font=Tuffy-Regular-EN.ttf}♪{/font}」"
     "光是为了做这个计划，就不知道花费了多少时间啊。"
     voice "risa_0445"
     risa "「照这样去度过春假的话……嘿嘿」"
@@ -410,7 +410,7 @@ label s006:
     "只是想象着美夜给予的爱，我的那里就已经湿透了。"
     "不仅是感情上想见美夜，身体也对美夜有着激烈的渴求。"
     voice "risa_0460"
-    risa "「我……到底、是有多H啊……嗯、啊{image=font}」"
+    risa "「我……到底、是有多H啊……嗯、啊{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     "幻想着不可以的事，手指继续动着。"
     voice "risa_0461"
     risa "「美夜……啊、嗯……美夜是用这种方式触碰这里的哦……哈啊、啊啊」"

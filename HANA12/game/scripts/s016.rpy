@@ -154,7 +154,7 @@ label s016:
 
     voice "risa_1172"
     risa "「妈妈，是我……对，璃纱」"
-    "看来妈妈接到我的电话后很是惊讶，不知道从哪里传来了砰的一声，反应好差劲。"
+    "看来妈妈接到我的电话后很是惊讶，不知道从哪里传来了砰的一\n声，反应好差劲。"
 
 
     show risa tri03s at r
@@ -224,7 +224,7 @@ label s016:
     show miya tmi02s at l
 
     voice "miya_0984"
-    miya "「璃纱你在妈妈面前也，很傲娇啊{image=font}」"
+    miya "「璃纱你在妈妈面前也，很傲娇啊{font=Tuffy-Regular-EN.ttf}♡{/font}」"
 
 
     show risa tri05s at r
@@ -277,7 +277,7 @@ label s016:
     show miya tmi02s at l
 
     voice "miya_0989"
-    miya "「但是看不到周围状况这一点还是没变啊」"
+    miya "「但是看不到周围状况这一点还是没变啊{font=Tuffy-Regular-EN.ttf}♪{/font}」"
 
 
     show risa tri03s at r
@@ -361,7 +361,7 @@ label s016:
     risa "「托这次美夜在我身后推了一把的福，我能和妈妈好好沟通了呢……嗯」"
     "就今天，放她逃掉吧……"
     voice "risa_1196"
-    risa "「……不、不行啊。等之后一定要好好说说她，嘿嘿嘿{image=font}」"
+    risa "「……不、不行啊。等之后一定要好好说说她，嘿嘿嘿{font=Tuffy-Regular-EN.ttf}♡{/font}」"
 
 
     #**暗転
@@ -472,7 +472,7 @@ label Replay07:
     voice "miya_1003"
     miya "「诶？」"
     voice "risa_1206"
-    risa "「……嗯、啾{image=font}」"
+    risa "「……嗯、啾{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     voice "miya_1004"
     miya "「嗯嗯、嗯……璃纱……」"
     "我主动吻了美夜。"
@@ -480,7 +480,7 @@ label Replay07:
     voice "miya_1005"
     miya "「啊、璃纱……嗯、真是的……」"
     voice "risa_1207"
-    risa "「抱歉呢，向你撒娇……但是，这样一来就没问题了{image=font}」"
+    risa "「抱歉呢，向你撒娇……但是，这样一来就没问题了{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     "完成了从美夜那里的勇气充能。"
     voice "risa_1208"
     risa "「谢谢，我……会努力的」"

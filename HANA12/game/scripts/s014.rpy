@@ -96,7 +96,7 @@ label s014:
     voice "risa_1120"
     risa "「嘿嘿，我知道了。不会再让美夜逃学了，今后我会好好注意身体的」"
     voice "miya_0944"
-    miya "「是呢，要小心呢」"
+    miya "「是呢，要小心呢{font=Tuffy-Regular-EN.ttf}♪{/font}」"
     voice "risa_1121"
     risa "「……呃、就算我不在也要好好去上课啊！！」"
     "啊，好险好险。"

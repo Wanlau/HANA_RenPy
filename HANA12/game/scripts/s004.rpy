@@ -412,7 +412,7 @@ label s004:
     show risa tri01s at r
 
     voice "risa_0302"
-    risa "「放在家里了，下回我会带上的。美夜还没有买到吗」"
+    risa "「放在家里了，下回我会带上的。美夜还没有买到吗{font=Tuffy-Regular-EN.ttf}♪{/font}」"
     voice "miya_0250"
     miya "「不是啊，对于笔记本，我没有平时随身带着的习惯」"
 
@@ -440,7 +440,7 @@ label s004:
     show miya tmi02s at l
 
     voice "miya_0253"
-    miya "「当然我记录的内容里，也会包含关于璃纱的H的事情哟{image=font}」"
+    miya "「当然我记录的内容里，也会包含关于璃纱的H的事情哟{font=Tuffy-Regular-EN.ttf}♡{/font}」"
 
 
     show risa tri04s at r
@@ -448,7 +448,7 @@ label s004:
     voice "risa_0306"
     risa "「诶诶诶！？」"
     voice "miya_0254"
-    miya "「怎样的体位、多少回、在哪里做的呢……只要能想到的，无不详书{image=font}」"
+    miya "「怎样的体位、多少回、在哪里做的呢……只要能想到的，无不详书{font=Tuffy-Regular-EN.ttf}♡{/font}」"
 
 
     show risa tri05s at r
@@ -480,7 +480,7 @@ label s004:
     show miya tmi02s at l
 
     voice "miya_0257"
-    miya "「把璃纱使用过的，带回去……{image=font}」"
+    miya "「把璃纱使用过的，带回去……{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     voice "risa_0310"
     risa "「千万别这么做……要是这么做的话，我是绝对不会给你的」"
 
@@ -658,7 +658,7 @@ label Replay02:
 
 
     voice "miya_0269"
-    miya "「咻……璃纱……好可爱……嗯{image=font}」"
+    miya "「咻……璃纱……好可爱……嗯{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     voice "risa_0322"
     risa "「嗯……啊、嗯……啾……美夜」"
     voice "miya_0270"
@@ -671,12 +671,12 @@ label Replay02:
     miya "「咻、啾……璃纱的舌头，好烫啊……嗯、嗯」"
     "亲吻之后，美夜向我裙内伸出了手，触摸起那火热的地方。"
     voice "risa_0324"
-    risa "「啊……非常的，温暖啊……{image=font}」"
+    risa "「啊……非常的，温暖啊……{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     voice "miya_0272"
-    miya "「璃纱也、呐……这么潮湿……啊{image=font}」"
+    miya "「璃纱也、呐……这么潮湿……啊{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     "美夜的手指在我的内衣外滑动，描绘着我的缝隙。"
     voice "risa_0325"
-    risa "「啊嗯{image=font}　啊、好棒……嗯、美夜……呃呵{image=font}」"
+    risa "「啊嗯{font=Tuffy-Regular-EN.ttf}♡{/font}　啊、好棒……嗯、美夜……呃呵{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     voice "miya_0273"
     miya "「好可爱啊，璃纱……咻嗞咻、嗯……嗯」"
 
@@ -688,15 +688,15 @@ label Replay02:
     "是因为进行了那样的对话吗……总觉得和平时比起来，现在的kiss更舒服。"
     "光是kiss已经满足不了了吗……美夜真是很可爱啊。"
     voice "risa_0326"
-    risa "「啊嗯……一想到美夜的事……嗯，就非常激动，心跳得胸口发痛……啊哈{image=font}」"
+    risa "「啊嗯……一想到美夜的事……嗯，就非常激动，心跳得胸口发痛……啊哈{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     voice "miya_0274"
-    miya "「呵呵……璃纱，说出了很让人高兴的事呐……啾、咻嗞……好可爱、嗞嗞」"
+    miya "「呵呵……璃纱，说出了很让人高兴的事呐……啾、咻嗞……好可\n爱、嗞嗞」"
     "舌头纠缠起来，淫靡的声音在两人间响起。"
     "然后因为这种煽动，我感觉到那里更加的湿了。"
     voice "miya_0275"
     miya "「璃纱，已经这样的……内裤，脏了呢……」"
     voice "risa_0327"
-    risa "「嗯、啾……啊、好像是……呐……呵{image=font}」"
+    risa "「嗯、啾……啊、好像是……呐……呵{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     "美夜也一样，内裤慢慢的湿了起来。"
     "就算这样我们依然互相对视，继续着甜蜜的kiss，互相用股间触碰。"
     voice "risa_0328"
@@ -704,7 +704,7 @@ label Replay02:
     voice "miya_0276"
     miya "「说什么呢，璃纱……我从最开始的时候，就一直是这样」"
     voice "risa_0329"
-    risa "「额……嗯、啊额{image=font}」"
+    risa "「额……嗯、啊额{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     "美夜的手指温柔地爱抚着我。"
     "作为响应，我发出了娇媚的声音。"
     voice "miya_0277"
@@ -721,8 +721,8 @@ label Replay02:
     risa "「美夜……喜欢……嗯、哈啊」"
     "明明说出了喜欢的话语，却马上害羞起来，又和美夜接起了吻。"
     voice "miya_0279"
-    miya "「嗯啾……啾、嗯哈……璃纱……咻{image=font}」"
-    "我们热情的亲吻着，就这样紧紧地拥抱……{image=font}"
+    miya "「嗯啾……啾、嗯哈……璃纱……咻{font=Tuffy-Regular-EN.ttf}♡{/font}」"
+    "我们热情的亲吻着，就这样紧紧地拥抱……{font=Tuffy-Regular-EN.ttf}♡{/font}"
 
 
     #setscene 1

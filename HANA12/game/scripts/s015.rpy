@@ -75,7 +75,7 @@ label s015:
 
 
     voice "risa_1138"
-    risa "「谢谢，看起来很好吃啊」"
+    risa "「谢谢，看起来很好吃啊{font=Tuffy-Regular-EN.ttf}♪{/font}」"
     voice "miya_0959"
     miya "「是吗？只是烤了一下面包而已」"
 
@@ -90,7 +90,7 @@ label s015:
     show miya tmi02s at l
 
     voice "miya_0960"
-    miya "「早上一醒来就做运动，肚子饿了吧……噗{image=font}」"
+    miya "「早上一醒来就做运动，肚子饿了吧……噗{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     voice "risa_1140"
     risa "「……我开动了」"
     "真是的，美夜马上就扯到奇怪的事情上去了。"
@@ -200,9 +200,9 @@ label s015:
     "我吻上了美夜的唇。"
     "包含了道不尽的感谢，与满满的爱意……"
     voice "risa_1156"
-    risa "「啾{image=font}　啊……美夜，最喜欢你了{image=font}」"
+    risa "「啾{font=Tuffy-Regular-EN.ttf}♡{/font}　啊……美夜，最喜欢你了{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     voice "miya_0970"
-    miya "「嗯……我也是哦，璃纱{image=font}」"
+    miya "「嗯……我也是哦，璃纱{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     "因为有美夜在，所以不会感到寂寞。"
     "因为有美夜在，才能够变得坦率。"
 
@@ -211,7 +211,7 @@ label s015:
     show risa tri02f at r
 
     voice "risa_1157"
-    risa "「虽然是这样的我，今后也要一直在我身边哦……美夜{image=font}」"
+    risa "「虽然是这样的我，今后也要一直在我身边哦……美夜{font=Tuffy-Regular-EN.ttf}♡{/font}」"
 
 
     #**暗転

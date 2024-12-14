@@ -6,7 +6,7 @@
     
     config.window_title = u"亲吻那片花瓣——画室的恋人们"
     config.name = "A Kiss For The Petals - Lovers of the Atelier"
-    config.version = "1.00"
+    config.version = "1.01"
     
     #config.windows_icon = "ui/icon.png"
     
@@ -21,11 +21,6 @@
     config.skip_indicator = False
     config.autosave_slots = 10
     config.quicksave_slots = 10
-    
-    config.default_fullscreen = False
-    config.default_afm_time = 10
-    config.default_emphasize_audio = True
-    config.default_text_cps = 0
         
     config.enter_transition = dissolve
     config.exit_transition = dissolve
@@ -50,7 +45,7 @@
     config.default_voice_volume = 0.7
     config.default_fullscreen = False
     config.default_afm_time = 9.0
-    config.default_emphasize_audio = True
+    config.default_emphasize_audio = False
     config.default_text_cps = 100
 
     persistent.window_opacity = 0.8

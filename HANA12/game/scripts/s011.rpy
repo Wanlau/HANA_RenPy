@@ -74,7 +74,7 @@ label s011:
     voice "mobjyoa_0015"
     girl_a "「回想一年前……作为班级委员的璃纱同学很操心总是逃课的美夜同学」"
     voice "mobjyob_0014"
-    girl_b "「呀——从那以后两个人就急速亲密了起来呢」"
+    girl_b "「呀——从那以后两个人就急速亲密了起来呢{font=Tuffy-Regular-EN.ttf}♪{/font}」"
     voice "risa_0928"
     risa "「………………哈〜」"
     "真是头疼啊。"
@@ -136,7 +136,7 @@ label s011:
     show risa tri02s
 
     voice "risa_0932"
-    risa "「就照这个样子，今后也要好好加油呐」"
+    risa "「就照这个样子，今后也要好好加油呐{font=Tuffy-Regular-EN.ttf}♪{/font}」"
 
 
     show miya tmi02s at l
@@ -173,7 +173,7 @@ label s011:
     show miya tmi02s at l
 
     voice "miya_0749"
-    miya "「这一年也请在各个方面多多关照啦，班长大人{image=font}」"
+    miya "「这一年也请在各个方面多多关照啦，班长大人{font=Tuffy-Regular-EN.ttf}♡{/font}」"
 
 
     show risa tri08s at r
@@ -239,7 +239,7 @@ label s011:
     show miya tmi02s at l
 
     voice "miya_0755"
-    miya "「我想得到更充实的奖励啊{image=font}」"
+    miya "「我想得到更充实的奖励啊{font=Tuffy-Regular-EN.ttf}♡{/font}」"
 
 
     show risa tri05s at r
@@ -287,13 +287,13 @@ label s011:
     voice "miya_0760"
     miya "「……呐、璃纱」"
     voice "risa_0950"
-    risa "「在、在这里……不行……啊{image=font}」"
+    risa "「在、在这里……不行……啊{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     "没来由地，身体颤抖了一下。"
     "这种兴奋……让我回忆起春假中和美夜在观览车里H。"
     "在避无可避、缓慢移动着的观览车中，不会被外人看见的、那次H。"
     "啊……那可是十分刺激的。"
     voice "risa_0951"
-    risa "「哈、哈……美、美夜……啊{image=font}」"
+    risa "「哈、哈……美、美夜……啊{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     "我再次渴求着那时候曾感受到的刺激感。"
     "美夜也像是知道我体内的开关已经被打开了一样，非常开心的样子。"
     voice "miya_0761"
@@ -519,7 +519,7 @@ label select04_end:
     show risa tri02s at r
 
     voice "risa_0965"
-    risa "「美夜……嗯{image=font}」"
+    risa "「美夜……嗯{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     "这回我也诚实地点了点头。"
     "毕竟我也不是真的不想……其实我，想要美夜。"
 
@@ -720,7 +720,7 @@ label select04_end:
     show miya tmi03s at l
 
     voice "miya_0785"
-    miya "「那样的璃纱，却和当时的我为了同一种事情而烦恼，这很奇怪啊。你不这么觉得吗？」"
+    miya "「那样的璃纱，却和当时的我为了同一种事情而烦恼，这很奇怪\n啊。你不这么觉得吗？」"
 
 
     show risa tri03s at r
@@ -858,7 +858,7 @@ label select04_end:
     "我沉默下来，开始思考着。"
     "像是要将以前一直在逃避的问题都整理一遍一样，静静地思考。"
     voice "risa_1000"
-    risa "「我……喜欢妈妈。就算是现在，大概也还是喜欢……但是妈妈现在、离婚了啊」"
+    risa "「我……喜欢妈妈。就算是现在，大概也还是喜欢……但是妈妈现\n在、离婚了啊」"
     voice "risa_1001"
     risa "「所以妈妈、可能讨厌我了吧……嗯，把我当作累赘也说不定」"
 
@@ -874,7 +874,7 @@ label select04_end:
     voice "risa_1002"
     risa "「嗯，她没有这么说过。但是……我是爸爸和妈妈的孩子，是两个人爱的结晶，现在那份爱却已经崩毁了」"
     voice "risa_1003"
-    risa "「我会忍不住想，父母已经不再相爱……那么我也不再被需要了吧。忍不住想妈妈是不是为履行作为母亲的义务，才一直拼命地养育我」"
+    risa "「我会忍不住想，父母已经不再相爱……那么我也不再被需要了\n吧。忍不住想妈妈是不是为履行作为母亲的义务，才一直拼命地\n养育我」"
 
 
     show miya tmi08s at l

@@ -73,7 +73,7 @@ label s002:
     voice "Mobjyoa_0007"
     girl_a "「现在这个季节，无论去哪儿都不错呢……去山手公园野餐似乎挺好的」"
     voice "Mobjyob_0007"
-    girl_b "「璃纱同学的料理一定很拿手吧……啊啊，我也好想尝尝呢，璃纱同学亲手做的便当」"
+    girl_b "「璃纱同学的料理一定很拿手吧……啊啊，我也好想尝尝呢，璃纱同学亲手做的便当{font=Tuffy-Regular-EN.ttf}♪{/font}」"
     voice "risa_0111"
     risa "「虽然你这么期待，可我其实做不出什么厉害的东西……」"
     voice "Mobjyoa_0008"
@@ -83,7 +83,7 @@ label s002:
     voice "Mobjyoa_0009"
     girl_a "「诶，在原宿成为话题的那个『魔法甜点』加盟了吗！？今天放学后要一起去吗？」"
     voice "Mobjyob_0009"
-    girl_b "「一定要一起去哦。能和你一起去真开心{image=font}　啊啊，好想吃柠檬吉士蛋糕呐」"
+    girl_b "「一定要一起去哦。能和你一起去真开心{font=Tuffy-Regular-EN.ttf}♡{/font}　啊啊，好想吃柠檬吉士蛋糕呐」"
 
 
     show risa tri01s
@@ -172,7 +172,7 @@ label s002:
 
 
     voice "miya_0062"
-    miya "「啊啦，璃纱。欢迎光临{image=font}」"
+    miya "「啊啦，璃纱。欢迎光临{font=Tuffy-Regular-EN.ttf}♡{/font}」"
 
 
     show miya tmi02s at l
@@ -243,7 +243,7 @@ label select01_1:
     show miya tmi02s at l
 
     voice "miya_0067"
-    miya "「诶，荣幸之至{image=font}」"
+    miya "「诶，荣幸之至{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     "美夜的笑脸，加上美味的茶与甜点的诱惑。"
     "啊啊，果然我的意志还是很不坚定啊……"
     voice "miya_0068"
@@ -429,7 +429,7 @@ label select01_end:
     voice "risa_0139"
     risa "「真是的，赶紧忘掉吧」"
     voice "miya_0084"
-    miya "「才不，这么有意思的事情才不会忘记呢」"
+    miya "「才不，这么有意思的事情才不会忘记呢{font=Tuffy-Regular-EN.ttf}♪{/font}」"
     voice "risa_0140"
     risa "「还真是坏心眼啊……美夜你」"
     voice "miya_0085"
@@ -674,8 +674,8 @@ label select01_end:
     show miya tmi02s
 
     voice "miya_0107"
-    miya "「没人用的话……那我可以拿来用吧」"
-    "就这样从那天开始，这个画师就成了我隐秘的家。"
+    miya "「没人用的话……那我可以拿来用吧{font=Tuffy-Regular-EN.ttf}♪{/font}」"
+    "就这样从那天开始，这个画室就成了我隐秘的家。"
     "做了大扫除，把必需品拿了进来，根据自己的喜好做了各种各样的改装……"
 
 
@@ -858,7 +858,7 @@ label select01_end:
     "啊啊……真是不甘心，正如美夜所说。"
     "这种故事，我真的很在意，太戳我了。"
     voice "miya_0127"
-    miya "「璃纱……她呢，有个恋人。大赛中提交的作品在这里有认真的画，和那位恋人在一起的甜美时光，也是在这间画室里度过的」"
+    miya "「璃纱……她呢，有个恋人。大赛中提交的作品在这里有认真的\n画，和那位恋人在一起的甜美时光，也是在这间画室里度过的」"
     voice "risa_0170"
     risa "「和恋人，一起度过……真的是一间秘密画室呢」"
 
@@ -950,7 +950,7 @@ label select01_end:
     show risa tri02s at r 
 
     voice "risa_0182"
-    risa "「请，一定要让我看看」"
+    risa "「请，一定要让我看看{font=Tuffy-Regular-EN.ttf}♪{/font}」"
 
 
     show miya tmi02s at l
@@ -1024,7 +1024,7 @@ label select01_end:
     show risa tri05s at r 
 
     voice "risa_0190"
-    risa "「想你的夜，不眠而过的寂寞，犹如冬雪的寂寞……啊，心跳加速啊{image=font}」"
+    risa "「想你的夜，不眠而过的寂寞，犹如冬雪的寂寞……啊，心跳加速啊{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     "写给恋人的情诗爱语。"
     "在途中，字迹变成另外的人了。"
     "之后写的人不断地变化，这点很明显。"
@@ -1069,13 +1069,13 @@ label select01_end:
     show miya tmi02s at l
 
     voice "miya_0152"
-    miya "「我们也，将这份爱继承下去吧，璃纱{image=font}」"
+    miya "「我们也，将这份爱继承下去吧，璃纱{font=Tuffy-Regular-EN.ttf}♡{/font}」"
 
 
     show risa tri02s at r 
 
     voice "risa_0196"
-    risa "「美夜……{image=font}」"
+    risa "「美夜……{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     "美夜把速写簿翻到了新的一页。"
     voice "miya_0153"
     miya "「在这里一起写下爱语吧」"
@@ -1111,7 +1111,7 @@ label select01_end:
     show risa tri05s at r 
 
     voice "risa_0200"
-    risa "「美夜……啊……{image=font}」"
+    risa "「美夜……啊……{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     "被美夜的手握着，感觉十分安心。"
 
 
@@ -1156,7 +1156,7 @@ label select01_end:
     risa "「是我妈妈……」"
     "平日里在这种时间打电话过来什么的……"
     "反正只是工作间隔的休息时间而已。"
-    "光想着自己方便，完全不考虑我这边……现在或许在上课之类的事，想都不想。"
+    "光想着自己方便，完全不考虑我这边……现在或许在上课之类的\n事，想都不想。"
     voice "risa_0206"
     risa "「………………」"
     "我拿出手机，直接卸了电池。"

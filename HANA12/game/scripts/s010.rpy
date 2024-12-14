@@ -30,7 +30,7 @@ label s010:
 
 
     voice "risa_0819"
-    risa "「……嘿嘿、呵呵呵{image=font}」"
+    risa "「……嘿嘿、呵呵呵{font=Tuffy-Regular-EN.ttf}♡{/font}」"
 
 
     show miya tmi01f at l
@@ -112,13 +112,13 @@ label s010:
 
 
     voice "risa_0827"
-    risa "「嗯、我要去{image=font}　一起去吧{image=font}」"
+    risa "「嗯、我要去{font=Tuffy-Regular-EN.ttf}♡{/font}　一起去吧{font=Tuffy-Regular-EN.ttf}♡{/font}」"
 
 
     show miya tmi02f at l
 
     voice "miya_0668"
-    miya "「嗯、知道了……呵呵、呼呼{image=font}」"
+    miya "「嗯、知道了……呵呵、呼呼{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     "虽然常常在家里见面，可是考虑到美夜的工作，我总觉得不能再提出更任性的要求了。"
     "所以我完全没想到，美夜会再一次提出约会。"
 
@@ -156,9 +156,9 @@ label s010:
     show risa tri02f at r
 
     voice "risa_0832"
-    risa "「呵呵呵」"
+    risa "「呵呵呵{font=Tuffy-Regular-EN.ttf}♪{/font}」"
     "要是能逛到什么可爱的店铺就好了。"
-    "或者是有美味甜点的餐厅也很棒。{image=font}"
+    "或者是有美味甜点的餐厅也很棒。{font=Tuffy-Regular-EN.ttf}♡{/font}"
 
 
     show miya tmi01f at l
@@ -190,7 +190,7 @@ label s010:
     show miya tmi02f at l
 
     voice "miya_0673"
-    miya "「我只是随口说有很多玩偶看起来差不多而已。璃纱着什么急，呼呼呼{image=font}」"
+    miya "「我只是随口说有很多玩偶看起来差不多而已。璃纱着什么急，呼呼呼{font=Tuffy-Regular-EN.ttf}♡{/font}」"
 
 
     show risa tri03f at r
@@ -556,7 +556,7 @@ label s010:
     show risa tri02f at r
 
     voice "risa_0873"
-    risa "「啊啊、真的很感谢、美夜{image=font}」"
+    risa "「啊啊、真的很感谢、美夜{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     voice "miya_0700"
     miya "「……高兴得太早了、璃纱」"
 
@@ -609,7 +609,7 @@ label Replay06:
 
     "坐着观览车，慢慢地向上行。"
     voice "risa_0878"
-    risa "「哇、厉害，好厉害啊{image=font}　被橙色的夕阳染上了色彩的大海，多么浪漫的风景啊」"
+    risa "「哇、厉害，好厉害啊{font=Tuffy-Regular-EN.ttf}♡{/font}　被橙色的夕阳染上了色彩的大海，多么浪漫的风景啊」"
     voice "miya_0704"
     miya "「是、是啊……真好、啊……」"
     "美夜强绷着表情，对外面的风景视而不见。"
@@ -640,7 +640,7 @@ label Replay06:
     voice "risa_0883"
     risa "「诶、嗯……怎么了、美夜？」"
     voice "miya_0709"
-    miya "「………………啾{image=font}」"
+    miya "「………………啾{font=Tuffy-Regular-EN.ttf}♡{/font}」"
 
     #♂MS
     stop music fadeout 1.0
@@ -656,13 +656,13 @@ label Replay06:
 
 
     voice "risa_0884"
-    risa "「啊……嗯、嗯啾……美夜、嗯{image=font}」"
+    risa "「啊……嗯、嗯啾……美夜、嗯{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     "距地面数百米上以上的甜蜜之吻。"
     "美夜对窗外的景色一概无视，只是专注地凝视着我。"
     voice "risa_0885"
     risa "「啊、总觉得比平时的kiss还要、更害羞……哈嗯……啊、舌头也……嗯」"
     voice "miya_0710"
-    miya "「嗯嗯……很可爱哦、璃纱。我除了璃纱以外一切都看不见，天空大海夕阳统统看不见……只能看见璃纱、啾、啾{image=font}」"
+    miya "「嗯嗯……很可爱哦、璃纱。我除了璃纱以外一切都看不见，天空大海夕阳统统看不见……只能看见璃纱、啾、啾{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     voice "risa_0886"
     risa "「不、不行……啊啊啊嗯、太激烈了、光是kiss就已经要融化了……哈啊」"
     "由于拼命撒娇的美夜很可爱，我心里扑通扑通直跳。"
@@ -673,16 +673,16 @@ label Replay06:
     voice "miya_0711"
     miya "「啊！！现、在、摇晃得非常厉害……啊、璃纱」"
     voice "risa_0887"
-    risa "「没关系的、美夜。往这里看、只看着我……嗯、啾{image=font}」"
+    risa "「没关系的、美夜。往这里看、只看着我……嗯、啾{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     voice "miya_0712"
     miya "「嗯……璃纱……啾、嗯……」"
     "我像轻啄一般反复地亲吻着美夜。"
     "这样的话，美夜就不害怕了吧。"
     "要是能让美夜只沉醉于和我的亲吻，甚至感受不到这份摇晃就好了。"
     voice "risa_0888"
-    risa "「嗯嗯、美夜……啾、啾{image=font}」"
+    risa "「嗯嗯、美夜……啾、啾{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     voice "miya_0713"
-    miya "「嗞……啾、啾嗯……璃纱、啊、啾唔唔唔{image=font}」"
+    miya "「嗞……啾、啾嗯……璃纱、啊、啾唔唔唔{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     "像是忘记了正身处高处一样，美夜沉浸其中。"
     "美夜在这个特殊的地方展现出了和平时不同的模样。"
     voice "risa_0889"
@@ -704,7 +704,7 @@ label Replay06:
     voice "miya_0714"
     miya "「璃、璃纱……你、你在做什么！？」"
     "我抱着美夜，将手绕到她身前，从衣服的间隙中揉摸着她柔软的胸部。"
-    "啊、美夜的胸部是这样的绝妙柔软……我要再次确认这件事{image=font}"
+    "啊、美夜的胸部是这样的绝妙柔软……我要再次确认这件事{font=Tuffy-Regular-EN.ttf}♡{/font}"
     voice "miya_0715"
     miya "「等等璃纱、停下吧……啊嗯、好可怕」"
     voice "risa_0891"
@@ -715,7 +715,7 @@ label Replay06:
     "就像小动物一样轻微地颤抖着。"
     "我一只手悄悄地向美夜的股间伸去。"
     voice "miya_0717"
-    miya "「这、这样的地方……怎么可以、璃纱……啊、啊嗯{image=font}」"
+    miya "「这、这样的地方……怎么可以、璃纱……啊、啊嗯{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     "美夜虽然试图抵抗，却完全使不上力。"
     "担心着怕从座位上掉下去，她反而慌忙地抱住了我。"
     voice "risa_0892"
@@ -729,7 +729,7 @@ label Replay06:
     "我一边回忆着美夜对我的爱抚，一边模仿着。"
     "于是美夜的全身都剧烈地颤抖了起来。"
     voice "miya_0719"
-    miya "「啊、不行……总觉得止不住战栗，有了感觉……啊嗯{image=font}」"
+    miya "「啊、不行……总觉得止不住战栗，有了感觉……啊嗯{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     voice "risa_0894"
     risa "「呼呼……有这么舒服吗，美夜」"
     "光是想着能给予美夜快感，我就兴奋了起来。"
@@ -745,7 +745,7 @@ label Replay06:
     risa "「汗、呐……有这么粘吗？」"
     "为了让那发出粘粘的声音，我的手指在温热的窄道里搅拌着。"
     voice "miya_0722"
-    miya "「啊嗯{image=font}　不行、我开始颤栗了……啊嗯{image=font}」"
+    miya "「啊嗯{font=Tuffy-Regular-EN.ttf}♡{/font}　不行、我开始颤栗了……啊嗯{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     "美夜的腿稍微打开了点。"
     voice "risa_0897"
     risa "「啊啊、好厉害……火热的蜜汁不断地溢出来……呐美夜、听得见吗？」"
@@ -754,7 +754,7 @@ label Replay06:
     "这种平时不可能发生的状况，使我的情绪更加兴奋了起来。"
     "啊、想更多更多的、给美夜带来快感……"
     voice "miya_0723"
-    miya "「啊……呀、胸部、这样摸的话……嗯{image=font}」"
+    miya "「啊……呀、胸部、这样摸的话……嗯{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     "美夜的乳头突然被我紧紧地捏住。"
     "突起出现了反应，一瞬间便硬了。"
     voice "risa_0898"
@@ -762,7 +762,7 @@ label Replay06:
     voice "miya_0724"
     miya "「呀……啊、好像已经无法思考了……璃纱的手、非常的……舒服」"
     voice "risa_0899"
-    risa "「是吗……那么、继续感受吧。更加更加的混乱吧、美夜{image=font}」"
+    risa "「是吗……那么、继续感受吧。更加更加的混乱吧、美夜{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     "看到美夜淫靡的表情，我激动至极。"
     "想一直这样爱着美夜。"
     "想让美夜永远这样舒服。"
@@ -775,9 +775,9 @@ label Replay06:
 
 
     voice "risa_0900"
-    risa "「美夜……嗯、啾、啾{image=font}」"
+    risa "「美夜……嗯、啾、啾{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     voice "miya_0725"
-    miya "「不行……璃纱、啊……啾唔唔唔{image=font}」"
+    miya "「不行……璃纱、啊……啾唔唔唔{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     voice "risa_0901"
     risa "「怎么样？有感觉吗」"
     voice "miya_0726"
@@ -807,7 +807,7 @@ label Replay06:
     risa "「虽然还想再继续……但是好像就快着陆了呢，美夜」"
     "我为了让爱液更多地流出来，在美夜的里面激烈地动起手指。"
     voice "miya_0730"
-    miya "「啊、啊啊啊、璃纱…去了、要去了、我……啊啊啊、去了、嗯啊啊啊啊{image=font}{image=font}」"
+    miya "「啊、啊啊啊、璃纱…去了、要去了、我……啊啊啊、去了、嗯啊啊啊啊{font=Tuffy-Regular-EN.ttf}♡{/font}{font=Tuffy-Regular-EN.ttf}♡{/font}」"
 
 
     #※EV012P2：絶頂し、頬を染めハァハァと脫力している美夜の表情、そんな美夜を高揚してぽーっと見つめる璃紗の表情パーツ。
@@ -921,7 +921,7 @@ label s010_2:
     "正常状态的美夜又回来了。"
     "这个样子……主动权又回到了美夜的手上。"
     voice "miya_0738"
-    miya "「不过啊，璃纱居然对我做了这样的事……真是意外啊{image=font}」"
+    miya "「不过啊，璃纱居然对我做了这样的事……真是意外啊{font=Tuffy-Regular-EN.ttf}♡{/font}」"
 
 
     show risa tri04f at r
@@ -946,7 +946,7 @@ label s010_2:
     show miya tmi02f at l
 
     voice "miya_0740"
-    miya "「是吗……呼呼呼{image=font}」"
+    miya "「是吗……呼呼呼{font=Tuffy-Regular-EN.ttf}♡{/font}」"
 
 
     show risa tri05f at r

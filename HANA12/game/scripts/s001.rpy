@@ -23,7 +23,7 @@ label s001:
     "但随着春天的到来，全新的生活也开始了。"
     "在高等部第二年的春天……"
     "我和最喜欢的恋人美夜一同，迎来了新的季节。"
-    "我们俩一定会一直恩爱的度过每一天……我是这样坚信的{image=font}"
+    "我们俩一定会一直恩爱的度过每一天……我是这样坚信的{font=Tuffy-Regular-EN.ttf}♡{/font}"
     
     
     #**學校廊下
@@ -84,7 +84,7 @@ label s001:
     
     
     voice "risa_0006"
-    risa "「现在……可能是因为喜欢，才去找她的{image=font}」"
+    risa "「现在……可能是因为喜欢，才去找她的{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     "这种感觉非常强烈。"
     
     
@@ -420,7 +420,7 @@ label s001:
     
     
     voice "risa_0033"
-    risa "「啊，好可爱啊……这个{image=font}」"
+    risa "「啊，好可爱啊……这个{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     voice "miya_0008"
     miya "「嗯，等喝完茶以后就把这个送给璃纱哦」"
     
@@ -440,7 +440,7 @@ label s001:
     
     
     voice "miya_0009"
-    miya "「当然了，呼呼{image=font}」"
+    miya "「当然了，呼呼{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     "看到我的反应，美夜笑了起来。"
     "糟糕，被可爱的东西给诱惑了，现在得就美夜逃课的事情好好进行说教。"
     
@@ -484,7 +484,7 @@ label s001:
     
     
     voice "risa_0038"
-    risa "「好，好可爱啊〜{image=font}　什么啊这是！这个马卡龙看起来就像小熊一样〜{image=font}　就像那个噗茨小熊一样{image=font}」"
+    risa "「好，好可爱啊〜{font=Tuffy-Regular-EN.ttf}♡{/font}　什么啊这是！这个马卡龙看起来就像小熊一样〜{font=Tuffy-Regular-EN.ttf}♡{/font}　就像那个噗茨小熊一样{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     
     
     show miya tmi03s at l
@@ -495,7 +495,7 @@ label s001:
     voice "miya_0012"
     miya "「璃纱，璃纱，淡定一点」"
     voice "risa_0039"
-    risa "「吃掉的话好浪费啊〜{image=font}　对了，在吃之前先拍张照吧，那个手机，手机呢」"
+    risa "「吃掉的话好浪费啊〜{font=Tuffy-Regular-EN.ttf}♡{/font}　对了，在吃之前先拍张照吧，那个手\n机，手机呢」"
     
     #//se：攜帯のシャッター音
     #♀SE002
@@ -511,7 +511,7 @@ label s001:
     
     
     voice "miya_0013"
-    miya "「呼呼，你能这么高兴真是太好了」"
+    miya "「呼呼，你能这么高兴真是太好了{font=Tuffy-Regular-EN.ttf}♪{/font}」"
     
     
     show risa tri03s at r
@@ -711,13 +711,13 @@ label s001:
     
     
     voice "miya_0024"
-    miya "「璃纱，你看这怎么样……啾{image=font}」"
+    miya "「璃纱，你看这怎么样……啾{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     voice "risa_0055"
     risa "「嗯！？呜……啾，哈啊」"
     "突然之间被亲吻了。"
     "美夜甘甜的唇上残留着少许樱花的味道。"
     voice "miya_0025"
-    miya "「璃纱的唇好甜啊……嗯啾{image=font}」"
+    miya "「璃纱的唇好甜啊……嗯啾{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     
     
     
@@ -727,7 +727,7 @@ label s001:
     
     
     voice "risa_0056"
-    risa "「嗯啊……啾，唔{image=font}」"
+    risa "「嗯啊……啾，唔{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     "美夜和我一定有着同样的感受。"
     "沉醉在和美夜kiss中，就这样不知不觉间她绕到了我的身后。"
     
@@ -767,7 +767,7 @@ label Replay01:
     voice "miya_0027"
     miya "「啾，璃纱……啊，好棒……再把嘴，张开一点……啾，嗯……」"
     voice "risa_0059"
-    risa "「啊哈，美夜……啊，舌头好H，啊嗯{image=font}　啾，唔……嗯啊……嗯」"
+    risa "「啊哈，美夜……啊，舌头好H，啊嗯{font=Tuffy-Regular-EN.ttf}♡{/font}　啾，唔……嗯啊……嗯」"
     "互相追逐交缠的舌尖带来的快感，让我不由得闭上了眼睛。"
     
     
@@ -777,20 +777,20 @@ label Replay01:
     
     
     voice "risa_0060"
-    risa "「嗯……啊，嗯啊…好厉害，美夜……啊{image=font}」"
+    risa "「嗯……啊，嗯啊…好厉害，美夜……啊{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     "只是亲吻我就快要融化一般，而美夜的手不知何时伸向了我的胸部。"
     voice "miya_0028"
-    miya "「啊……好软。璃纱的这里真的，好可爱呢……啾{image=font}」"
+    miya "「啊……好软。璃纱的这里真的，好可爱呢……啾{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     voice "risa_0061"
-    risa "「啊啊，不行……美夜好H……啊，呀啊{image=font}」"
+    risa "「啊啊，不行……美夜好H……啊，呀啊{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     voice "miya_0029"
     miya "「璃纱真敏感呢。只是轻触乳首而已，就那么舒服吗？」"
     voice "risa_0062"
-    risa "「不是……因为是一边kiss，所以才……啊，稍微有些刺激而已……嗯，但是……啊，嗯{image=font}」"
+    risa "「不是……因为是一边kiss，所以才……啊，稍微有些刺激而已……嗯，但是……啊，嗯{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     voice "miya_0030"
-    miya "「啊拉，不就是说有感觉了吗？」"
+    miya "「啊啦，不就是说有感觉了吗？」"
     voice "risa_0063"
-    risa "「呜呜呜……美夜果然欺负人……嗯，啊啊{image=font}」"
+    risa "「呜呜呜……美夜果然欺负人……嗯，啊啊{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     "一边低声耳语着，一边持续轻揉着胸部。"
     "偶尔用手指弹弄刺激着乳头。"
     "啊……不行，乳首微微颤动着，已经硬了起来。"
@@ -802,15 +802,15 @@ label Replay01:
     voice "miya_0032"
     miya "「所以，呐……再淫靡一点的喘息也是可以的」"
     voice "risa_0065"
-    risa "「笨、笨蛋……不要，这种事……才不会做……啊啊{image=font}」"
+    risa "「笨、笨蛋……不要，这种事……才不会做……啊啊{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     "就算口头拒绝，被美夜的手指不断触碰着，理性上还是屈服了。"
     "稍微一放松，甜美的娇喘就不自觉的流露出来。"
     voice "risa_0066"
     risa "「啊，嗯……啊，不要……哈」"
     voice "miya_0033"
-    miya "「紧咬嘴唇，逞强忍耐……璃纱的这一点我也很喜欢哦。不过……果然还是想听你发出更多可爱的声音……啾{image=font}」"
+    miya "「紧咬嘴唇，逞强忍耐……璃纱的这一点我也很喜欢哦。不过……果然还是想听你发出更多可爱的声音……啾{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     voice "risa_0067"
-    risa "「啊哈，美夜……啊哈……啊，啊哈……{image=font}」"
+    risa "「啊哈，美夜……啊哈……啊，啊哈……{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     "美夜的舌头更加情欲十足的在我口中不断搅动。"
     "和我紧紧的唇舌交缠，激烈地舔舐着。"
     "快感实在太过强烈，让我的理性完全被溶解了。"
@@ -844,7 +844,7 @@ label Replay01:
     risa "「美、美夜……我，好难受。求你了，给我……更多」"
     "听到我这句话的瞬间，美夜满足地笑了。"
     voice "miya_0036"
-    miya "「璃纱……嗯，我知道了。更多……更加的疼爱你{image=font}」"
+    miya "「璃纱……嗯，我知道了。更多……更加的疼爱你{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     
     
     #※EV002
@@ -867,9 +867,9 @@ label Replay01:
     voice "risa_0075"
     risa "「美夜…变态，H……已经可以了吧，饶了我吧？」"
     voice "miya_0039"
-    miya "「不行啊，不要松开手。让我再多看看这样下流的璃纱……呐{image=font}」"
+    miya "「不行啊，不要松开手。让我再多看看这样下流的璃纱……呐{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     voice "risa_0076"
-    risa "「但，但是……啊嗯，太羞耻了……啊啊{image=font}」"
+    risa "「但，但是……啊嗯，太羞耻了……啊啊{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     "而且内裤也半脱到了大腿上。"
     "好容易才让它能挂在那里……让美夜把我最重要的那里，所有的一切一览无遗。"
     "强烈的羞耻心，让我的身体开始发热。"
@@ -884,29 +884,29 @@ label Replay01:
     voice "risa_0078"
     risa "「笨，笨蛋！这种事，不要说出来啊……太羞耻了，都要哭出来了」"
     voice "miya_0042"
-    miya "「啊拉，这样的话……那么，我就什么都不说了……」"
+    miya "「啊啦，这样的话……那么，我就什么都不说了……」"
     voice "risa_0079"
     risa "「……诶？」"
     voice "miya_0043"
     miya "「………………」"
     "美夜当真就不说话了，一直盯着我的股间看。"
     voice "risa_0080"
-    risa "「哈，哈……啊……不，不要……啊{image=font}」"
+    risa "「哈，哈……啊……不，不要……啊{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     "这样的话反而让我更加羞涩。"
     "被如此注视着，总觉得私处的中心渐渐灼热了起来。"
     voice "risa_0081"
     risa "「不，不要这样盯着看，美夜……」"
     "因为太过羞耻，眼泪都要流下来了。"
     voice "miya_0044"
-    miya "「呼呼……就算我保持沉默，你也还是有了感觉呢。已经很湿了啊{image=font}」"
+    miya "「呼呼……就算我保持沉默，你也还是有了感觉呢。已经很湿了啊{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     voice "risa_0082"
-    risa "「才，才没有……不要{image=font}」"
+    risa "「才，才没有……不要{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     voice "miya_0045"
-    miya "「其实是非常渴望，让我注视的吧？因为……已经这么湿了{image=font}」"
+    miya "「其实是非常渴望，让我注视的吧？因为……已经这么湿了{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     voice "risa_0083"
     risa "「不……不要，不要说这种话啦」"
     voice "miya_0046"
-    miya "「啾……看吧，只是舔了一下……啾，唔{image=font}」"
+    miya "「啾……看吧，只是舔了一下……啾，唔{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     
     
     #※EV00P1：目を閉じ璃紗の股間をクンニする美夜の表情、切なげに感じている璃紗の表情パーツ。
@@ -918,37 +918,37 @@ label Replay01:
     risa "「啊，啊啊，不要……嗯，呜呜」"
     "从我的私处传来情欲的水声。"
     voice "miya_0047"
-    miya "「已经这么湿了……啾，舌头简单的就能进去了……嗯啾{image=font}」"
+    miya "「已经这么湿了……啾，舌头简单的就能进去了……嗯啾{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     voice "risa_0085"
     risa "「啊……不要，这样……啊嗯，好害羞……哈，哈」"
     voice "miya_0048"
     miya "「但是，被这样翻弄搅动其实很舒服吧？」"
     voice "risa_0086"
-    risa "「嗯啊，啊……哈，啊，啊……嗯{image=font}」"
+    risa "「嗯啊，啊……哈，啊，啊……嗯{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     "美夜的舌头在阴道中灵活的搅动，这种刺激使我的身体不断地颤抖。"
     voice "miya_0049"
     miya "「啾，哈……光是这样，璃纱粘粘的蜜液就流了下来……啊，好美味……啾」"
     voice "risa_0087"
-    risa "「唔……不要，太湿了……哈啊{image=font}」"
+    risa "「唔……不要，太湿了……哈啊{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     "美夜吮吸着我的爱液，故意发出声音。"
     "那样的动作，异常的下流。"
     voice "miya_0050"
-    miya "「还有……璃纱的这里也很喜欢呢……这里，也要好好的疼爱呢{image=font}」"
+    miya "「还有……璃纱的这里也很喜欢呢……这里，也要好好的疼爱呢{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     voice "risa_0088"
-    risa "「啊……不，不要……呀啊啊{image=font}　阴蒂感觉太激烈了」"
+    risa "「啊……不，不要……呀啊啊{font=Tuffy-Regular-EN.ttf}♡{/font}　阴蒂感觉太激烈了」"
     voice "miya_0051"
     miya "「啾，啾……是呢，温热的爱液又溢出来了」"
     voice "risa_0089"
-    risa "「所以……光弄那里……呀，啊啊{image=font}」"
+    risa "「所以……光弄那里……呀，啊啊{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     voice "miya_0052"
-    miya "「啊拉，是吗……那么，其他的地方也好好的疼爱一下吧」"
+    miya "「啊啦，是吗……那么，其他的地方也好好的疼爱一下吧」"
     "这样说着，美夜再次在私处入口处舔舐。"
     voice "risa_0090"
-    risa "「呀啊……啊，美夜的舌头……啊哈，进去了……啊嗯嗯，啊{image=font}」"
+    risa "「呀啊……啊，美夜的舌头……啊哈，进去了……啊嗯嗯，啊{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     voice "miya_0053"
-    miya "「璃纱的这里，微微的颤动……啊哈，真是可爱啊{image=font}」"
+    miya "「璃纱的这里，微微的颤动……啊哈，真是可爱啊{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     voice "risa_0091"
-    risa "「呜呜……啊，这样的话……好，好舒服……太棒了{image=font}」"
+    risa "「呜呜……啊，这样的话……好，好舒服……太棒了{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     voice "miya_0054"
     miya "「终于变得坦诚了呢……最喜欢璃纱了」"
     voice "risa_0092"
@@ -956,14 +956,14 @@ label Replay01:
     "因为快感太强烈，腰部自己开始上下动作。"
     "美夜对我敏感的地方，进行了强烈的刺激。"
     voice "risa_0093"
-    risa "「呀啊……啊……好，好厉害，美夜……哈啊{image=font}」"
+    risa "「呀啊……啊……好，好厉害，美夜……哈啊{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     voice "miya_0055"
     miya "「是吗……璃纱，差不多要到了吧？」"
     "美夜询问着，我微微点了点头。"
     voice "miya_0056"
     miya "「那么，向我请求吧……想要我怎么做，好好的说出来」"
     voice "risa_0094"
-    risa "「啊，啊……让我高潮吧，美夜……嗯嗯，哈啊……哈啊啊啊{image=font}」"
+    risa "「啊，啊……让我高潮吧，美夜……嗯嗯，哈啊……哈啊啊啊{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     voice "miya_0057"
     miya "「要怎么让你高潮呢？」"
     voice "risa_0095"
@@ -979,16 +979,16 @@ label Replay01:
     voice "risa_0097"
     risa "「用美夜……美夜的舌头，让我高潮……求你了，让我去吧」"
     voice "miya_0059"
-    miya "「啊，为什么用这么勾引人的表情啊……知道了{image=font}　嗯，啾……唔」"
+    miya "「啊，为什么用这么勾引人的表情啊……知道了{font=Tuffy-Regular-EN.ttf}♡{/font}　嗯，啾……唔」"
     voice "risa_0098"
-    risa "「啊，哈啊啊啊{image=font}　太厉害了，好舒服……舌头好舒服，感觉好强烈……啊哈{image=font}」"
+    risa "「啊，哈啊啊啊{font=Tuffy-Regular-EN.ttf}♡{/font}　太厉害了，好舒服……舌头好舒服，感觉好强烈……啊哈{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     "美夜的舌头激烈的动作，带来了强烈的快感。"
     voice "risa_0099"
     risa "「好棒，简直舒服得乱七八糟的……我不行了」"
     voice "miya_0060"
     miya "「啾，唔……好啊，去吧……去吧，璃纱……嗯」"
     voice "risa_0100"
-    risa "「去了……去了去了，要去了………………啊，去了{image=font}{image=font}」"
+    risa "「去了……去了去了，要去了………………啊，去了{font=Tuffy-Regular-EN.ttf}♡{/font}{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     
     
     #※EV002P2：切なげに絶頂する璃紗の表情パーツ。
@@ -998,16 +998,16 @@ label Replay01:
     
     "然后我……身体剧烈地颤抖，迎来了高潮。"
     voice "risa_0101"
-    risa "「啊……哈啊，哈啊……美夜……啊{image=font}」"
+    risa "「啊……哈啊，哈啊……美夜……啊{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     voice "miya_0061"
-    miya "「呼呼，今天实在是太美好了，璃纱。还听到了璃纱可爱的请求{image=font}」"
+    miya "「呼呼，今天实在是太美好了，璃纱。还听到了璃纱可爱的请求{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     voice "risa_0102"
     risa "「呜呜呜……我到底做了多羞耻的事情啊……呜呜」"
     "虽然事后回想起来，就会马上满脸通红。"
     "但是和美夜像这样，两个人在一起……我很喜欢。"
     "今天在回家的路上，一直孤单一人，感到非常的寂寞。"
     "果然对我来说，美夜是必要的存在。"
-    "总会陪伴在我身旁的，美夜……{image=font}"
+    "总会陪伴在我身旁的，美夜……{font=Tuffy-Regular-EN.ttf}♡{/font}"
     
     
     stop voice

@@ -146,9 +146,9 @@ label s018:
     "在见到妈妈的对象之后，这份心情变得更加强烈了。"
     "因为……呐。"
     voice "risa_1301"
-    risa "「诶嘿嘿{image=font}」"
+    risa "「诶嘿嘿{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     "作为妈妈对象的人……总觉得和美夜很像呢。"
-    "美夜长大了之后，是不是也会变成那种感觉呢……稍微有点心跳加速了呢{image=font}"
+    "美夜长大了之后，是不是也会变成那种感觉呢……稍微有点心跳加速了呢{font=Tuffy-Regular-EN.ttf}♡{/font}"
     voice "miya_1116"
     miya "「总之是安心了呢」"
 
@@ -222,7 +222,7 @@ label s018:
     show miya tmi02s at l
 
     voice "miya_1122"
-    miya "「呼呼{image=font}」"
+    miya "「呼呼{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     "咕……又在戏弄人了，美夜真是的。"
 
 
@@ -254,7 +254,7 @@ label s018:
     risa "「那个是……速写簿呢」"
     "每一代，在这画室里哺育着爱的恋人们所继承的，古老的速写簿。"
     voice "miya_1126"
-    miya "「今天就将两人之间的爱意，以『爱的言语』来写下吧{image=font}」"
+    miya "「今天就将两人之间的爱意，以『爱的言语』来写下吧{font=Tuffy-Regular-EN.ttf}♡{/font}」"
 
 
     show risa tri02s at r
@@ -299,16 +299,16 @@ label s018:
     "像是想要追我，美夜站了起來。"
     "向我靠近，然后吻了我。"
     voice "miya_1129"
-    miya "「嗯、璃纱……啾{image=font}」"
+    miya "「嗯、璃纱……啾{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     voice "risa_1315"
-    risa "「嗯、美夜、真是的……呵呵……啾{image=font}」"
+    risa "「嗯、美夜、真是的……呵呵……啾{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     "樱花乘着春风在两人之间飘舞。"
     "就像是要为我们两人带来满满的祝福一样。"
     "我们的，秘密的画室。"
     "过去在这里的恋人们，是怎样确认彼此的爱的呢……"
     "偶然想起这种事的同时，我亲吻了美夜。"
     "无论身心，我们都再次确认了彼此的爱意。"
-    "确认着名为『喜欢』的这份美好感情{image=font}"
+    "确认着名为『喜欢』的这份美好感情{font=Tuffy-Regular-EN.ttf}♡{/font}"
 
     stop voice
     window hide

@@ -124,7 +124,7 @@ label s008:
     voice "risa_0574"
     risa "「美夜……虽然你说的话很好，但为什么脸上根本没在笑呢？」"
     voice "miya_0455"
-    miya "「没那回事。肯定是你的错觉……啊，如果璃纱是那种打扮迎接我……嘿嘿{image=font}」"
+    miya "「没那回事。肯定是你的错觉……啊，如果璃纱是那种打扮迎接我……嘿嘿{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     voice "risa_0575"
     risa "「那个打扮是指……」"
     voice "miya_0456"
@@ -158,7 +158,7 @@ label s008:
     show miya tmi02f at l
 
     voice "miya_0458"
-    miya "「而且越是翘课，身为班长的璃纱就越会追来，所以不努力也可以啊{image=font}」"
+    miya "「而且越是翘课，身为班长的璃纱就越会追来，所以不努力也可以啊{font=Tuffy-Regular-EN.ttf}♡{/font}」"
 
 
     show risa tri03f at r
@@ -176,13 +176,13 @@ label s008:
     voice "risa_0580"
     risa "「真、真的吗？」"
     voice "miya_0460"
-    miya "「如果我有好好上课的话……那只要给我比璃纱追上来更好的奖励就行了{image=font}」"
+    miya "「如果我有好好上课的话……那只要给我比璃纱追上来更好的奖励就行了{font=Tuffy-Regular-EN.ttf}♡{/font}」"
 
 
     show risa tri04f at r
 
     voice "risa_0581"
-    risa "「诶！？令人开心的奖励，比如说……啊{image=font}」"
+    risa "「诶！？令人开心的奖励，比如说……啊{font=Tuffy-Regular-EN.ttf}♡{/font}」"
 
 
     show risa tri05f at r
@@ -239,7 +239,7 @@ label s008:
     show miya tmi02f at l
 
     voice "miya_0467"
-    miya "「有好好上课一个小时的话，一分钟。所以有5小时的上课时间的那天、就有五分钟的摸摸时间」"
+    miya "「有好好上课一个小时的话，一分钟。所以有5小时的上课时间的那天、就有五分钟的摸摸时间{font=Tuffy-Regular-EN.ttf}♪{/font}」"
 
 
     show risa tri04f at r
@@ -309,7 +309,7 @@ label s008:
     "25分钟，一直让美夜揉胸部的话……"
     "我绝对会变得很奇怪，身体会很奇怪的。"
     "会变得比现在还H的。"
-    "在学校对美夜……自己开口请求『揉胸部{image=font}』也说不定。"
+    "在学校对美夜……自己开口请求『揉胸部{font=Tuffy-Regular-EN.ttf}♡{/font}』也说不定。"
 
 
     show risa tri05f at r
@@ -354,7 +354,7 @@ label s008:
     show miya tmi02f at l
 
     voice "miya_0477"
-    miya "「每天勤勉的揉胸{image=font} 不是很符合喜欢勤勉努力的班长风格的奖励吗？」"
+    miya "「每天勤勉的揉胸{font=Tuffy-Regular-EN.ttf}♡{/font} 不是很符合喜欢勤勉努力的班长风格的奖励吗？」"
 
 
     show risa tri08f at r
@@ -408,13 +408,13 @@ label s008:
     voice "risa_0604"
     risa "「你再早点放弃啊」"
     voice "miya_0483"
-    miya "「嗯……那么，作为代替，现在享受好了{image=font}」"
+    miya "「嗯……那么，作为代替，现在享受好了{font=Tuffy-Regular-EN.ttf}♡{/font}」"
 
 
     show risa tri05f at r
 
     voice "risa_0605"
-    risa "「等，等下……美夜……真是的，啊啊{image=font}」"
+    risa "「等，等下……美夜……真是的，啊啊{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     "因为美夜的手正激烈地揉着胸部，并捏弄着乳首，我忍不住发出了H的声音。"
     voice "risa_0606"
     risa "「啊，呜……不行，不能再继续了……嗯」"
@@ -431,7 +431,7 @@ label s008:
 
     "我就这样被美夜压倒了。"
     "虽然很开心美夜来见我，但最后总是在H。"
-    "想着要禁欲，却变成完全都是在恩爱的春假……不过，我觉得很幸福{image=font}"
+    "想着要禁欲，却变成完全都是在恩爱的春假……不过，我觉得很幸福{font=Tuffy-Regular-EN.ttf}♡{/font}"
 
 
     #**暗転
@@ -514,7 +514,7 @@ label s008:
 
 
     voice "miya_0488"
-    miya "「………………呼呼{image=font}」"
+    miya "「………………呼呼{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     "笑，笑了……美夜居然。"
     "我家里有那么有趣的书吗。"
     "不知为何我很在意。"
@@ -603,7 +603,7 @@ label s008:
     show miya tmi02f at l
 
     voice "miya_0494"
-    miya "「想象出这样的璃纱，再读书……真是异常愉悦的时间{image=font}」"
+    miya "「想象出这样的璃纱，再读书……真是异常愉悦的时间{font=Tuffy-Regular-EN.ttf}♡{/font}」"
 
 
     show risa tri04f at r
@@ -663,7 +663,7 @@ label s008:
     voice "risa_0624"
     risa "「不是啦，我只是觉得房间有点脏了」"
     voice "miya_0499"
-    miya "「这么喜欢扫除的璃纱，房间怎么会脏呢……对于璃纱的事情，我可是什么都知道哦{image=font}」"
+    miya "「这么喜欢扫除的璃纱，房间怎么会脏呢……对于璃纱的事情，我可是什么都知道哦{font=Tuffy-Regular-EN.ttf}♡{/font}」"
 
 
     show risa tri05f at r
@@ -917,7 +917,7 @@ label s008:
 
     show risa tri02f at r
 
-    "由于我在网上中了奖，就拿着两张门票约了美夜，开始了第一次的游乐园约会{image=font}"
+    "由于我在网上中了奖，就拿着两张门票约了美夜，开始了第一次的游乐园约会{font=Tuffy-Regular-EN.ttf}♡{/font}"
     "我太兴奋了，拖着美夜到处去坐……"
     "那时候我才知道，美夜不是很擅长乘坐系的设施。"
     voice "risa_0643"
@@ -946,7 +946,7 @@ label s008:
     show miya tmi02f at l
 
     voice "miya_0522"
-    miya "「对我来说，你才是最好的游乐设施{image=font}」"
+    miya "「对我来说，你才是最好的游乐设施{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     voice "risa_0645"
     risa "「呜呜呜，不要说奇怪的话啦。现在可是优雅的茶会时间」"
     "我涨红着脸，喝着红茶。"
@@ -956,7 +956,7 @@ label s008:
     show risa tri02f at r
 
     voice "risa_0646"
-    risa "「虽然是在游乐园的土产店买的，这个Sable很可爱呢{image=font}」"
+    risa "「虽然是在游乐园的土产店买的，这个Sable很可爱呢{font=Tuffy-Regular-EN.ttf}♡{/font}」"
 
 
     show miya tmi03f at l
@@ -987,7 +987,7 @@ label s008:
     show miya tmi02f at l
 
     voice "miya_0525"
-    miya "「能给我看看吗{image=font}」"
+    miya "「能给我看看吗{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     "她的笑容很温柔，但却给人一种无言的压迫感，我只好颤抖着把装着剩下的Sable的袋子递给她。"
 
 
@@ -1035,7 +1035,7 @@ label s008:
     risa "「真是的，不要擅自决定啦」"
     "虽然美夜经常在画室里吃的点心，确实很美味。"
     voice "miya_0531"
-    miya "「不用担心。烘焙的点心要3箱就够了吧，果冻吃得很快所以要5箱，还有……」"
+    miya "「不用担心。烘焙的点心要3箱就够了吧，果冻吃得很快所以要5\n箱，还有……」"
 
 
     show risa tri03f at r
@@ -1239,7 +1239,7 @@ label s008:
     show miya tmi02f at l
 
     voice "miya_0537"
-    miya "「春假里没有班长的说教，还真是和平呢、要是一直都像春假就好了」"
+    miya "「春假里没有班长的说教，还真是和平呢、要是一直都像春假就好了{font=Tuffy-Regular-EN.ttf}♪{/font}」"
     "因为现在不上课，当然就没必要注意美夜什么。"
     "难道我平常就光是在说教吗。"
 
@@ -1329,7 +1329,7 @@ label s008:
     show risa tri05f at r
 
     voice "risa_0683"
-    risa "「我现在就已经心跳不止了……{image=font}」"
+    risa "「我现在就已经心跳不止了……{font=Tuffy-Regular-EN.ttf}♡{/font}」"
 
 
     #**暗転

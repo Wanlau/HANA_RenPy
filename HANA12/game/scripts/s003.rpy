@@ -88,7 +88,7 @@ label s003:
     show miya tmi02s at l
 
     voice "miya_0167"
-    miya "「是哦……你想被我捉弄么，璃纱{image=font}」"
+    miya "「是哦……你想被我捉弄么，璃纱{font=Tuffy-Regular-EN.ttf}♡{/font}」"
 
 
     show risa tri04s at r
@@ -98,7 +98,7 @@ label s003:
     risa "「哇哇哇，美夜你突然在说什么啊〜」"
     "而且突然把脸凑过来……"
     voice "miya_0168"
-    miya "「从刚才开始一～直，在发呆哟，璃纱。在我面前那么毫无防备的，就像在说自己想被调戏一样」"
+    miya "「从刚才开始一～直，在发呆哟，璃纱。在我面前那么毫无防备\n的，就像在说自己想被调戏一样」"
 
 
     show risa tri03s at r
@@ -262,7 +262,7 @@ label s003:
     show risa tri01s at r
 
     voice "risa_0235"
-    risa "「唔，嗯……我开动了……啊，居然是鲑鱼味的。真好吃」"
+    risa "「唔，嗯……我开动了……啊，居然是鲑鱼味的。真好吃{font=Tuffy-Regular-EN.ttf}♪{/font}」"
     "在迷你饭团中掺入的馅，虽然很小却很美味。"
     "和超市里卖的鲑鱼完全不同……一定是用高级食材做的。"
     "每个饭团加入的馅都各不相同，真的很了不起。"
@@ -331,7 +331,7 @@ label s003:
 
 
     voice "miya_0190"
-    miya "「嗯？璃纱怎么了？用这么情热的眼神看着我{image=font}」"
+    miya "「嗯？璃纱怎么了？用这么情热的眼神看着我{font=Tuffy-Regular-EN.ttf}♡{/font}」"
     voice "risa_0240"
     risa "「才，才没有看啊……」"
     voice "miya_0191"
