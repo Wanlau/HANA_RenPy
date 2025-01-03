@@ -193,6 +193,9 @@ def krkr2rpy_main(text_input):
                     if match.group(5) == 'clear':
                         clear_chars.append(ids_show[match.group(3)])
                     else:
+                        if id in ids_show:
+                            if not ids_show[id] == char:
+                                clear_chars.append(ids_show[id])
                         ids_change.setdefault(match.group(3), match.group(5))
                         chars_pos_change.setdefault(match.group(5), None)
                         chars_image_change.setdefault(match.group(5), match.group(5))
@@ -223,7 +226,7 @@ def krkr2rpy_main(text_input):
                         ids_show_list = list(ids_show)
                         for id in ids_show_list:
                             if ids_show[id] in clear_chars:
-                                hide_chars.append(ids_show[id])
+                                hide_chars.append(ids_show[id])                                
                                 del chars_pos_show[ids_show[id]]
                                 del chars_image_show[ids_show[id]]
                                 del ids_show[id] 
@@ -317,13 +320,13 @@ def krkr2rpy_main(text_input):
             elif line.startswith('#select '):
                 match00 = re.match(rf'(#select)(.*)', line)
                 matches = re.findall(rf'(\s+)(\S+)', match00.group(2))
-                last_line = result_lines[-1]
-                first_line = None
-                if last_line.endswith('\"'):
-                    first_line = last_line[:-1] + '{fast}\"'
+                #last_line = result_lines[-1]
+                #first_line = None
+                #if last_line.endswith('\"'):
+                #    first_line = last_line[:-1] + '{fast}\"'
                 result_lines.append('menu:')
-                if not first_line == None:
-                    result_lines.append('    ' + first_line)
+                #if not first_line == None:
+                #    result_lines.append('    ' + first_line)
                 select_labels = []
                 for match in matches:
                     select_labels.append(match[1])         
@@ -346,6 +349,8 @@ def krkr2rpy_main(text_input):
             else:
                 result_lines.append('\"' + line + '\"')
 
+    ##特殊字符转换
+    
     return result_lines
 
 def krkr2rpy_file_write(file_old, file_new, encoding_old='utf8', encoding_new='utf8'):
@@ -361,4 +366,4 @@ def krkr2rpy_file_write(file_old, file_new, encoding_old='utf8', encoding_new='u
 
 
 ##test
-krkr2rpy_file_write('D:\\ftest\\HANA15\\origin_files\\origin_script_CHN\\S030.src','D:\\test.rpy', encoding_old='utf_16_le') 
+krkr2rpy_file_write('D:\\ftest\\HANA15\\origin_files\\origin_script_CHN\\S063.src','D:\\test.rpy', encoding_old='utf_16_le') 
