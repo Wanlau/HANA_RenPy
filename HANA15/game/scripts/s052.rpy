@@ -837,9 +837,15 @@ label s052:
     stop voice
     window hide
 
+    $ _rollback = False
+    $ old_game_menu_screen = _game_menu_screen
+    $ _game_menu_screen = None
+
     scene end01
     with Dissolve(2)
-    pause 6
+    $ renpy.pause(delay=6,hard=True)
+    $ _game_menu_screen = old_game_menu_screen
+    $ _rollback = True
 
     stop music fadeout 4.0
     scene black with Dissolve(4)
