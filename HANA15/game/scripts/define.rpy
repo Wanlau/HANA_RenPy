@@ -36,7 +36,7 @@ init -2:
     define member_b = Character('会员B', color="#09B5FF")
     define member_c = Character('会员C', color="#09B5FF")
     define staff = Character('工作人员', color="#09B5FF")
-    define camera = Character('摄影师', color="#09B5FF")
+    define camera0 = Character('摄影师', color="#09B5FF")
     define manager = Character('经纪人', color="#09B5FF")
     define monitor = Character('监督', color="#09B5FF")
 

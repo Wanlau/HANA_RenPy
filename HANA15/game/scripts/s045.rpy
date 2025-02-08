@@ -573,7 +573,6 @@ label true_route01:
 
 
     stop music fadeout 2.0
-    scene black  with fade2
     pause 1
 
     jump s046

@@ -8,7 +8,6 @@ label start:
     with fade2
 
     if persistent.Ending01 == True:
-        window show
         menu:
             "从头开始":
                 window hide

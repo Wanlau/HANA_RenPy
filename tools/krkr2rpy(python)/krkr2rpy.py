@@ -350,7 +350,11 @@ def krkr2rpy_main(text_input):
                 result_lines.append('\"' + line + '\"')
 
     ##特殊字符转换
-    
+    for i in range(0, len(result_lines)):        
+        if not re.search(r'\\001', result_lines[i]) == None:
+            result_lines[i] = result_lines[i].replace('\\001', '{font=Tuffy-Regular-EN.ttf}♡{/font}')
+        if not re.search('♪', result_lines[i]) == None:
+            result_lines[i] = result_lines[i].replace('♪', '{font=Tuffy-Regular-EN.ttf}♪{/font}')
     return result_lines
 
 def krkr2rpy_file_write(file_old, file_new, encoding_old='utf8', encoding_new='utf8'):
@@ -366,4 +370,4 @@ def krkr2rpy_file_write(file_old, file_new, encoding_old='utf8', encoding_new='u
 
 
 ##test
-krkr2rpy_file_write('D:\\ftest\\HANA15\\origin_files\\origin_script_CHN\\S063.src','D:\\test.rpy', encoding_old='utf_16_le') 
+krkr2rpy_file_write('D:\\ftest\\HANA15\\origin_files\\origin_script_CHN\\S088.src','D:\\test.rpy', encoding_old='utf_16_le') 

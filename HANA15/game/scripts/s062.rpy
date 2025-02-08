@@ -947,7 +947,6 @@ label midway_ending02:
 
 
     stop music fadeout 2.0
-    scene black  with fade2
     pause 1
 
     #//END
