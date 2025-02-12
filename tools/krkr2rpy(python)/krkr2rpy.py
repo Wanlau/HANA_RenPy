@@ -370,4 +370,4 @@ def krkr2rpy_file_write(file_old, file_new, encoding_old='utf8', encoding_new='u
 
 
 ##test
-krkr2rpy_file_write('D:\\ftest\\HANA15\\origin_files\\origin_script_CHN\\S088.src','D:\\test.rpy', encoding_old='utf_16_le') 
+krkr2rpy_file_write('D:\\ftest\\HANA15\\origin_files\\origin_script_CHN\\S090.src','D:\\test.rpy', encoding_old='utf_16_le') 

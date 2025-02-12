@@ -10,7 +10,7 @@
 
 同样基于Ren'Py引擎的花吻二创同人作品的代码将放在另一个仓库里。
 
-本仓库中的krkr2转rpy的工具拉取自bbs3223474的仓库[HANA16_Renpy](https://github.com/bbs3223474/HANA16_Renpy)，在其基础上有删改。
+本仓库中的krkr2转rpy的html工具拉取自bbs3223474的仓库[HANA16_Renpy](https://github.com/bbs3223474/HANA16_Renpy)，在其基础上有删改。
 
 ## HANA12
 
@@ -33,6 +33,14 @@
 EXunlock里的是CG、回想全开工具，仅可用于对应的花吻视觉小说的Ren'Py移植版。
 
 使用时，将`.rpyc`文件放至`game/`目录下，然后启动游戏即可。
+
+## FSBugFix
+
+其他组制作的Ren'Py移植中文版的bug修复文件。
+
+含更新后的`.rpy`及`.rpyc`文件，以便诸君阅读和使用。
+
+（目前，修复了HANA02和HANA19的文本错位问题。）
 
 ## 链接
 
