@@ -12,6 +12,16 @@
 
 本仓库中的krkr2转rpy的html工具拉取自bbs3223474的仓库[HANA16_Renpy](https://github.com/bbs3223474/HANA16_Renpy)，在其基础上有删改。
 
+## HANA10中文补丁
+
+本补丁基于由NYAN制作的『莉莉·白金』Ren'Py移植版。
+
+运行此游戏，请先从[NYAN的博客](https://nyan-h.blogspot.com/2024/09/sono-hanabira-ni-kuchizuke-o-lily.html?m=1)中获取HANA10的Ren'Py移植版。
+
+将补丁里的rpy脚本复制到对应的目录中。
+
+运行此游戏还须下载图像以及字体文件。
+
 ## HANA12
 
 已完成。

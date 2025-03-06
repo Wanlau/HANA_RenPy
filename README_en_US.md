@@ -6,6 +6,16 @@ Ren'Py codes for the visual novel <i>A Kiss For The Petals</i>.
 
 The .html tool for <i>krkr2rpy</i> is forked from [HANA16_Renpy](https://github.com/bbs3223474/HANA16_Renpy), it had been updated for new Ren'Py version.
 
+## HANA10 translation patch (CN)
+
+This patch is based on the Ren'Py version HANA10 made by NYAN.
+
+To run the game, you should get the Ren'Py version HANA10 from [NYAN's blog](https://nyan-h.blogspot.com/2024/09/sono-hanabira-ni-kuchizuke-o-lily.html?m=1).
+
+Then, copy the rpy scripts in the patch to `game` directory of HANA10.
+
+To run the game, you should also download fonts and the images for GUI.
+
 ## HANA12
 
 done
