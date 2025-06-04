@@ -12,6 +12,16 @@
 
 本仓库中的krkr2转rpy的html工具拉取自bbs3223474的仓库[HANA16_Renpy](https://github.com/bbs3223474/HANA16_Renpy)，在其基础上有删改。
 
+## HANA8p5
+
+HANA8p5(HANAHIRA!)
+
+此移植将包含中日英三语。
+
+中文部分已完成。
+
+本仓库中只含rpy代码，若想运行游戏，还须下载图像、音频、字体等文件。
+
 ## HANA10中文补丁
 
 本补丁基于由NYAN制作的『莉莉·白金』Ren'Py移植版。

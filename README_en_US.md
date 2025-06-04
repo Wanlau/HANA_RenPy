@@ -16,6 +16,16 @@ Then, copy the rpy scripts in the patch to `game` directory of HANA10.
 
 To run the game, you should also download fonts and the images for GUI.
 
+## HANA8p5
+
+HANA8p5(HANAHIRA!)
+
+There will be Chinese, Japanese and English 3 languages
+
+Chinese part done.
+
+There are only rpy codes in this repository. To run the game, you should also download images, audios, fonts and other files.
+
 ## HANA12
 
 done
