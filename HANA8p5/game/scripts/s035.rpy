@@ -479,9 +479,9 @@ label s035:
 label select03:
     menu:
         amane "「佳织酱，佳织酱，帮你擦背吧！」{fast}"
-        "放弃抵抗":
+        "『放弃抵抗』":
             jump select03_1
-        "很难为情":
+        "『很难为情』":
             jump select03_2
 
 label select03_1:

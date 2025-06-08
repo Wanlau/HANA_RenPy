@@ -70,7 +70,7 @@ default lily_rank = 0
 
 ##for mobile phone 
 define config.dispatch_gesture = None
-define config.gestures = { "e_w" : "save_delete" , "e_s" : "hide_windows", "e_n" : "hide_windows"}
+define config.gestures = { "e_s" : "hide_windows", "e_n" : "hide_windows"}
 
 python early:
     config.save_directory = "HANA08p5"

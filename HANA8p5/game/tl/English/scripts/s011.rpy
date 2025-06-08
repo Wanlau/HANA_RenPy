@@ -503,10 +503,10 @@ translate English select02_end_4c54cee2:
 
 
 translate English strings:
-    old "帮忙擦掉"
+    old "『帮忙擦掉』"
     new "Get it for her"
 
-    old "放任不管"
+    old "『放任不管』"
     new "Leave it be"
 
     old "『午休』"

@@ -453,9 +453,9 @@ translate English select01_end_f988127d:
 
 
 translate English strings:
-    old "着迷于笑脸"
+    old "『着迷于笑脸』"
     new "Admire her smile"
 
-    old "尽早开工"
+    old "『尽早开工』"
     new "Quickly move on"
 

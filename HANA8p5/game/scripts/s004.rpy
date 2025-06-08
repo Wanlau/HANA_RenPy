@@ -309,9 +309,9 @@ label s004:
 label select01:
     menu:
         amane "「呵呵{note}」{fast}"
-        "着迷于笑脸":
+        "『着迷于笑脸』":
             jump select01_1
-        "尽早开工":
+        "『尽早开工』":
             jump select01_2
 
 label select01_1:

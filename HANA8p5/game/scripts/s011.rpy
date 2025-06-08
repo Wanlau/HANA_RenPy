@@ -239,9 +239,9 @@ label s011:
 label select02:
     menu:
         amane "「诶？」{fast}"
-        "帮忙擦掉":
+        "『帮忙擦掉』":
             jump select02_1
-        "放任不管":
+        "『放任不管』":
             jump select02_2
 
 label select02_1:

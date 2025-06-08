@@ -183,9 +183,9 @@ label s044:
 label select04:
     menu:
         amane "「更换的衣服在哪里呢。佳织酱，可以打开衣柜吗？」{fast}"
-        "不行！？":
+        "『不行！？』":
             jump select04_1
-        "……可以":
+        "『……可以』":
             jump select04_2
 
 label select04_1:

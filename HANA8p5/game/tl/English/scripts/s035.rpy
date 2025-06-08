@@ -544,9 +544,9 @@ translate English select03_end_46382e43:
 
 
 translate English strings:
-    old "放弃抵抗"
+    old "『放弃抵抗』"
     new "Give up"
 
-    old "很难为情"
+    old "『很难为情』"
     new "It's embarrassing!"
 

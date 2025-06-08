@@ -480,9 +480,9 @@ translate English select04_end_bc0bb907:
 
 
 translate English strings:
-    old "不行！？"
+    old "『不行！？』"
     new "Are you kidding?!"
 
-    old "……可以"
+    old "『……可以』"
     new "...fine"
 
