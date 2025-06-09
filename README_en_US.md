@@ -22,7 +22,7 @@ HANA8p5(HANAHIRA!)
 
 There will be Chinese, Japanese and English 3 languages
 
-Chinese part done.
+done
 
 There are only rpy codes in this repository. To run the game, you should also download images, audios, fonts and other files.
 
