@@ -181,6 +181,9 @@ screen save():
         hotspot (717,25,32,32) action FilePage(9)
         hotspot (752,25,32,32) action FilePage(10)
 
+        if renpy.mobile:
+            hotspot (25,550,110,40) action ShowMenu("delete")
+
 
     if persistent.controls == 0:
         key "K_ESCAPE" action Return()
@@ -245,6 +248,70 @@ screen load():
         hotspot (682,25,32,32) action FilePage(8)
         hotspot (717,25,32,32) action FilePage(9)
         hotspot (752,25,32,32) action FilePage(10)
+
+        if renpy.mobile:
+            hotspot (25,550,110,40) action ShowMenu("delete")
+
+    if persistent.controls == 0:
+        key "K_ESCAPE" action Return()
+
+screen delete():
+    tag menu
+
+    imagemap:
+        ground "images/ui/file_ground_delete.png"
+        idle "images/ui/file_idle.png"
+        hover "images/ui/file_hover.png"
+        selected_idle "images/ui/file_selected_idle.png"
+        selected_hover "images/ui/file_selected_hover.png"
+        insensitive "images/ui/file_insensitive.png"
+        alpha False
+
+
+        for i in range(1,6):
+
+            $ file_name = FileSlotName(i,10)
+            $ file_time = FileTime(i, format='%Y年%m月%d日 %H:%M', empty="")
+            $ save_name = FileSaveName(i)
+
+            hotspot (20,75 + ((i-1) * 95),370,90):
+
+                action FileDelete(i)
+                add FileScreenshot(i) xpos 9 ypos 9
+                if not persistent.hide_savename:
+                    text "\n[save_name!t]" style "save_slot"
+                text "[file_name]. [file_time!t]" style "save_slot" size 16
+
+
+        for i in range(1,6):
+
+            $ file_name = FileSlotName(i + 5,10)
+            $ file_time = FileTime(i + 5, format='%Y年%m月%d日 %H:%M', empty="")
+            $ save_name = FileSaveName(i + 5)
+
+            hotspot (410,75 + ((i-1) * 95),370,90):
+
+                action FileDelete(i + 5)
+                add FileScreenshot(i + 5) xpos 9 ypos 9
+                if not persistent.hide_savename:
+                    text "\n[save_name!t]" style "save_slot"
+                text "[file_name]. [file_time!t]" style "save_slot" size 16
+
+
+        hotspot (680,550,100,40) action Return()
+        hotspot (297,25,68,32) action FilePage("auto")
+        hotspot (367,25,68,32) action FilePage("quick")
+        hotspot (437,25,32,32) action FilePage(1)
+        hotspot (472,25,32,32) action FilePage(2)
+        hotspot (507,25,32,32) action FilePage(3)
+        hotspot (542,25,32,32) action FilePage(4)
+        hotspot (577,25,32,32) action FilePage(5)
+        hotspot (612,25,32,32) action FilePage(6)
+        hotspot (647,25,32,32) action FilePage(7)
+        hotspot (682,25,32,32) action FilePage(8)
+        hotspot (717,25,32,32) action FilePage(9)
+        hotspot (752,25,32,32) action FilePage(10)
+
 
     if persistent.controls == 0:
         key "K_ESCAPE" action Return()
